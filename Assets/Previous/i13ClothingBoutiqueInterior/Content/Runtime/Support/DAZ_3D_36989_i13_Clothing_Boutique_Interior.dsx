@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentDBInstall VERSION="1.0">
+ <Products>
+  <Product VALUE="i13 Clothing Boutique Interior">
+   <StoreID VALUE="DAZ 3D"/>
+   <GlobalID VALUE="60a2034f-f5c5-4066-a405-32863fade22e"/>
+   <ProductToken VALUE="36989"/>
+   <Artists>
+    <Artist VALUE="ironman13"/>
+   </Artists>
+   <Assets>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Separate Items/i13CB Bench.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Furnishings/Furniture"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior/Dressing Bench"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 01.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 02.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 03.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 04.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 05.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 06.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 07.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 08.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 09.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 10.duf">
+     <ContentType VALUE="Preset/Camera"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Cameras"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Separate Items/i13CB Clothing Rack.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Furnishings/Decor"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior/Clothing Rack"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Separate Items/i13CB Display Case.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Furnishings/Furniture"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior/Display Case"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload Empty Version.duf">
+     <ContentType VALUE="Set"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Environments/Architecture/Interior"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload.duf">
+     <ContentType VALUE="Set"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Environments/Architecture/Interior"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render Empty Version.duf">
+     <ContentType VALUE="Scene"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Environments/Architecture/Interior"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render.duf">
+     <ContentType VALUE="Scene"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Environments/Architecture/Interior"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Separate Items/i13CB Seat.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Furnishings/Furniture"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior/Center Seat"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Purse.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Furnishings/Decor"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior/Single Purse"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Shopping Bag.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Furnishings/Decor"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior/Single Shopping Bag"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Environments/i13/Clothing Boutique/CB Separate Items/i13CB Stool.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Furnishings/Furniture"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Clothing Boutique Interior"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Clothing Boutique Interior/Checkout Stool"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+   </Assets>
+   <SupportAssets VALUE="/Runtime/Support/DAZ_3D_36989_i13_Clothing_Boutique_Interior.dsx">
+    <SupportAsset VALUE="/Environments/i13.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 01.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 01.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 02.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 02.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 03.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 03.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 04.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 04.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 05.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 05.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 06.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 06.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 07.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 07.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 08.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 08.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 09.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 09.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 10.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 10.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload Empty Version.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload Empty Version.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render Empty Version.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render Empty Version.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Bench.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Bench.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Clothing Rack.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Clothing Rack.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Display Case.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Display Case.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Seat.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Seat.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Purse.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Purse.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Shopping Bag.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Shopping Bag.duf.png"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Stool.duf"/>
+    <SupportAsset VALUE="/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Stool.duf.png"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_36989_i13_Clothing_Boutique_Interior.dsa"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_36989_i13_Clothing_Boutique_Interior.dsx"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_36989_i13_Clothing_Boutique_Interior.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Black_LeatherbaseColor.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Black_Leathernormal.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Black_Leatherroughness.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Black_SuadebaseColor.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_color.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_metalness.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_nmap.png"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_rough.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_DressingRoom_A.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_DressingRoom_B.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_DressingRoom_Bump.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Logo.png"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Logo2.png"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Mannequin_03 (2)_Pants_color.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Marble_Polished_Red_diffuse_M.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Marble_Polished_White-2_diffuse.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_POS-gui.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_POS-gui2.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_POS-reciept.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_POS-reciept2.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_POS-total1.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_POS-total2.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Pants_Normal.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Wall_Bump.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Wall_E.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_WoodbaseColor.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_WoodbaseColor2.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13DS_Woodroughness.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Grey_SuadebaseColor.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Grey_Suadenormal.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Grey_Suaderoughness.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Leather_WhitebaseColor.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13WallbaseColor.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Wallnormal.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13Wallroughness.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13_Concrete.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13_ConcreteRough.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13_Concrete_Metal.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13_DS_SwadebaseColor.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13_DS_Swadenormal.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13_DS_Swaderoughness.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13blank-cotton.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Department Store/i13blank-cottonN.jpg"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Ceiling/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Ceiling/i13DS Celing.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 1.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 3.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 4.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Center Seat/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Center Seat/i13DS Lounge Seat.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Checkout Desk/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Checkout Desk/i13DS Checkout Desk.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Checkout Register/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Checkout Register/i13DS Register.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Checkout Stool/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Checkout Stool/i13DS Checkout Stool.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Hanger/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Hanger/i13DS Hanger.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Top Crop/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Top Crop/i13DS Crop.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Top Long/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Top Long/i13DS Long Tee.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Top Tee/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack Top Tee/i13DS Tee.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Clothing Rack/i13DS Clothing Rack.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Bangles 2/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Bangles 2/i13DS Bangles 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Bangles/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Bangles/i13DS Bangles.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Box 2/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Box 2/i13DS Box 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Box/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Box/i13DS Box.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Brooch/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Brooch/i13DS Brooch.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Compact Large/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Compact Large/i13DS Compact Large.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Compact Small/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Compact Small/i13DS Compact Small.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Hearts/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Hearts/i13DS Hearts.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Pearls/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Pearls/i13DS Pearls.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Rings/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case Rings/i13DS Rings.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Display Case/i13DS Slthing Stand.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dress Short/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dress Short/i13DR Dress Short.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Bench/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Bench/i13DS Bench.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Hooks/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Hooks/i13DS HookBoard.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Mirror/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Mirror/i13DS Mirror.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room B/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room B/i13DS Dressing Room 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room Desk/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room Desk/i13DS Dressing Room Desk.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room Door 2/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room Door 2/i13DS Dressing Room Door 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room Door/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room Door/i13DS Dressing Room Door.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Dressing Room/i13DS Dressing Room.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Emergency Lights/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Emergency Lights/i13DS Emergency Lights.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Floor/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Floor/i13DS Floor.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Low Poly Hanger/LowPolyHanger.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Low Poly Hanger/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 2 Glasses/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 2 Glasses/i13DS_Glasses (4).dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 2 Hat/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 2 Hat/i13DS_Hat (2).dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 2/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 2/i13DS_Mannequin_02 (2).dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 3/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 3/i13DS_Mannequin_03 (2).dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 4/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin 4/i13DS_Mannequin_05.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin Group/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin Group/manaquin group.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mannequin/i13DS Manaquin.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mesh Light/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Mesh Light/i13_Mesh_Light.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Necklace Support/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Necklace Support/i13DS Jewellwry.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Necklace/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Necklace/i13DS Necklace.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Racks/Racks.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Racks/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shelf 2 Contents/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shelf 2 Contents/i13DS Rsck Full.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shelf 2 Support/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shelf 2 Support/i13DS Stand.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shelf 2/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shelf 2/i13DS Shelf 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 1/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 1/i13DS Shoe 1.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 2/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 2/i13DS Shoe 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 3/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 3/i13DS Shoe 3.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 4/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 4/i13DS Shoe 4.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 5/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 5/i13DS Shoe 5.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 6/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 6/i13DS Shoe 6.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 7/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 7/i13DS Shoe 7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 8/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe 8/i13DS Shoe 8.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe Stand/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shoe Stand/i13DS Clothing Stand.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shopping Bag/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Shopping Bag/single shopping bag.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Single Purse/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Single Purse/single purse.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Tilted Seat/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Tilted Seat/UnusedSeat.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Back/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Back/i13DS Wall Back.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Front Door/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Front Door/i13DS Door.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Front/UV Sets/I13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Front/i13DS Wall Front.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Shelf 3/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Shelf 3/i13DS Display.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Shelf Contents/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Shelf Contents/i13DS Shlef.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Shelf/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/i13CB Wall Shelf/i13DS Wall Shelf.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/u13CB Wall Shelf 3 Contents/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Clothing Boutique/u13CB Wall Shelf 3 Contents/i13DS Shlef 2.dsf"/>
+   </SupportAssets>
+   <ObjectCompatibilities>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Checkout%20Stool/i13DS%20Checkout%20Stool.dsf#i13DS%20Checkout%20Stool" REF="/i13 Clothing Boutique Interior/Checkout Stool"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shopping%20Bag/single%20shopping%20bag.dsf#single%20shopping%20bag" REF="/i13 Clothing Boutique Interior/Single Shopping Bag"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Single%20Purse/single%20purse.dsf#single%20purse" REF="/i13 Clothing Boutique Interior/Single Purse"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Center%20Seat/i13DS%20Lounge%20Seat.dsf#i13DS%20Lounge%20Seat" REF="/i13 Clothing Boutique Interior/Center Seat"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case/i13DS%20Slthing%20Stand.dsf#i13DS%20Slthing%20Stand" REF="/i13 Clothing Boutique Interior/Display Case"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Clothing%20Rack/i13DS%20Clothing%20Rack.dsf#i13DS%20Clothing%20Rack" REF="/i13 Clothing Boutique Interior/Clothing Rack"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Bench/i13DS%20Bench.dsf#i13DS%20Bench" REF="/i13 Clothing Boutique Interior/Dressing Bench"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Low%20Poly%20Hanger/LowPolyHanger.dsf#LowPolyHanger" REF="/i13 Clothing Boutique Interior/hanger 5"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Clothing%20Rack%20Top%20Tee/i13DS%20Tee.dsf#i13DS%20Tee" REF="/i13 Clothing Boutique Interior/Clothing Rack Top Tee"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dress%20Short/i13DR%20Dress%20Short.dsf#i13DR%20Dress%20Short" REF="/i13 Clothing Boutique Interior/Clothing Rack Top Dress"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Clothing%20Rack%20Top%20Crop/i13DS%20Crop.dsf#i13DS%20Crop" REF="/i13 Clothing Boutique Interior/Clothing Rack Top Crop"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Clothing%20Rack%20Top%20Long/i13DS%20Long%20Tee.dsf#i13DS%20Long%20Tee" REF="/i13 Clothing Boutique Interior/Clothing Rack Top Long"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Box%202/i13DS%20Box%202.dsf#i13DS%20Box%202" REF="/i13 Clothing Boutique Interior/Display Case Box 2"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Brooch/i13DS%20Brooch.dsf#i13DS%20Brooch" REF="/i13 Clothing Boutique Interior/Display Case Brooch"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Compact%20Large/i13DS%20Compact%20Large.dsf#i13DS%20Compact%20Large" REF="/i13 Clothing Boutique Interior/Display Case Compact Large"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Compact%20Small/i13DS%20Compact%20Small.dsf#i13DS%20Compact%20Small" REF="/i13 Clothing Boutique Interior/Display Case Compact Small"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Hearts/i13DS%20Hearts.dsf#i13DS%20Hearts" REF="/i13 Clothing Boutique Interior/Display Case Hearts"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Pearls/i13DS%20Pearls.dsf#i13DS%20Pearls" REF="/i13 Clothing Boutique Interior/Display Case Pearls"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Rings/i13DS%20Rings.dsf#i13DS%20Rings" REF="/i13 Clothing Boutique Interior/Display Case Rings"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Box/i13DS%20Box.dsf#i13DS%20Box" REF="/i13 Clothing Boutique Interior/Display Case Box"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Bangles%202/i13DS%20Bangles%202.dsf#i13DS%20Bangles%202" REF="/i13 Clothing Boutique Interior/Display Case Bangles 2"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Display%20Case%20Bangles/i13DS%20Bangles.dsf#i13DS%20Bangles" REF="/i13 Clothing Boutique Interior/Display Case Bangles"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mesh%20Light/i13_Mesh_Light.dsf#i13_Mesh_Light" REF="/i13 Clothing Boutique Interior/i13_Mesh_Light"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Ceiling/i13DS%20Celing.dsf#i13DS%20Celing" REF="/i13 Clothing Boutique Interior/Ceiling"/>
+    <ObjectCompatibility VALUE="/data/I13/Clothing%20Boutique/i13CB%20Wall%20Front/i13DS%20Wall%20Front.dsf#i13DS%20Wall%20Front" REF="/i13 Clothing Boutique Interior/Wall Front"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Wall%20Front%20Door/i13DS%20Door.dsf#i13DS%20Door" REF="/i13 Clothing Boutique Interior/Wall Front Door"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Room%20Desk/i13DS%20Dressing%20Room%20Desk.dsf#i13DS%20Dressing%20Room%20Desk" REF="/i13 Clothing Boutique Interior/Dressing Room Desk"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Floor/i13DS%20Floor.dsf#i13DS%20Floor" REF="/i13 Clothing Boutique Interior/Floor"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Wall%20Back/i13DS%20Wall%20Back.dsf#i13DS%20Wall%20Back" REF="/i13 Clothing Boutique Interior/Wall Back"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Wall%20Shelf/i13DS%20Wall%20Shelf.dsf#i13DS%20Wall%20Shelf" REF="/i13 Clothing Boutique Interior/Wall Shelf"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shelf%202%20Support/i13DS%20Stand.dsf#i13DS%20Stand" REF="/i13 Clothing Boutique Interior/Shelf 2 Support"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shelf%202/i13DS%20Shelf%202.dsf#i13DS%20Shelf%202" REF="/i13 Clothing Boutique Interior/Shelf 2"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Checkout%20Desk/i13DS%20Checkout%20Desk.dsf#i13DS%20Checkout%20Desk" REF="/i13 Clothing Boutique Interior/Checkout Desk"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%20Stand/i13DS%20Clothing%20Stand.dsf#i13DS%20Clothing%20Stand" REF="/i13 Clothing Boutique Interior/Shoe Stand"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Wall%20Shelf%203/i13DS%20Display.dsf#i13DS%20Display" REF="/i13 Clothing Boutique Interior/Wall Shelf 3"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mannequin%20Group/manaquin%20group.dsf#manaquin%20group" REF="/i13 Clothing Boutique Interior/Mannequin Group"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Racks/Racks.dsf#Racks" REF="/i13 Clothing Boutique Interior/Racks"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Tilted%20Seat/UnusedSeat.dsf#UnusedSeat" REF="/i13 Clothing Boutique Interior/Tilted Seat"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Emergency%20Lights/i13DS%20Emergency%20Lights.dsf#i13DS%20Emergency%20Lights" REF="/i13 Clothing Boutique Interior/Emergency Lights"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Mirror/i13DS%20Mirror.dsf#i13DS%20Mirror" REF="/i13 Clothing Boutique Interior/Dressing Mirror"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Room%20Door/i13DS%20Dressing%20Room%20Door.dsf#i13DS%20Dressing%20Room%20Door" REF="/i13 Clothing Boutique Interior/Dressing Room Door"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Room%20Door%202/i13DS%20Dressing%20Room%20Door%202.dsf#i13DS%20Dressing%20Room%20Door%202" REF="/i13 Clothing Boutique Interior/Dressing Room Door 2"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Hooks/i13DS%20HookBoard.dsf#i13DS%20HookBoard" REF="/i13 Clothing Boutique Interior/Dressing Hooks"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Room/i13DS%20Dressing%20Room.dsf#i13DS%20Dressing%20Room" REF="/i13 Clothing Boutique Interior/Dressing Room"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Dressing%20Room%20B/i13DS%20Dressing%20Room%202.dsf#i13DS%20Dressing%20Room%202" REF="/i13 Clothing Boutique Interior/Dressing Room B"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Wall%20Shelf%20Contents/i13DS%20Shlef.dsf#i13DS%20Shlef" REF="/i13 Clothing Boutique Interior/Wall Shelf Contents"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mannequin/i13DS%20Manaquin.dsf#i13DS%20Manaquin" REF="/i13 Clothing Boutique Interior/Mannequin"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mannequin%202/i13DS_Mannequin_02%20%282%29.dsf#i13DS_Mannequin_02%20%282%29" REF="/i13 Clothing Boutique Interior/Mannequin 2"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mannequin%202%20Hat/i13DS_Hat%20%282%29.dsf#i13DS_Hat%20%282%29" REF="/i13 Clothing Boutique Interior/Mannequin 2 Hat"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mannequin%202%20Glasses/i13DS_Glasses%20%284%29.dsf#i13DS_Glasses%20%284%29" REF="/i13 Clothing Boutique Interior/Mannequin 2 Glasses"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Necklace%20Support/i13DS%20Jewellwry.dsf#i13DS%20Jewellwry" REF="/i13 Clothing Boutique Interior/Necklace Support"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Necklace/i13DS%20Necklace.dsf#i13DS%20Necklace" REF="/i13 Clothing Boutique Interior/Necklace"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mannequin%204/i13DS_Mannequin_05.dsf#i13DS_Mannequin_05" REF="/i13 Clothing Boutique Interior/Mannequin 4"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shelf%202%20Contents/i13DS%20Rsck%20Full.dsf#i13DS%20Rsck%20Full" REF="/i13 Clothing Boutique Interior/Shelf 2 Contents"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Mannequin%203/i13DS_Mannequin_03%20%282%29.dsf#i13DS_Mannequin_03%20%282%29" REF="/i13 Clothing Boutique Interior/Mannequin 3"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Checkout%20Register/i13DS%20Register.dsf#i13DS%20Register" REF="/i13 Clothing Boutique Interior/Checkout Register"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%201/i13DS%20Shoe%201.dsf#i13DS%20Shoe%201" REF="/i13 Clothing Boutique Interior/Shoe 1"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%202/i13DS%20Shoe%202.dsf#i13DS%20Shoe%202" REF="/i13 Clothing Boutique Interior/Shoe 2"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%203/i13DS%20Shoe%203.dsf#i13DS%20Shoe%203" REF="/i13 Clothing Boutique Interior/Shoe 3"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%204/i13DS%20Shoe%204.dsf#i13DS%20Shoe%204" REF="/i13 Clothing Boutique Interior/Shoe 4"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%205/i13DS%20Shoe%205.dsf#i13DS%20Shoe%205" REF="/i13 Clothing Boutique Interior/Shoe 5"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%206/i13DS%20Shoe%206.dsf#i13DS%20Shoe%206" REF="/i13 Clothing Boutique Interior/Shoe 6"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%207/i13DS%20Shoe%207.dsf#i13DS%20Shoe%207" REF="/i13 Clothing Boutique Interior/Shoe 7"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/i13CB%20Shoe%208/i13DS%20Shoe%208.dsf#i13DS%20Shoe%208" REF="/i13 Clothing Boutique Interior/Shoe 8"/>
+    <ObjectCompatibility VALUE="/data/i13/Clothing%20Boutique/u13CB%20Wall%20Shelf%203%20Contents/i13DS%20Shlef%202.dsf#i13DS%20Shlef%202" REF="/i13 Clothing Boutique Interior/Wall Shelf 3 Contents"/>
+   </ObjectCompatibilities>
+  </Product>
+ </Products>
+</ContentDBInstall>

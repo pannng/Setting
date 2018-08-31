@@ -1,0 +1,232 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="60a2034f-f5c5-4066-a405-32863fade22e"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Ceiling/i13DS Celing.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Ceiling/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Center Seat/i13DS Lounge Seat.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 1.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 3.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph 4.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Center Seat/Morphs/i13/Base/ZBrush Morph.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Center Seat/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Checkout Desk/i13DS Checkout Desk.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Checkout Desk/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Checkout Register/i13DS Register.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Checkout Register/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Checkout Stool/i13DS Checkout Stool.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Checkout Stool/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack/i13DS Clothing Rack.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Hanger/i13DS Hanger.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Hanger/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Top Crop/i13DS Crop.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Top Crop/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Top Long/i13DS Long Tee.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Top Long/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Top Tee/i13DS Tee.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Clothing Rack Top Tee/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case/i13DS Slthing Stand.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Bangles/i13DS Bangles.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Bangles/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Bangles 2/i13DS Bangles 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Bangles 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Box/i13DS Box.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Box/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Box 2/i13DS Box 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Box 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Brooch/i13DS Brooch.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Brooch/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Compact Large/i13DS Compact Large.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Compact Large/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Compact Small/i13DS Compact Small.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Compact Small/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Hearts/i13DS Hearts.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Hearts/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Pearls/i13DS Pearls.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Pearls/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Rings/i13DS Rings.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Display Case Rings/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dress Short/i13DR Dress Short.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dress Short/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Bench/i13DS Bench.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Bench/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Hooks/i13DS HookBoard.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Hooks/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Mirror/i13DS Mirror.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Mirror/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room/i13DS Dressing Room.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room B/i13DS Dressing Room 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room B/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room Desk/i13DS Dressing Room Desk.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room Desk/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room Door/i13DS Dressing Room Door.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room Door/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room Door 2/i13DS Dressing Room Door 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Dressing Room Door 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Emergency Lights/i13DS Emergency Lights.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Emergency Lights/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Floor/i13DS Floor.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Floor/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Low Poly Hanger/LowPolyHanger.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Low Poly Hanger/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin/i13DS Manaquin.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 2/i13DS_Mannequin_02 (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 2 Glasses/i13DS_Glasses (4).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 2 Glasses/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 2 Hat/i13DS_Hat (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 2 Hat/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 3/i13DS_Mannequin_03 (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 3/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 4/i13DS_Mannequin_05.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin 4/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin Group/manaquin group.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mannequin Group/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mesh Light/i13_Mesh_Light.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Mesh Light/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Necklace/i13DS Necklace.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Necklace/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Necklace Support/i13DS Jewellwry.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Necklace Support/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Racks/Racks.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Racks/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shelf 2/i13DS Shelf 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shelf 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shelf 2 Contents/i13DS Rsck Full.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shelf 2 Contents/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shelf 2 Support/i13DS Stand.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shelf 2 Support/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 1/i13DS Shoe 1.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 1/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 2/i13DS Shoe 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 3/i13DS Shoe 3.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 3/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 4/i13DS Shoe 4.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 4/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 5/i13DS Shoe 5.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 5/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 6/i13DS Shoe 6.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 6/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 7/i13DS Shoe 7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 7/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 8/i13DS Shoe 8.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe 8/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe Stand/i13DS Clothing Stand.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shoe Stand/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shopping Bag/single shopping bag.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Shopping Bag/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Single Purse/single purse.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Single Purse/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Tilted Seat/UnusedSeat.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Tilted Seat/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Back/i13DS Wall Back.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Back/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Front/i13DS Wall Front.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Front/UV Sets/I13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Front Door/i13DS Door.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Front Door/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Shelf/i13DS Wall Shelf.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Shelf/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Shelf 3/i13DS Display.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Shelf 3/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Shelf Contents/i13DS Shlef.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/i13CB Wall Shelf Contents/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/u13CB Wall Shelf 3 Contents/i13DS Shlef 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Clothing Boutique/u13CB Wall Shelf 3 Contents/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 01.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 01.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 02.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 02.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 03.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 03.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 04.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 04.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 05.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 05.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 06.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 06.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 07.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 07.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 08.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 08.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 09.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 09.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 10.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Camera Presets/i13CB Camera 10.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload Empty Version.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload Empty Version.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Preload.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render Empty Version.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render Empty Version.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Ready Scene and Preload/i13CB Ready to Render.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Bench.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Bench.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Clothing Rack.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Clothing Rack.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Display Case.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Display Case.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Seat.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Seat.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Purse.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Purse.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Shopping Bag.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Single Shopping Bag.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Stool.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Clothing Boutique/CB Separate Items/i13CB Stool.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_36989_i13_Clothing_Boutique_Interior.dsa"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_36989_i13_Clothing_Boutique_Interior.dsx"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_36989_i13_Clothing_Boutique_Interior.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13_Concrete.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13_Concrete_Metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13_ConcreteRough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13_DS_SwadebaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13_DS_Swadenormal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13_DS_Swaderoughness.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Black_LeatherbaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Black_Leathernormal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Black_Leatherroughness.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Black_SuadebaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13blank-cotton.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13blank-cottonN.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_color.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_metalness.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_nmap.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS Lounge Seat_fabric_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_DressingRoom_A.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_DressingRoom_B.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_DressingRoom_Bump.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Logo.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Logo2.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Mannequin_03 (2)_Pants_color.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Marble_Polished_Red_diffuse_M.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Marble_Polished_White-2_diffuse.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Pants_Normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_POS-gui.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_POS-gui2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_POS-reciept.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_POS-reciept2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_POS-total1.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_POS-total2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Wall_Bump.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Wall_E.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_WoodbaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_WoodbaseColor2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13DS_Woodroughness.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Grey_SuadebaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Grey_Suadenormal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Grey_Suaderoughness.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Leather_WhitebaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13WallbaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Wallnormal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Department Store/i13Wallroughness.jpg"/>
+</DAZInstallManifest>

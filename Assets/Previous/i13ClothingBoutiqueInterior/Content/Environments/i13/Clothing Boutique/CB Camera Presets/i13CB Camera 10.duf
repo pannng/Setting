@@ -1,0 +1,880 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Environments/i13/Clothing%20Boutique/CB%20Camera%20Presets/i13CB%20Camera%2010.duf",
+		"type" : "preset_camera",
+		"contributor" : {
+			"author" : "i13",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2017-01-13T19:45:37Z"
+	},
+	"node_library" : [
+		{
+			"id" : "Camera 1",
+			"name" : "Camera 1",
+			"type" : "camera",
+			"label" : "Boutique Cam",
+			"rotation_order" : "XYZ",
+			"inherits_scale" : true,
+			"perspective" : {
+				"znear" : 5,
+				"zfar" : 4000,
+				"yfov" : 0.6521909,
+				"focal_length" : 65,
+				"depth_of_field" : false,
+				"focal_distance" : 744.543,
+				"fstop" : 22
+			},
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : -1,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"current_value" : -9.645478,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"current_value" : -32.7283,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"current_value" : -2.17329e-05,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"current_value" : -468.7893,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"current_value" : 218.8546,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"current_value" : 885.6116,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"current_value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"current_value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"current_value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"current_value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"presentation" : {
+				"type" : "Camera",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"visible" : false,
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"current_value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Perspective",
+								"type" : "bool",
+								"label" : "Perspective",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Frame Width",
+								"type" : "float",
+								"label" : "Frame Width (mm)",
+								"value" : 36,
+								"current_value" : 43.96184,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Focal Length",
+								"type" : "float",
+								"label" : "Focal Length (mm)",
+								"value" : 65,
+								"current_value" : 65,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "DOF",
+								"type" : "bool",
+								"label" : "Depth of Field",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Depth of Field",
+								"type" : "float",
+								"label" : "Focal Distance",
+								"value" : 450,
+								"current_value" : 744.543,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Aperature",
+								"type" : "float",
+								"label" : "F/Stop",
+								"value" : 22,
+								"current_value" : 22,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Thickness",
+								"type" : "float",
+								"label" : "Lens Thickness (mm)",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Radial Bias",
+								"type" : "float",
+								"label" : "Lens Radial Bias",
+								"value" : 0.5,
+								"current_value" : 0.5,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Shift X",
+								"type" : "float",
+								"label" : "Lens Shift X (mm)",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Shift Y",
+								"type" : "float",
+								"label" : "Lens Shift Y (mm)",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Stereo Offset",
+								"type" : "float",
+								"label" : "Lens Stereo Offset (mm)",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Distortion Type",
+								"type" : "enum",
+								"label" : "Lens Distortion Type",
+								"value" : 0,
+								"current_value" : 0,
+								"enum_values" : [ "none", "spherical", "cylindrical", "poly3", "inv_poly3", "poly5", "inv_poly5", "ptlens", "inv_ptlens" ]
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Distortion K1",
+								"type" : "float",
+								"label" : "Lens Distortion K1",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Distortion K2",
+								"type" : "float",
+								"label" : "Lens Distortion K2",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Distortion K3",
+								"type" : "float",
+								"label" : "Lens Distortion K3",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Distortion Scale",
+								"type" : "float",
+								"label" : "Lens Distortion Scale",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Lens"
+						},
+						{
+							"channel" : {
+								"id" : "Aperture Blades",
+								"type" : "int",
+								"label" : "Aperture Blades",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -2147483648,
+								"max" : 2147483647,
+								"step_size" : 1
+							},
+							"group" : "/Blades"
+						},
+						{
+							"channel" : {
+								"id" : "Aperture Blade Rotation",
+								"type" : "float",
+								"label" : "Aperture Blade Rotation",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 0.01
+							},
+							"group" : "/Blades"
+						},
+						{
+							"channel" : {
+								"id" : "Local Dimensions",
+								"type" : "bool",
+								"label" : "Use Local Dimensions",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Dimension Preset",
+								"type" : "string",
+								"label" : "Dimension Preset",
+								"visible" : false,
+								"value" : "",
+								"current_value" : ""
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Pixel Size",
+								"type" : "int2",
+								"label" : "Pixel Size",
+								"visible" : false,
+								"value" : [ 1800, 1200 ],
+								"current_value" : [ 1800, 1200 ],
+								"min" : 1,
+								"max" : 10000,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Aspect Ratio",
+								"type" : "float2",
+								"label" : "Aspect Ratio",
+								"visible" : false,
+								"value" : [ 3, 2 ],
+								"current_value" : [ 3, 2 ],
+								"min" : 0.0001,
+								"max" : 10000,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Constrain Proportions",
+								"type" : "bool",
+								"label" : "Constrain Proportions",
+								"visible" : false,
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "HeadlampMode",
+								"type" : "enum",
+								"label" : "Headlamp Mode",
+								"value" : 0,
+								"current_value" : 2,
+								"enum_values" : [ "Auto", "On", "Off" ]
+							},
+							"group" : "/Headlamp"
+						},
+						{
+							"channel" : {
+								"id" : "Headlamp Intensity",
+								"type" : "float",
+								"label" : "Headlamp Intensity",
+								"visible" : false,
+								"value" : 1,
+								"current_value" : 1,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp"
+						},
+						{
+							"channel" : {
+								"id" : "XHeadlampOffset",
+								"type" : "float",
+								"label" : "X Headlamp Offset",
+								"visible" : false,
+								"value" : -30,
+								"current_value" : -30,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp/Offset"
+						},
+						{
+							"channel" : {
+								"id" : "YHeadlamp",
+								"type" : "float",
+								"label" : "Y Headlamp Offset",
+								"visible" : false,
+								"value" : 20,
+								"current_value" : 20,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp/Offset"
+						},
+						{
+							"channel" : {
+								"id" : "ZHeadlampOffset",
+								"type" : "float",
+								"label" : "Z Headlamp Offset",
+								"visible" : false,
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp/Offset"
+						},
+						{
+							"channel" : {
+								"id" : "Display Persistence",
+								"type" : "bool",
+								"label" : "Display Persistence",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Display/Scene View/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Sight Line Opacity",
+								"type" : "float",
+								"label" : "Sight Line Opacity",
+								"value" : 0.3,
+								"current_value" : 0.3,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Scene View/Line of Sight"
+						},
+						{
+							"channel" : {
+								"id" : "Focal Point Scale",
+								"type" : "float",
+								"label" : "Focal Point Scale",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Scene View/Line of Sight"
+						},
+						{
+							"channel" : {
+								"id" : "FOV Color",
+								"type" : "color",
+								"label" : "FOV Color",
+								"value" : [ 1, 1, 1 ],
+								"current_value" : [ 1, 1, 1 ],
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true
+							},
+							"group" : "/Display/Scene View/Field of View"
+						},
+						{
+							"channel" : {
+								"id" : "FOV Opacity",
+								"type" : "float",
+								"label" : "FOV Opacity",
+								"value" : 0.3,
+								"current_value" : 0.3,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Scene View/Field of View"
+						},
+						{
+							"channel" : {
+								"id" : "FOV Length",
+								"type" : "float",
+								"label" : "FOV Length",
+								"value" : 5,
+								"current_value" : 5,
+								"min" : 0,
+								"max" : 100,
+								"clamped" : true,
+								"step_size" : 0.1
+							},
+							"group" : "/Display/Scene View/Field of View"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Plane Visibility",
+								"type" : "bool",
+								"label" : "DOF Plane Visibility",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Scene View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Plane Color",
+								"type" : "color",
+								"label" : "DOF Plane Color",
+								"value" : [ 1, 1, 1 ],
+								"current_value" : [ 1, 1, 1 ],
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true
+							},
+							"group" : "/Display/Scene View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Overlay Color",
+								"type" : "color",
+								"label" : "DOF Overlay Color",
+								"value" : [ 1, 1, 1 ],
+								"current_value" : [ 1, 1, 1 ],
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Overlay Opacity",
+								"type" : "float",
+								"label" : "DOF Overlay Opacity",
+								"value" : 0.05,
+								"current_value" : 0.05,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "Near DOF Plane Visibility",
+								"type" : "bool",
+								"label" : "Near DOF Plane Visibility",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "Far DOF Plane Visibility",
+								"type" : "bool",
+								"label" : "Far DOF Plane Visibility",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						}
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"nodes" : [
+			{
+				"id" : "Camera 1-1",
+				"url" : "#Camera%201",
+				"name" : "Camera 1",
+				"label" : "Boutique Cam"
+			}
+		],
+		"current_camera" : "#Camera%201-1"
+	}
+}
