@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentDBInstall VERSION="1.0">
+ <Products>
+  <Product VALUE="i13 Stylish Ensemble for the Genesis 3 Female(s)">
+   <StoreID VALUE="DAZ 3D"/>
+   <GlobalID VALUE="fefda241-7b10-4f5a-a022-e2115ef95d4c"/>
+   <ProductToken VALUE="37153"/>
+   <Artists>
+    <Artist VALUE="ironman13"/>
+   </Artists>
+   <Assets>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Boots.duf">
+     <ContentType VALUE="Preset/Materials"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Materials/Iray/Wardrobe"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Boots"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Dress.duf">
+     <ContentType VALUE="Preset/Materials"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Materials/Iray/Wardrobe"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Dress"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Hat.duf">
+     <ContentType VALUE="Preset/Materials"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Materials/Iray/Wardrobe"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Hat"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Main Outfit.duf">
+     <ContentType VALUE="Preset/Materials"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Materials/Iray/Wardrobe"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Main Outfit"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Purse.duf">
+     <ContentType VALUE="Preset/Materials"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Materials/Iray/Accessories"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 1.duf">
+     <ContentType VALUE="Preset/Wearables"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Wardrobe/Outfits"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 2.duf">
+     <ContentType VALUE="Preset/Wearables"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Wardrobe/Outfits"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Boots.duf">
+     <ContentType VALUE="Follower/Wardrobe/Footwear"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Wardrobe/Footwear"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Boots"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Black.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Blue.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Green.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Orange.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Pink.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Purple.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Red.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color White.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Yellow.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Dress.duf">
+     <ContentType VALUE="Follower/Wardrobe/Dress"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Wardrobe/Dresses"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Dress"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for L Hand.duf">
+     <ContentType VALUE="Preset/Pose/Hierarchical"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Feet"/>
+      <Category VALUE="/Default/Poses/By Function/Fits"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for R Hand.duf">
+     <ContentType VALUE="Preset/Pose/Hierarchical"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Function/Grasp"/>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Hands"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Hat.duf">
+     <ContentType VALUE="Follower/Wardrobe/Headwear"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Wardrobe/Headwear"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Hat"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 1x.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Tile"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 2x.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Tile"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 4x.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Tile"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 7x.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Tile"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Black.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Blue.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Green.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Orange.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Pink.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Purple.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Red.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit White.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Yellow.duf">
+     <ContentType VALUE="Preset/Shader/MDL"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Shaders/Iray/Fabric"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/AnySurface"/>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Main.duf">
+     <ContentType VALUE="Follower/Wardrobe/Dress"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Wardrobe/Dresses"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Main Outfit"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Pose for Feet.duf">
+     <ContentType VALUE="Preset/Pose/Hierarchical"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Function/Grasp"/>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Hands"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Boots"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse L Hand.duf">
+     <ContentType VALUE="Follower/Accessory/Arm/Left/Hand"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Accessories/Hands"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse R Hand.duf">
+     <ContentType VALUE="Follower/Accessory/Arm/Right/Hand"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Accessories/Hands"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse.duf">
+     <ContentType VALUE="Prop"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Props/Personal"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+   </Assets>
+   <SupportAssets VALUE="/Runtime/Support/DAZ_3D_37153_i13_Stylish_Ensemble_for_the_Genesis_3_Female(s).dsx">
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Boots.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Boots.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Dress.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Dress.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Hat.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Hat.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Main Outfit.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Main Outfit.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Purse.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Purse.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Black.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Black.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Blue.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Blue.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Green.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Green.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Orange.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Orange.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Pink.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Pink.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Purple.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Purple.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Red.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Red.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color White.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color White.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Yellow.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Yellow.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 1x.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 1x.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 2x.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 2x.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 4x.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 4x.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 7x.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 7x.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Black.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Black.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Blue.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Blue.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Green.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Green.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Orange.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Orange.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Pink.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Pink.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Purple.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Purple.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Red.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Red.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit White.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit White.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Yellow.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Yellow.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for L Hand.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for L Hand.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for R Hand.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for R Hand.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Pose for Feet.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Pose for Feet.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 1.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 1.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 2.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 2.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Boots.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Boots.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Dress.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Dress.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Hat.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Hat.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Main.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Main.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse L Hand.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse L Hand.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse R Hand.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse R Hand.duf.png"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse.duf"/>
+    <SupportAsset VALUE="/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse.duf.png"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_37153_i13_Stylish_Ensemble_for_the_Genesis_3_Female(s).dsa"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_37153_i13_Stylish_Ensemble_for_the_Genesis_3_Female(s).dsx"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_37153_i13_Stylish_Ensemble_for_the_Genesis_3_Female(s).jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CBO_Boots2.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CBO_BootsUD5.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CBO_Hat.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CBO_Jacket.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CBO_JacketB.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CBO_JacketBw.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Alb4.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Alb5.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Metal.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Norm.png"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Rough.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13Fab_Argyle_H.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13Fab_CordsBW.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13Fab_CordsDark.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13Fab_CordsLight.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13Fab_Noise.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/i13/Stylish Ensemble/i13_noiseA.jpg"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Boots_R6/Morphs/i13/Base/Base Smooth.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Boots_R6/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Boots_R6/i13Sued Boots_35536.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Adjust Chest.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/CoverChest.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Expand Bottom.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMAiko7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodySize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodyTone.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodybuilderDetails.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodybuilderSize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMEva7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMFitnessSize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMGenevieve7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMGia7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMGirl7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMLilith7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMMeiLin7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMMonique7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMOlympia7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMRune7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMSunny7Body.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMThin.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMVictoria7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMVoluptuous.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsCleavage.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsDiameter.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsGone.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape01.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape02.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape03.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape04.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape05.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape06.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape07.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape08.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsSize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsSmall.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Left Strap.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Left.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Right Strap.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Right.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RaiseBack.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RaiseFront.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RevealLeft.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RevealRight.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Strap Down Left.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Strap Down Right.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Straps Out.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_lThigh_TwistIN.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_lThigh_TwistOUT.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_rThigh_TwistIN.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_rThigh_TwistO.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighBack_35_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighBack_35_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighFwd_115_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighFwd_115_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighSide_85_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighSide_85_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighTwist_75_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighTwist_n75_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/Stylish Dress_12954.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Dress_R2/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Hat.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Back Out.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Fit Aiko 7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Fit Girl 7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Front Out.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Hat Down.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Hat Smaller.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Head Down.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Larger.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Natural  1.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Natural 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Natural 3.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Over Eyes.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Sides Out.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Hat_R4/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/- 25  abdoment upper jcm.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/35 abdomen lower jcm.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Abdomen Upper 40 jcm.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Base Fix.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Base fix 2.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/CTRLBreastsImplants.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMAiko7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMBodySize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMBodybuilderDetails.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMBodybuilderSize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMEva7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMFitnessSize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMGenevieve7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMGia7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMGirl7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMLilith7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMMeiLin7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMMonique7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMOlympia7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMRune7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMSunny7Body.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMVictoria7.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMVoluptuous.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Front Back 39 shoulder.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Left Underarm Move In.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Leg Out Side L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Leg Out Side R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsCleavage.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsDiameter.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsGone.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape01.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape02.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape03.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape04.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape05.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape06.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape07.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape08.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsSize.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Right Underarm Move In.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Foward Both.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Foward Left.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Foward Right.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf L Side Left.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Out.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf R Side Right.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Shorten Scarf.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Sit.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13JCM_ChestLower_Side-20.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13JCM_ChestLower_Side20.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_lThigh_TwistIN.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_lThigh_TwistOut.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_rThighTwist-out.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_rThigh_TwistIN.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighBack_35_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighBack_35_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighFwd_115_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighFwd_115_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighSide_85_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighSide_85_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighTwist_75_R.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighTwist_n75_L.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/StylishEnsemble_22295.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Main_R9/UV Sets/i13/Base/default.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Purse_R2/Purse 1.dsf"/>
+    <SupportAsset VALUE="/data/i13/Stylish Ensemble/i13SE Purse_R2/UV Sets/i13/Base/default.dsf"/>
+   </SupportAssets>
+   <ObjectCompatibilities>
+    <ObjectCompatibility VALUE="/data/i13/Stylish%20Ensemble/i13SE%20Purse_R2/Purse%201.dsf#Purse%201" REF="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+    <ObjectCompatibility VALUE="/data/i13/Stylish%20Ensemble/i13SE%20Purse_R2/Purse%201.dsf#Purse%201" REF="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+    <ObjectCompatibility VALUE="/data/i13/Stylish%20Ensemble/i13SE%20Purse_R2/Purse%201.dsf#Purse%201" REF="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Purse"/>
+    <ObjectCompatibility VALUE="/data/i13/Stylish%20Ensemble/i13SE%20Main_R9/StylishEnsemble_22295.dsf#StylishEnsemble_22295" REF="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Main Outfit"/>
+    <ObjectCompatibility VALUE="/data/i13/Stylish%20Ensemble/i13SE%20Hat_R4/Hat.dsf#Hat" REF="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Hat"/>
+    <ObjectCompatibility VALUE="/data/i13/Stylish%20Ensemble/i13SE%20Dress_R2/Stylish%20Dress_12954.dsf#Stylish%20Dress_12954" REF="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Dress"/>
+    <ObjectCompatibility VALUE="/data/i13/Stylish%20Ensemble/i13SE%20Boots_R6/i13Sued%20Boots_35536.dsf#i13Sued%20Boots_35536" REF="/i13 Stylish Ensemble for the Genesis 3 Female(s)/Boots"/>
+   </ObjectCompatibilities>
+  </Product>
+ </Products>
+</ContentDBInstall>

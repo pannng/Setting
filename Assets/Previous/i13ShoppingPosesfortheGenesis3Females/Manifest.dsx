@@ -1,0 +1,567 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="7afc61cb-9d3a-4528-926f-07df32095c54"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 01.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 01.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 02.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 02.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 03.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 03.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 04.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 04.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 05.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 05.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 06.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 06.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 07.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 07.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 08.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 08.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 09.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 09.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 10.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 10.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 11.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 11.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 12.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 12.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 13.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 13.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 14.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 14.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 15.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 15.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 16.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 16.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 17.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 17.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 18.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 18.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 19.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 19.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 20.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 20.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 21.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 21.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 22.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 22.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 23.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 23.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 24.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 24.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 25.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 25.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 26.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 26.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 27.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 27.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 28.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 28.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 29.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 29.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 30.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 30.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 31.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 31.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 32.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 32.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 33.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 33.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 34.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 34.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 35.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 35.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 36.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 36.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 37.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 37.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 38.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 38.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 39.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 39.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 40.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 40.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 01 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 01 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 01.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 01.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 02 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 02 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 02.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 02.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 03 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 03 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 03.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 03.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 04 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 04 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 04.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 04.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 05 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 05 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 05.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 05.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 06 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 06 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 06.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 06.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 07 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 07 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 07.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 07.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 08 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 08 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 08.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 08.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 09 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 09 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 09.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 09.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 10 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 10 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 10.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 10.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 11 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 11 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 11.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 11.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 12 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 12 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 12.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 12.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 13 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 13 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 13.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 13.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 14 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 14 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 14.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 14.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 15 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 15 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 15.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 15.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 16 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 16 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 16.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 16.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 17 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 17 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 17.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 17.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 18 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 18 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 18.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 18.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 19 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 19 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 19.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 19.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 20 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 20 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 20.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 20.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 21 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 21 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 21.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 21.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 22 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 22 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 22.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 22.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 23 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 23 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 23.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 23.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 24 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 24 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 24.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 24.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 25 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 25 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 25.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 25.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 26 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 26 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 26.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 26.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 27 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 27 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 27.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 27.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 28 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 28 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 28.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 28.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 29 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 29 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 29.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 29.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 30 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 30 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 30.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 30.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 31 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 31 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 31.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 31.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 32 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 32 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 32.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 32.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 33 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 33 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 33.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 33.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 34 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 34 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 34.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 34.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 35 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 35 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 35.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 35.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 36 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 36 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 36.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 36.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 37 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 37 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 37.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 37.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 38 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 38 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 38.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 38.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 39 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 39 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 39.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 39.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 40 M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 40 M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 40.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 40.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 01 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 01 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 01 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 01 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 02 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 02 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 02 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 02 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 03 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 03 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 03 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 03 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 04 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 04 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 04 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 04 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 05 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 05 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 05 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 05 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 06 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 06 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 06 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 06 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 07 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 07 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 07 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 07 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 08 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 08 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 08 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 08 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 09 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 09 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 09 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 09 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 10 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 10 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 10 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 10 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 11 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 11 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 11 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 11 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 12 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 12 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 12 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 12 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 13 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 13 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 13 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 13 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 14 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 14 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 14 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 14 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 15 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 15 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 15 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 15 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 16 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 16 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 16 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 16 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 17 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 17 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 17 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 17 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 18 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 18 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 18 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 18 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 19 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 19 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 19 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 19 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 20 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 20 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 20 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 20 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 21 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 21 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 21 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 21 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 22 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 22 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 22 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 22 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 23 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 23 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 23 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 23 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 24 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 24 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 24 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 24 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 25 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 25 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 25 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 25 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 26 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 26 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 26 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 26 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 27 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 27 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 27 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 27 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 28 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 28 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 28 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 28 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 29 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 29 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 29 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 29 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 30 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 30 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 30 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 30 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 31 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 31 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 31 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 31 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 32 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 32 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 32 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 32 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 33 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 33 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 33 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 33 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 34 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 34 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 34 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 34 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 35 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 35 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 35 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 35 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 36 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 36 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 36 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 36 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 37 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 37 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 37 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 37 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 38 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 38 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 38 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 38 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 39 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 39 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 39 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 39 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 40 M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 40 M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 40 Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 40 Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 01 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 01 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 01 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 01 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 02 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 02 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 02 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 02 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 03 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 03 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 03 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 03 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 04 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 04 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 04 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 04 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 05 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 05 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 05 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 05 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 06 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 06 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 06 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 06 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 07 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 07 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 07 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 07 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 08 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 08 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 08 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 08 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 09 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 09 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 09 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 09 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 10 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 10 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 10 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 10 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 11 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 11 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 11 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 11 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 12 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 12 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 12 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 12 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 13 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 13 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 13 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 13 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 14 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 14 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 14 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 14 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 15 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 15 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 15 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 15 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 16 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 16 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 16 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 16 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 17 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 17 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 17 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 17 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 18 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 18 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 18 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 18 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 19 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 19 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 19 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 19 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 20 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 20 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 20 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 20 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 21 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 21 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 21 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 21 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 22 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 22 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 22 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 22 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 23 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 23 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 23 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 23 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 24 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 24 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 24 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 24 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 25 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 25 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 25 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 25 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 26 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 26 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 26 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 26 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 27 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 27 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 27 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 27 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 28 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 28 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 28 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 28 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 29 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 29 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 29 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 29 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 30 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 30 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 30 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 30 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 31 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 31 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 31 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 31 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 32 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 32 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 32 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 32 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 33 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 33 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 33 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 33 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 34 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 34 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 34 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 34 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 35 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 35 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 35 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 35 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 36 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 36 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 36 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 36 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 37 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 37 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 37 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 37 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 38 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 38 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 38 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 38 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 39 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 39 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 39 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 39 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 40 Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 40 Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 40 M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 40 M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_37049_i13_Shopping_Poses_for_the_Genesis_3_Female(s).dsa"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_37049_i13_Shopping_Poses_for_the_Genesis_3_Female(s).dsx"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_37049_i13_Shopping_Poses_for_the_Genesis_3_Female(s).jpg"/>
+</DAZInstallManifest>

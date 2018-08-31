@@ -1,0 +1,3776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentDBInstall VERSION="1.0">
+ <Products>
+  <Product VALUE="i13 Shopping Poses for the Genesis 3 Female(s)">
+   <StoreID VALUE="DAZ 3D"/>
+   <GlobalID VALUE="7afc61cb-9d3a-4528-926f-07df32095c54"/>
+   <ProductToken VALUE="37049"/>
+   <Artists>
+    <Artist VALUE="ironman13"/>
+   </Artists>
+   <Assets>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 01 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 01 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 01 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 01 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 01 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 01.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 02 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 02 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 02 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 02 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 02 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 02.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 03 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 03 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 03 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 03 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 03 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 03.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 04 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 04 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 04 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 04 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 04 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 04.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 05 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 05 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 05 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 05 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 05 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 05.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 06 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 06 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 06 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 06 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 06 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 06.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 07 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 07 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 07 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 07 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 07 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 07.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 08 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 08 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 08 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 08 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 08 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 08.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 09 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 09 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 09 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 09 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 09 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 09.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 10 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 10 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 10 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 10 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 10 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 10.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 11 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 11 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 11 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 11 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 11 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 11.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 12 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 12 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 12 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 12 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 12 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 12.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 13 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 13 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 13 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 13 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 13 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 13.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 14 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 14 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 14 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 14 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Function/Crouching"/>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 14 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 14.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Function/Crouching"/>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 15 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 15 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 15 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 15 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 15 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 15.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 16 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 16 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 16 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 16 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 16 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 16.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 17 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 17 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 17 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 17 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 17 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 17.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 18 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 18 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 18 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 18 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 18 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 18.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 19 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 19 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 19 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 19 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 19 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 19.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 20 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 20 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 20 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 20 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 20 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 20.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 21 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 21 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 21 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 21 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 21 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 21.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 22 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 22 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 22 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 22 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 22 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 22.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 23 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 23 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 23 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 23 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 23 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 23.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 24 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 24 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 24 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 24 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 24 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 24.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 25 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 25 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 25 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 25 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 25 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 25.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 26 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 26 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 26 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 26 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 26 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 26.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 27 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 27 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 27 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 27 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 27 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 27.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 28 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 28 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 28 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 28 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 28 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 28.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 29 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 29 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 29 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 29 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 29 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 29.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 30 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 30 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 30 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 30 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 30 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 30.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 31 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 31 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 31 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 31 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 31 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 31.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 32 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 32 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 32 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 32 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 32 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 32.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 33 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 33 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 33 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 33 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 33 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 33.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 34 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 34 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 34 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 34 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 34 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 34.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 35 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 35 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 35 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 35 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 35 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 35.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 36 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 36 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 36 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 36 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 36 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 36.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 37 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 37 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 37 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 37 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 37 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 37.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 38 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 38 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 38 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 38 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 38 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 38.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 39 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 39 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 39 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 39 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 39 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 39.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 40 Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 04 Lower Body/i13CB Pose Any 40 M Bottom.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Waist"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 40 M Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 40 M.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 03 Upper Body/i13CB Pose Any 40 Top.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Torso"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 02 Anywhere Poses/i13CB Pose Any 40.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 01.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 02.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 03.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 04.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 05.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 06.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 07.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 08.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 09.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 10.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 11.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 12.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 13.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 14.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Function/Crouching"/>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 15.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 16.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 17.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 18.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 19.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 20.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 21.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Sitting"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 22.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 23.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 24.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 25.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 26.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 27.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 28.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 29.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 30.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 31.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 32.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 33.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 34.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 35.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 36.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 37.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 38.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 39.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 3 Female/Poses/i13/Shopping/CB 01 Go To Clothing Boutique/i13CB Pose Go To 40.duf">
+     <ContentType VALUE="Preset/Pose"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Full Body"/>
+      <Category VALUE="/Default/Poses/By Function/Standing"/>
+     </Categories>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+   </Assets>
+   <SupportAssets VALUE="/Runtime/Support/DAZ_3D_37049_i13_Shopping_Poses_for_the_Genesis_3_Female(s).dsx"/>
+  </Product>
+ </Products>
+</ContentDBInstall>

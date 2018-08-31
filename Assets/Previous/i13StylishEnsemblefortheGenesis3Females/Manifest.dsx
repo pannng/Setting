@@ -1,0 +1,245 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="fefda241-7b10-4f5a-a022-e2115ef95d4c"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Boots_R6/i13Sued Boots_35536.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Boots_R6/Morphs/i13/Base/Base Smooth.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Boots_R6/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Stylish Dress_12954.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Adjust Chest.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/CoverChest.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Expand Bottom.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMAiko7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodybuilderDetails.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodybuilderSize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodySize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMBodyTone.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMEva7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMFitnessSize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMGenevieve7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMGia7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMGirl7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMLilith7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMMeiLin7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMMonique7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMOlympia7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMRune7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMSunny7Body.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMThin.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMVictoria7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/FBMVoluptuous.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_lThigh_TwistIN.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_lThigh_TwistOUT.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_rThigh_TwistIN.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/i13jcm_rThigh_TwistO.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsCleavage.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsDiameter.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsGone.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape01.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape02.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape03.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape04.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape05.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape06.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape07.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsShape08.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsSize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/PBMBreastsSmall.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighBack_35_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighBack_35_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighFwd_115_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighFwd_115_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighSide_85_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighSide_85_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighTwist_75_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/pJCMThighTwist_n75_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Left Strap.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Left.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Right Strap.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Raise Right.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RaiseBack.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RaiseFront.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RevealLeft.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/RevealRight.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Strap Down Left.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Strap Down Right.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/Morphs/i13/Base/Straps Out.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Dress_R2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Hat.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Back Out.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Fit Aiko 7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Fit Girl 7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Front Out.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Hat Down.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Hat Smaller.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Head Down.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Larger.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Natural  1.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Natural 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Natural 3.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Over Eyes.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/Morphs/i13/Base/Sides Out.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Hat_R4/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/StylishEnsemble_22295.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/- 25  abdoment upper jcm.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/35 abdomen lower jcm.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Abdomen Upper 40 jcm.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Base fix 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Base Fix.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/CTRLBreastsImplants.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMAiko7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMBodybuilderDetails.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMBodybuilderSize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMBodySize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMEva7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMFitnessSize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMGenevieve7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMGia7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMGirl7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMLilith7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMMeiLin7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMMonique7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMOlympia7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMRune7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMSunny7Body.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMVictoria7.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/FBMVoluptuous.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Front Back 39 shoulder.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13JCM_ChestLower_Side-20.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13JCM_ChestLower_Side20.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_lThigh_TwistIN.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_lThigh_TwistOut.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_rThigh_TwistIN.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/i13jcm_rThighTwist-out.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Left Underarm Move In.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Leg Out Side L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Leg Out Side R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsCleavage.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsDiameter.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsGone.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape01.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape02.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape03.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape04.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape05.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape06.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape07.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsShape08.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/PBMBreastsSize.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighBack_35_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighBack_35_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighFwd_115_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighFwd_115_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighSide_85_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighSide_85_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighTwist_75_R.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/pJCMThighTwist_n75_L.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Right Underarm Move In.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Foward Both.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Foward Left.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Foward Right.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf L Side Left.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf Out.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Scarf R Side Right.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Shorten Scarf.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/Morphs/i13/Base/Sit.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Main_R9/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Purse_R2/Purse 1.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/Stylish Ensemble/i13SE Purse_R2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 1.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 1.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 2.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE !Outfit Style 2.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Boots.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Boots.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Dress.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Dress.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Hat.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Hat.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Main.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Main.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse L Hand.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse L Hand.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse R Hand.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse R Hand.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/i13BE Purse.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Boots.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Boots.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Dress.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Dress.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Hat.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Hat.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Main Outfit.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Main Outfit.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Purse.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 01 Base Materials/i113BE MAT Purse.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Black.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Black.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Blue.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Blue.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Green.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Green.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Orange.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Orange.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Pink.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Pink.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Purple.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Purple.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Red.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Red.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color White.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color White.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Yellow.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 02 Change Base Colors/i13BE Change Base Color Yellow.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 1x.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 1x.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 2x.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 2x.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 4x.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 4x.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 7x.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit +Tile 7x.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Black.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Black.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Blue.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Blue.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Green.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Green.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Orange.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Orange.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Pink.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Pink.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Purple.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Purple.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Red.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Red.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit White.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit White.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Yellow.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 03 Knit Presets/i13BE Knit Yellow.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for L Hand.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for L Hand.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for R Hand.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Grip for R Hand.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Pose for Feet.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/People/Genesis 3 Female/Clothing/i13/Stylish Ensemble/BE 04 Pose Utilities/i13BE Pose for Feet.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_37153_i13_Stylish_Ensemble_for_the_Genesis_3_Female(s).dsa"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_37153_i13_Stylish_Ensemble_for_the_Genesis_3_Female(s).dsx"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_37153_i13_Stylish_Ensemble_for_the_Genesis_3_Female(s).jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13_noiseA.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Alb4.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Alb5.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Norm.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CB_Purse_Rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CBO_Boots2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CBO_BootsUD5.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CBO_Hat.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CBO_Jacket.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CBO_JacketB.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13CBO_JacketBw.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13Fab_Argyle_H.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13Fab_CordsBW.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13Fab_CordsDark.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13Fab_CordsLight.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/Stylish Ensemble/i13Fab_Noise.jpg"/>
+</DAZInstallManifest>
