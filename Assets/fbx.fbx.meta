@@ -1,0 +1,2003 @@
+fileFormatVersion: 2
+guid: a13a23cadd8008d48bf73c2de2f0bb51
+timeCreated: 1514562683
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera 1
+    100002: Camera 1 1
+    100004: Checkout Section
+    100006: Clothing Boutique
+    100008: Clothing Rack Set
+    100010: Dressing Room Benches
+    100012: Dressing Room Doors
+    100014: Dressing Room Hooks
+    100016: Dressing Room Mirrors
+    100018: Dressing Room Section
+    100020: Dressing Rooms
+    100022: //RootNode
+    100024: i13_Mesh_Light
+    100026: i13_Mesh_Light.Shape
+    100028: i13_Mesh_Light_dup_10
+    100030: i13_Mesh_Light_dup_10.Shape
+    100032: i13_Mesh_Light_dup_2
+    100034: i13_Mesh_Light_dup_2.Shape
+    100036: i13_Mesh_Light_dup_3
+    100038: i13_Mesh_Light_dup_3.Shape
+    100040: i13_Mesh_Light_dup_4
+    100042: i13_Mesh_Light_dup_4.Shape
+    100044: i13_Mesh_Light_dup_5
+    100046: i13_Mesh_Light_dup_5.Shape
+    100048: i13_Mesh_Light_dup_6
+    100050: i13_Mesh_Light_dup_6.Shape
+    100052: i13_Mesh_Light_dup_7
+    100054: i13_Mesh_Light_dup_7.Shape
+    100056: i13_Mesh_Light_dup_8
+    100058: i13_Mesh_Light_dup_8.Shape
+    100060: i13_Mesh_Light_dup_9
+    100062: i13_Mesh_Light_dup_9.Shape
+    100064: i13DR Dress Short
+    100066: i13DR Dress Short.Shape
+    100068: i13DR Dress Short_dup_10
+    100070: i13DR Dress Short_dup_10.Shape
+    100072: i13DR Dress Short_dup_11
+    100074: i13DR Dress Short_dup_11.Shape
+    100076: i13DR Dress Short_dup_12
+    100078: i13DR Dress Short_dup_12.Shape
+    100080: i13DR Dress Short_dup_13
+    100082: i13DR Dress Short_dup_13.Shape
+    100084: i13DR Dress Short_dup_14
+    100086: i13DR Dress Short_dup_14.Shape
+    100088: i13DR Dress Short_dup_15
+    100090: i13DR Dress Short_dup_15.Shape
+    100092: i13DR Dress Short_dup_16
+    100094: i13DR Dress Short_dup_16.Shape
+    100096: i13DR Dress Short_dup_17
+    100098: i13DR Dress Short_dup_17.Shape
+    100100: i13DR Dress Short_dup_18
+    100102: i13DR Dress Short_dup_18.Shape
+    100104: i13DR Dress Short_dup_19
+    100106: i13DR Dress Short_dup_19.Shape
+    100108: i13DR Dress Short_dup_2
+    100110: i13DR Dress Short_dup_2.Shape
+    100112: i13DR Dress Short_dup_20
+    100114: i13DR Dress Short_dup_20.Shape
+    100116: i13DR Dress Short_dup_21
+    100118: i13DR Dress Short_dup_21.Shape
+    100120: i13DR Dress Short_dup_22
+    100122: i13DR Dress Short_dup_22.Shape
+    100124: i13DR Dress Short_dup_3
+    100126: i13DR Dress Short_dup_3.Shape
+    100128: i13DR Dress Short_dup_4
+    100130: i13DR Dress Short_dup_4.Shape
+    100132: i13DR Dress Short_dup_5
+    100134: i13DR Dress Short_dup_5.Shape
+    100136: i13DR Dress Short_dup_6
+    100138: i13DR Dress Short_dup_6.Shape
+    100140: i13DR Dress Short_dup_7
+    100142: i13DR Dress Short_dup_7.Shape
+    100144: i13DR Dress Short_dup_8
+    100146: i13DR Dress Short_dup_8.Shape
+    100148: i13DR Dress Short_dup_9
+    100150: i13DR Dress Short_dup_9.Shape
+    100152: i13DS Bangles
+    100154: i13DS Bangles 2
+    100156: i13DS Bangles 2.Shape
+    100158: i13DS Bangles 2_dup_2
+    100160: i13DS Bangles 2_dup_2.Shape
+    100162: i13DS Bangles.Shape
+    100164: i13DS Bangles_dup_2
+    100166: i13DS Bangles_dup_2.Shape
+    100168: i13DS Bench
+    100170: i13DS Bench.Shape
+    100172: i13DS Bench_dup_2
+    100174: i13DS Bench_dup_2.Shape
+    100176: i13DS Bench_dup_3
+    100178: i13DS Bench_dup_3.Shape
+    100180: i13DS Bench_dup_4
+    100182: i13DS Bench_dup_4.Shape
+    100184: i13DS Box
+    100186: i13DS Box 2
+    100188: i13DS Box 2.Shape
+    100190: i13DS Box 2_dup_2
+    100192: i13DS Box 2_dup_2.Shape
+    100194: i13DS Box.Shape
+    100196: i13DS Box_dup_2
+    100198: i13DS Box_dup_2.Shape
+    100200: i13DS Brooch
+    100202: i13DS Brooch.Shape
+    100204: i13DS Brooch_dup_2
+    100206: i13DS Brooch_dup_2.Shape
+    100208: i13DS Celing
+    100210: i13DS Celing.Shape
+    100212: i13DS Checkout Desk
+    100214: i13DS Checkout Desk.Shape
+    100216: i13DS Checkout Stool
+    100218: i13DS Checkout Stool.Shape
+    100220: i13DS Checkout Stool_dup_2
+    100222: i13DS Checkout Stool_dup_2.Shape
+    100224: i13DS Clothing Rack
+    100226: i13DS Clothing Rack.Shape
+    100228: i13DS Clothing Rack_dup_10
+    100230: i13DS Clothing Rack_dup_10.Shape
+    100232: i13DS Clothing Rack_dup_2
+    100234: i13DS Clothing Rack_dup_2.Shape
+    100236: i13DS Clothing Rack_dup_3
+    100238: i13DS Clothing Rack_dup_3.Shape
+    100240: i13DS Clothing Rack_dup_4
+    100242: i13DS Clothing Rack_dup_4.Shape
+    100244: i13DS Clothing Rack_dup_5
+    100246: i13DS Clothing Rack_dup_5.Shape
+    100248: i13DS Clothing Rack_dup_6
+    100250: i13DS Clothing Rack_dup_6.Shape
+    100252: i13DS Clothing Rack_dup_7
+    100254: i13DS Clothing Rack_dup_7.Shape
+    100256: i13DS Clothing Rack_dup_8
+    100258: i13DS Clothing Rack_dup_8.Shape
+    100260: i13DS Clothing Rack_dup_9
+    100262: i13DS Clothing Rack_dup_9.Shape
+    100264: i13DS Clothing Stand
+    100266: i13DS Clothing Stand.Shape
+    100268: i13DS Compact Large
+    100270: i13DS Compact Large.Shape
+    100272: i13DS Compact Large_dup_2
+    100274: i13DS Compact Large_dup_2.Shape
+    100276: i13DS Compact Small
+    100278: i13DS Compact Small.Shape
+    100280: i13DS Compact Small_dup_2
+    100282: i13DS Compact Small_dup_2.Shape
+    100284: i13DS Crop
+    100286: i13DS Crop.Shape
+    100288: i13DS Crop_dup_10
+    100290: i13DS Crop_dup_10.Shape
+    100292: i13DS Crop_dup_11
+    100294: i13DS Crop_dup_11.Shape
+    100296: i13DS Crop_dup_12
+    100298: i13DS Crop_dup_12.Shape
+    100300: i13DS Crop_dup_13
+    100302: i13DS Crop_dup_13.Shape
+    100304: i13DS Crop_dup_14
+    100306: i13DS Crop_dup_14.Shape
+    100308: i13DS Crop_dup_15
+    100310: i13DS Crop_dup_15.Shape
+    100312: i13DS Crop_dup_16
+    100314: i13DS Crop_dup_16.Shape
+    100316: i13DS Crop_dup_17
+    100318: i13DS Crop_dup_17.Shape
+    100320: i13DS Crop_dup_18
+    100322: i13DS Crop_dup_18.Shape
+    100324: i13DS Crop_dup_2
+    100326: i13DS Crop_dup_2.Shape
+    100328: i13DS Crop_dup_3
+    100330: i13DS Crop_dup_3.Shape
+    100332: i13DS Crop_dup_4
+    100334: i13DS Crop_dup_4.Shape
+    100336: i13DS Crop_dup_5
+    100338: i13DS Crop_dup_5.Shape
+    100340: i13DS Crop_dup_6
+    100342: i13DS Crop_dup_6.Shape
+    100344: i13DS Crop_dup_7
+    100346: i13DS Crop_dup_7.Shape
+    100348: i13DS Crop_dup_8
+    100350: i13DS Crop_dup_8.Shape
+    100352: i13DS Crop_dup_9
+    100354: i13DS Crop_dup_9.Shape
+    100356: i13DS Display
+    100358: i13DS Display.Shape
+    100360: i13DS Door
+    100362: i13DS Door.Shape
+    100364: i13DS Dressing Room
+    100366: i13DS Dressing Room 2
+    100368: i13DS Dressing Room 2.Shape
+    100370: i13DS Dressing Room Desk
+    100372: i13DS Dressing Room Desk.Shape
+    100374: i13DS Dressing Room Door
+    100376: i13DS Dressing Room Door 2
+    100378: i13DS Dressing Room Door 2.Shape
+    100380: i13DS Dressing Room Door 2_dup_2
+    100382: i13DS Dressing Room Door 2_dup_2.Shape
+    100384: i13DS Dressing Room Door.Shape
+    100386: i13DS Dressing Room Door_dup_2
+    100388: i13DS Dressing Room Door_dup_2.Shape
+    100390: i13DS Dressing Room Door_dup_3
+    100392: i13DS Dressing Room Door_dup_3.Shape
+    100394: i13DS Dressing Room Door_dup_4
+    100396: i13DS Dressing Room Door_dup_4.Shape
+    100398: i13DS Dressing Room.Shape
+    100400: i13DS Emergency Lights
+    100402: i13DS Emergency Lights.Shape
+    100404: i13DS Floor
+    100406: i13DS Floor.Shape
+    100408: i13DS Hearts
+    100410: i13DS Hearts.Shape
+    100412: i13DS Hearts_dup_2
+    100414: i13DS Hearts_dup_2.Shape
+    100416: i13DS HookBoard
+    100418: i13DS HookBoard.Shape
+    100420: i13DS HookBoard_dup_2
+    100422: i13DS HookBoard_dup_2.Shape
+    100424: i13DS HookBoard_dup_3
+    100426: i13DS HookBoard_dup_3.Shape
+    100428: i13DS HookBoard_dup_4
+    100430: i13DS HookBoard_dup_4.Shape
+    100432: i13DS HookBoard_dup_5
+    100434: i13DS HookBoard_dup_5.Shape
+    100436: i13DS HookBoard_dup_6
+    100438: i13DS HookBoard_dup_6.Shape
+    100440: i13DS Jewellwry
+    100442: i13DS Jewellwry.Shape
+    100444: i13DS Long Tee
+    100446: i13DS Long Tee.Shape
+    100448: i13DS Long Tee_dup_10
+    100450: i13DS Long Tee_dup_10.Shape
+    100452: i13DS Long Tee_dup_2
+    100454: i13DS Long Tee_dup_2.Shape
+    100456: i13DS Long Tee_dup_3
+    100458: i13DS Long Tee_dup_3.Shape
+    100460: i13DS Long Tee_dup_4
+    100462: i13DS Long Tee_dup_4.Shape
+    100464: i13DS Long Tee_dup_5
+    100466: i13DS Long Tee_dup_5.Shape
+    100468: i13DS Long Tee_dup_6
+    100470: i13DS Long Tee_dup_6.Shape
+    100472: i13DS Long Tee_dup_7
+    100474: i13DS Long Tee_dup_7.Shape
+    100476: i13DS Long Tee_dup_8
+    100478: i13DS Long Tee_dup_8.Shape
+    100480: i13DS Long Tee_dup_9
+    100482: i13DS Long Tee_dup_9.Shape
+    100484: i13DS Lounge Seat
+    100486: i13DS Lounge Seat.Shape
+    100488: i13DS Manaquin
+    100490: i13DS Manaquin.Shape
+    100492: i13DS Mirror
+    100494: i13DS Mirror.Shape
+    100496: i13DS Mirror_dup_2
+    100498: i13DS Mirror_dup_2.Shape
+    100500: i13DS Mirror_dup_3
+    100502: i13DS Mirror_dup_3.Shape
+    100504: i13DS Mirror_dup_4
+    100506: i13DS Mirror_dup_4.Shape
+    100508: i13DS Mirror_dup_5
+    100510: i13DS Mirror_dup_5.Shape
+    100512: i13DS Mirror_dup_6
+    100514: i13DS Mirror_dup_6.Shape
+    100516: i13DS Necklace
+    100518: i13DS Necklace.Shape
+    100520: i13DS Pearls
+    100522: i13DS Pearls.Shape
+    100524: i13DS Pearls_dup_2
+    100526: i13DS Pearls_dup_2.Shape
+    100528: i13DS Register
+    100530: i13DS Register.Shape
+    100532: i13DS Register_dup_2
+    100534: i13DS Register_dup_2.Shape
+    100536: i13DS Rings
+    100538: i13DS Rings.Shape
+    100540: i13DS Rings_dup_2
+    100542: i13DS Rings_dup_2.Shape
+    100544: i13DS Rsck Full
+    100546: i13DS Rsck Full.Shape
+    100548: i13DS Shelf 2
+    100550: i13DS Shelf 2.Shape
+    100552: i13DS Shlef
+    100554: i13DS Shlef 2
+    100556: i13DS Shlef 2.Shape
+    100558: i13DS Shlef.Shape
+    100560: i13DS Shlef_dup_2
+    100562: i13DS Shlef_dup_2.Shape
+    100564: i13DS Shoe 1
+    100566: i13DS Shoe 1.Shape
+    100568: i13DS Shoe 2
+    100570: i13DS Shoe 2.Shape
+    100572: i13DS Shoe 3
+    100574: i13DS Shoe 3.Shape
+    100576: i13DS Shoe 4
+    100578: i13DS Shoe 4.Shape
+    100580: i13DS Shoe 5
+    100582: i13DS Shoe 5.Shape
+    100584: i13DS Shoe 6
+    100586: i13DS Shoe 6.Shape
+    100588: i13DS Shoe 7
+    100590: i13DS Shoe 7.Shape
+    100592: i13DS Shoe 8
+    100594: i13DS Shoe 8.Shape
+    100596: i13DS Slthing Stand
+    100598: i13DS Slthing Stand.Shape
+    100600: i13DS Slthing Stand_dup_2
+    100602: i13DS Slthing Stand_dup_2.Shape
+    100604: i13DS Stand
+    100606: i13DS Stand.Shape
+    100608: i13DS Tee
+    100610: i13DS Tee.Shape
+    100612: i13DS Tee_dup_10
+    100614: i13DS Tee_dup_10.Shape
+    100616: i13DS Tee_dup_11
+    100618: i13DS Tee_dup_11.Shape
+    100620: i13DS Tee_dup_12
+    100622: i13DS Tee_dup_12.Shape
+    100624: i13DS Tee_dup_13
+    100626: i13DS Tee_dup_13.Shape
+    100628: i13DS Tee_dup_14
+    100630: i13DS Tee_dup_14.Shape
+    100632: i13DS Tee_dup_15
+    100634: i13DS Tee_dup_15.Shape
+    100636: i13DS Tee_dup_16
+    100638: i13DS Tee_dup_16.Shape
+    100640: i13DS Tee_dup_17
+    100642: i13DS Tee_dup_17.Shape
+    100644: i13DS Tee_dup_18
+    100646: i13DS Tee_dup_18.Shape
+    100648: i13DS Tee_dup_19
+    100650: i13DS Tee_dup_19.Shape
+    100652: i13DS Tee_dup_2
+    100654: i13DS Tee_dup_2.Shape
+    100656: i13DS Tee_dup_20
+    100658: i13DS Tee_dup_20.Shape
+    100660: i13DS Tee_dup_3
+    100662: i13DS Tee_dup_3.Shape
+    100664: i13DS Tee_dup_4
+    100666: i13DS Tee_dup_4.Shape
+    100668: i13DS Tee_dup_5
+    100670: i13DS Tee_dup_5.Shape
+    100672: i13DS Tee_dup_6
+    100674: i13DS Tee_dup_6.Shape
+    100676: i13DS Tee_dup_7
+    100678: i13DS Tee_dup_7.Shape
+    100680: i13DS Tee_dup_8
+    100682: i13DS Tee_dup_8.Shape
+    100684: i13DS Tee_dup_9
+    100686: i13DS Tee_dup_9.Shape
+    100688: i13DS Wall Back
+    100690: i13DS Wall Back.Shape
+    100692: i13DS Wall Front
+    100694: i13DS Wall Front.Shape
+    100696: i13DS Wall Shelf
+    100698: i13DS Wall Shelf.Shape
+    100700: i13DS Wall Shelf_dup_2
+    100702: i13DS Wall Shelf_dup_2.Shape
+    100704: i13DS_Glasses (4)
+    100706: i13DS_Glasses (4).Shape
+    100708: i13DS_Hat (2)
+    100710: i13DS_Hat (2).Shape
+    100712: i13DS_Mannequin_02 (2)
+    100714: i13DS_Mannequin_02 (2).Shape
+    100716: i13DS_Mannequin_03 (2)
+    100718: i13DS_Mannequin_03 (2).Shape
+    100720: i13DS_Mannequin_05
+    100722: i13DS_Mannequin_05.Shape
+    100724: lights
+    100726: LowPolyHanger
+    100728: LowPolyHanger.Shape
+    100730: LowPolyHanger_dup_10
+    100732: LowPolyHanger_dup_10.Shape
+    100734: LowPolyHanger_dup_11
+    100736: LowPolyHanger_dup_11.Shape
+    100738: LowPolyHanger_dup_12
+    100740: LowPolyHanger_dup_12.Shape
+    100742: LowPolyHanger_dup_13
+    100744: LowPolyHanger_dup_13.Shape
+    100746: LowPolyHanger_dup_14
+    100748: LowPolyHanger_dup_14.Shape
+    100750: LowPolyHanger_dup_15
+    100752: LowPolyHanger_dup_15.Shape
+    100754: LowPolyHanger_dup_16
+    100756: LowPolyHanger_dup_16.Shape
+    100758: LowPolyHanger_dup_17
+    100760: LowPolyHanger_dup_17.Shape
+    100762: LowPolyHanger_dup_18
+    100764: LowPolyHanger_dup_18.Shape
+    100766: LowPolyHanger_dup_19
+    100768: LowPolyHanger_dup_19.Shape
+    100770: LowPolyHanger_dup_2
+    100772: LowPolyHanger_dup_2.Shape
+    100774: LowPolyHanger_dup_20
+    100776: LowPolyHanger_dup_20.Shape
+    100778: LowPolyHanger_dup_21
+    100780: LowPolyHanger_dup_21.Shape
+    100782: LowPolyHanger_dup_22
+    100784: LowPolyHanger_dup_22.Shape
+    100786: LowPolyHanger_dup_23
+    100788: LowPolyHanger_dup_23.Shape
+    100790: LowPolyHanger_dup_24
+    100792: LowPolyHanger_dup_24.Shape
+    100794: LowPolyHanger_dup_25
+    100796: LowPolyHanger_dup_25.Shape
+    100798: LowPolyHanger_dup_26
+    100800: LowPolyHanger_dup_26.Shape
+    100802: LowPolyHanger_dup_27
+    100804: LowPolyHanger_dup_27.Shape
+    100806: LowPolyHanger_dup_28
+    100808: LowPolyHanger_dup_28.Shape
+    100810: LowPolyHanger_dup_29
+    100812: LowPolyHanger_dup_29.Shape
+    100814: LowPolyHanger_dup_3
+    100816: LowPolyHanger_dup_3.Shape
+    100818: LowPolyHanger_dup_30
+    100820: LowPolyHanger_dup_30.Shape
+    100822: LowPolyHanger_dup_31
+    100824: LowPolyHanger_dup_31.Shape
+    100826: LowPolyHanger_dup_32
+    100828: LowPolyHanger_dup_32.Shape
+    100830: LowPolyHanger_dup_33
+    100832: LowPolyHanger_dup_33.Shape
+    100834: LowPolyHanger_dup_34
+    100836: LowPolyHanger_dup_34.Shape
+    100838: LowPolyHanger_dup_35
+    100840: LowPolyHanger_dup_35.Shape
+    100842: LowPolyHanger_dup_36
+    100844: LowPolyHanger_dup_36.Shape
+    100846: LowPolyHanger_dup_37
+    100848: LowPolyHanger_dup_37.Shape
+    100850: LowPolyHanger_dup_38
+    100852: LowPolyHanger_dup_38.Shape
+    100854: LowPolyHanger_dup_39
+    100856: LowPolyHanger_dup_39.Shape
+    100858: LowPolyHanger_dup_4
+    100860: LowPolyHanger_dup_4.Shape
+    100862: LowPolyHanger_dup_40
+    100864: LowPolyHanger_dup_40.Shape
+    100866: LowPolyHanger_dup_41
+    100868: LowPolyHanger_dup_41.Shape
+    100870: LowPolyHanger_dup_42
+    100872: LowPolyHanger_dup_42.Shape
+    100874: LowPolyHanger_dup_43
+    100876: LowPolyHanger_dup_43.Shape
+    100878: LowPolyHanger_dup_44
+    100880: LowPolyHanger_dup_44.Shape
+    100882: LowPolyHanger_dup_45
+    100884: LowPolyHanger_dup_45.Shape
+    100886: LowPolyHanger_dup_46
+    100888: LowPolyHanger_dup_46.Shape
+    100890: LowPolyHanger_dup_47
+    100892: LowPolyHanger_dup_47.Shape
+    100894: LowPolyHanger_dup_48
+    100896: LowPolyHanger_dup_48.Shape
+    100898: LowPolyHanger_dup_49
+    100900: LowPolyHanger_dup_49.Shape
+    100902: LowPolyHanger_dup_5
+    100904: LowPolyHanger_dup_5.Shape
+    100906: LowPolyHanger_dup_50
+    100908: LowPolyHanger_dup_50.Shape
+    100910: LowPolyHanger_dup_51
+    100912: LowPolyHanger_dup_51.Shape
+    100914: LowPolyHanger_dup_52
+    100916: LowPolyHanger_dup_52.Shape
+    100918: LowPolyHanger_dup_53
+    100920: LowPolyHanger_dup_53.Shape
+    100922: LowPolyHanger_dup_54
+    100924: LowPolyHanger_dup_54.Shape
+    100926: LowPolyHanger_dup_55
+    100928: LowPolyHanger_dup_55.Shape
+    100930: LowPolyHanger_dup_56
+    100932: LowPolyHanger_dup_56.Shape
+    100934: LowPolyHanger_dup_57
+    100936: LowPolyHanger_dup_57.Shape
+    100938: LowPolyHanger_dup_58
+    100940: LowPolyHanger_dup_58.Shape
+    100942: LowPolyHanger_dup_59
+    100944: LowPolyHanger_dup_59.Shape
+    100946: LowPolyHanger_dup_6
+    100948: LowPolyHanger_dup_6.Shape
+    100950: LowPolyHanger_dup_60
+    100952: LowPolyHanger_dup_60.Shape
+    100954: LowPolyHanger_dup_61
+    100956: LowPolyHanger_dup_61.Shape
+    100958: LowPolyHanger_dup_62
+    100960: LowPolyHanger_dup_62.Shape
+    100962: LowPolyHanger_dup_63
+    100964: LowPolyHanger_dup_63.Shape
+    100966: LowPolyHanger_dup_64
+    100968: LowPolyHanger_dup_64.Shape
+    100970: LowPolyHanger_dup_65
+    100972: LowPolyHanger_dup_65.Shape
+    100974: LowPolyHanger_dup_66
+    100976: LowPolyHanger_dup_66.Shape
+    100978: LowPolyHanger_dup_67
+    100980: LowPolyHanger_dup_67.Shape
+    100982: LowPolyHanger_dup_68
+    100984: LowPolyHanger_dup_68.Shape
+    100986: LowPolyHanger_dup_69
+    100988: LowPolyHanger_dup_69.Shape
+    100990: LowPolyHanger_dup_7
+    100992: LowPolyHanger_dup_7.Shape
+    100994: LowPolyHanger_dup_70
+    100996: LowPolyHanger_dup_70.Shape
+    100998: LowPolyHanger_dup_8
+    101000: LowPolyHanger_dup_8.Shape
+    101002: LowPolyHanger_dup_9
+    101004: LowPolyHanger_dup_9.Shape
+    101006: single purse
+    101008: single purse.Shape
+    101010: single shopping bag
+    101012: single shopping bag.Shape
+    101014: Sun
+    101016: SunBase
+    101018: SunChain
+    101020: SunDial
+    400000: Camera 1
+    400002: Camera 1 1
+    400004: Checkout Section
+    400006: Clothing Boutique
+    400008: Clothing Rack Set
+    400010: Dressing Room Benches
+    400012: Dressing Room Doors
+    400014: Dressing Room Hooks
+    400016: Dressing Room Mirrors
+    400018: Dressing Room Section
+    400020: Dressing Rooms
+    400022: //RootNode
+    400024: i13_Mesh_Light
+    400026: i13_Mesh_Light.Shape
+    400028: i13_Mesh_Light_dup_10
+    400030: i13_Mesh_Light_dup_10.Shape
+    400032: i13_Mesh_Light_dup_2
+    400034: i13_Mesh_Light_dup_2.Shape
+    400036: i13_Mesh_Light_dup_3
+    400038: i13_Mesh_Light_dup_3.Shape
+    400040: i13_Mesh_Light_dup_4
+    400042: i13_Mesh_Light_dup_4.Shape
+    400044: i13_Mesh_Light_dup_5
+    400046: i13_Mesh_Light_dup_5.Shape
+    400048: i13_Mesh_Light_dup_6
+    400050: i13_Mesh_Light_dup_6.Shape
+    400052: i13_Mesh_Light_dup_7
+    400054: i13_Mesh_Light_dup_7.Shape
+    400056: i13_Mesh_Light_dup_8
+    400058: i13_Mesh_Light_dup_8.Shape
+    400060: i13_Mesh_Light_dup_9
+    400062: i13_Mesh_Light_dup_9.Shape
+    400064: i13DR Dress Short
+    400066: i13DR Dress Short.Shape
+    400068: i13DR Dress Short_dup_10
+    400070: i13DR Dress Short_dup_10.Shape
+    400072: i13DR Dress Short_dup_11
+    400074: i13DR Dress Short_dup_11.Shape
+    400076: i13DR Dress Short_dup_12
+    400078: i13DR Dress Short_dup_12.Shape
+    400080: i13DR Dress Short_dup_13
+    400082: i13DR Dress Short_dup_13.Shape
+    400084: i13DR Dress Short_dup_14
+    400086: i13DR Dress Short_dup_14.Shape
+    400088: i13DR Dress Short_dup_15
+    400090: i13DR Dress Short_dup_15.Shape
+    400092: i13DR Dress Short_dup_16
+    400094: i13DR Dress Short_dup_16.Shape
+    400096: i13DR Dress Short_dup_17
+    400098: i13DR Dress Short_dup_17.Shape
+    400100: i13DR Dress Short_dup_18
+    400102: i13DR Dress Short_dup_18.Shape
+    400104: i13DR Dress Short_dup_19
+    400106: i13DR Dress Short_dup_19.Shape
+    400108: i13DR Dress Short_dup_2
+    400110: i13DR Dress Short_dup_2.Shape
+    400112: i13DR Dress Short_dup_20
+    400114: i13DR Dress Short_dup_20.Shape
+    400116: i13DR Dress Short_dup_21
+    400118: i13DR Dress Short_dup_21.Shape
+    400120: i13DR Dress Short_dup_22
+    400122: i13DR Dress Short_dup_22.Shape
+    400124: i13DR Dress Short_dup_3
+    400126: i13DR Dress Short_dup_3.Shape
+    400128: i13DR Dress Short_dup_4
+    400130: i13DR Dress Short_dup_4.Shape
+    400132: i13DR Dress Short_dup_5
+    400134: i13DR Dress Short_dup_5.Shape
+    400136: i13DR Dress Short_dup_6
+    400138: i13DR Dress Short_dup_6.Shape
+    400140: i13DR Dress Short_dup_7
+    400142: i13DR Dress Short_dup_7.Shape
+    400144: i13DR Dress Short_dup_8
+    400146: i13DR Dress Short_dup_8.Shape
+    400148: i13DR Dress Short_dup_9
+    400150: i13DR Dress Short_dup_9.Shape
+    400152: i13DS Bangles
+    400154: i13DS Bangles 2
+    400156: i13DS Bangles 2.Shape
+    400158: i13DS Bangles 2_dup_2
+    400160: i13DS Bangles 2_dup_2.Shape
+    400162: i13DS Bangles.Shape
+    400164: i13DS Bangles_dup_2
+    400166: i13DS Bangles_dup_2.Shape
+    400168: i13DS Bench
+    400170: i13DS Bench.Shape
+    400172: i13DS Bench_dup_2
+    400174: i13DS Bench_dup_2.Shape
+    400176: i13DS Bench_dup_3
+    400178: i13DS Bench_dup_3.Shape
+    400180: i13DS Bench_dup_4
+    400182: i13DS Bench_dup_4.Shape
+    400184: i13DS Box
+    400186: i13DS Box 2
+    400188: i13DS Box 2.Shape
+    400190: i13DS Box 2_dup_2
+    400192: i13DS Box 2_dup_2.Shape
+    400194: i13DS Box.Shape
+    400196: i13DS Box_dup_2
+    400198: i13DS Box_dup_2.Shape
+    400200: i13DS Brooch
+    400202: i13DS Brooch.Shape
+    400204: i13DS Brooch_dup_2
+    400206: i13DS Brooch_dup_2.Shape
+    400208: i13DS Celing
+    400210: i13DS Celing.Shape
+    400212: i13DS Checkout Desk
+    400214: i13DS Checkout Desk.Shape
+    400216: i13DS Checkout Stool
+    400218: i13DS Checkout Stool.Shape
+    400220: i13DS Checkout Stool_dup_2
+    400222: i13DS Checkout Stool_dup_2.Shape
+    400224: i13DS Clothing Rack
+    400226: i13DS Clothing Rack.Shape
+    400228: i13DS Clothing Rack_dup_10
+    400230: i13DS Clothing Rack_dup_10.Shape
+    400232: i13DS Clothing Rack_dup_2
+    400234: i13DS Clothing Rack_dup_2.Shape
+    400236: i13DS Clothing Rack_dup_3
+    400238: i13DS Clothing Rack_dup_3.Shape
+    400240: i13DS Clothing Rack_dup_4
+    400242: i13DS Clothing Rack_dup_4.Shape
+    400244: i13DS Clothing Rack_dup_5
+    400246: i13DS Clothing Rack_dup_5.Shape
+    400248: i13DS Clothing Rack_dup_6
+    400250: i13DS Clothing Rack_dup_6.Shape
+    400252: i13DS Clothing Rack_dup_7
+    400254: i13DS Clothing Rack_dup_7.Shape
+    400256: i13DS Clothing Rack_dup_8
+    400258: i13DS Clothing Rack_dup_8.Shape
+    400260: i13DS Clothing Rack_dup_9
+    400262: i13DS Clothing Rack_dup_9.Shape
+    400264: i13DS Clothing Stand
+    400266: i13DS Clothing Stand.Shape
+    400268: i13DS Compact Large
+    400270: i13DS Compact Large.Shape
+    400272: i13DS Compact Large_dup_2
+    400274: i13DS Compact Large_dup_2.Shape
+    400276: i13DS Compact Small
+    400278: i13DS Compact Small.Shape
+    400280: i13DS Compact Small_dup_2
+    400282: i13DS Compact Small_dup_2.Shape
+    400284: i13DS Crop
+    400286: i13DS Crop.Shape
+    400288: i13DS Crop_dup_10
+    400290: i13DS Crop_dup_10.Shape
+    400292: i13DS Crop_dup_11
+    400294: i13DS Crop_dup_11.Shape
+    400296: i13DS Crop_dup_12
+    400298: i13DS Crop_dup_12.Shape
+    400300: i13DS Crop_dup_13
+    400302: i13DS Crop_dup_13.Shape
+    400304: i13DS Crop_dup_14
+    400306: i13DS Crop_dup_14.Shape
+    400308: i13DS Crop_dup_15
+    400310: i13DS Crop_dup_15.Shape
+    400312: i13DS Crop_dup_16
+    400314: i13DS Crop_dup_16.Shape
+    400316: i13DS Crop_dup_17
+    400318: i13DS Crop_dup_17.Shape
+    400320: i13DS Crop_dup_18
+    400322: i13DS Crop_dup_18.Shape
+    400324: i13DS Crop_dup_2
+    400326: i13DS Crop_dup_2.Shape
+    400328: i13DS Crop_dup_3
+    400330: i13DS Crop_dup_3.Shape
+    400332: i13DS Crop_dup_4
+    400334: i13DS Crop_dup_4.Shape
+    400336: i13DS Crop_dup_5
+    400338: i13DS Crop_dup_5.Shape
+    400340: i13DS Crop_dup_6
+    400342: i13DS Crop_dup_6.Shape
+    400344: i13DS Crop_dup_7
+    400346: i13DS Crop_dup_7.Shape
+    400348: i13DS Crop_dup_8
+    400350: i13DS Crop_dup_8.Shape
+    400352: i13DS Crop_dup_9
+    400354: i13DS Crop_dup_9.Shape
+    400356: i13DS Display
+    400358: i13DS Display.Shape
+    400360: i13DS Door
+    400362: i13DS Door.Shape
+    400364: i13DS Dressing Room
+    400366: i13DS Dressing Room 2
+    400368: i13DS Dressing Room 2.Shape
+    400370: i13DS Dressing Room Desk
+    400372: i13DS Dressing Room Desk.Shape
+    400374: i13DS Dressing Room Door
+    400376: i13DS Dressing Room Door 2
+    400378: i13DS Dressing Room Door 2.Shape
+    400380: i13DS Dressing Room Door 2_dup_2
+    400382: i13DS Dressing Room Door 2_dup_2.Shape
+    400384: i13DS Dressing Room Door.Shape
+    400386: i13DS Dressing Room Door_dup_2
+    400388: i13DS Dressing Room Door_dup_2.Shape
+    400390: i13DS Dressing Room Door_dup_3
+    400392: i13DS Dressing Room Door_dup_3.Shape
+    400394: i13DS Dressing Room Door_dup_4
+    400396: i13DS Dressing Room Door_dup_4.Shape
+    400398: i13DS Dressing Room.Shape
+    400400: i13DS Emergency Lights
+    400402: i13DS Emergency Lights.Shape
+    400404: i13DS Floor
+    400406: i13DS Floor.Shape
+    400408: i13DS Hearts
+    400410: i13DS Hearts.Shape
+    400412: i13DS Hearts_dup_2
+    400414: i13DS Hearts_dup_2.Shape
+    400416: i13DS HookBoard
+    400418: i13DS HookBoard.Shape
+    400420: i13DS HookBoard_dup_2
+    400422: i13DS HookBoard_dup_2.Shape
+    400424: i13DS HookBoard_dup_3
+    400426: i13DS HookBoard_dup_3.Shape
+    400428: i13DS HookBoard_dup_4
+    400430: i13DS HookBoard_dup_4.Shape
+    400432: i13DS HookBoard_dup_5
+    400434: i13DS HookBoard_dup_5.Shape
+    400436: i13DS HookBoard_dup_6
+    400438: i13DS HookBoard_dup_6.Shape
+    400440: i13DS Jewellwry
+    400442: i13DS Jewellwry.Shape
+    400444: i13DS Long Tee
+    400446: i13DS Long Tee.Shape
+    400448: i13DS Long Tee_dup_10
+    400450: i13DS Long Tee_dup_10.Shape
+    400452: i13DS Long Tee_dup_2
+    400454: i13DS Long Tee_dup_2.Shape
+    400456: i13DS Long Tee_dup_3
+    400458: i13DS Long Tee_dup_3.Shape
+    400460: i13DS Long Tee_dup_4
+    400462: i13DS Long Tee_dup_4.Shape
+    400464: i13DS Long Tee_dup_5
+    400466: i13DS Long Tee_dup_5.Shape
+    400468: i13DS Long Tee_dup_6
+    400470: i13DS Long Tee_dup_6.Shape
+    400472: i13DS Long Tee_dup_7
+    400474: i13DS Long Tee_dup_7.Shape
+    400476: i13DS Long Tee_dup_8
+    400478: i13DS Long Tee_dup_8.Shape
+    400480: i13DS Long Tee_dup_9
+    400482: i13DS Long Tee_dup_9.Shape
+    400484: i13DS Lounge Seat
+    400486: i13DS Lounge Seat.Shape
+    400488: i13DS Manaquin
+    400490: i13DS Manaquin.Shape
+    400492: i13DS Mirror
+    400494: i13DS Mirror.Shape
+    400496: i13DS Mirror_dup_2
+    400498: i13DS Mirror_dup_2.Shape
+    400500: i13DS Mirror_dup_3
+    400502: i13DS Mirror_dup_3.Shape
+    400504: i13DS Mirror_dup_4
+    400506: i13DS Mirror_dup_4.Shape
+    400508: i13DS Mirror_dup_5
+    400510: i13DS Mirror_dup_5.Shape
+    400512: i13DS Mirror_dup_6
+    400514: i13DS Mirror_dup_6.Shape
+    400516: i13DS Necklace
+    400518: i13DS Necklace.Shape
+    400520: i13DS Pearls
+    400522: i13DS Pearls.Shape
+    400524: i13DS Pearls_dup_2
+    400526: i13DS Pearls_dup_2.Shape
+    400528: i13DS Register
+    400530: i13DS Register.Shape
+    400532: i13DS Register_dup_2
+    400534: i13DS Register_dup_2.Shape
+    400536: i13DS Rings
+    400538: i13DS Rings.Shape
+    400540: i13DS Rings_dup_2
+    400542: i13DS Rings_dup_2.Shape
+    400544: i13DS Rsck Full
+    400546: i13DS Rsck Full.Shape
+    400548: i13DS Shelf 2
+    400550: i13DS Shelf 2.Shape
+    400552: i13DS Shlef
+    400554: i13DS Shlef 2
+    400556: i13DS Shlef 2.Shape
+    400558: i13DS Shlef.Shape
+    400560: i13DS Shlef_dup_2
+    400562: i13DS Shlef_dup_2.Shape
+    400564: i13DS Shoe 1
+    400566: i13DS Shoe 1.Shape
+    400568: i13DS Shoe 2
+    400570: i13DS Shoe 2.Shape
+    400572: i13DS Shoe 3
+    400574: i13DS Shoe 3.Shape
+    400576: i13DS Shoe 4
+    400578: i13DS Shoe 4.Shape
+    400580: i13DS Shoe 5
+    400582: i13DS Shoe 5.Shape
+    400584: i13DS Shoe 6
+    400586: i13DS Shoe 6.Shape
+    400588: i13DS Shoe 7
+    400590: i13DS Shoe 7.Shape
+    400592: i13DS Shoe 8
+    400594: i13DS Shoe 8.Shape
+    400596: i13DS Slthing Stand
+    400598: i13DS Slthing Stand.Shape
+    400600: i13DS Slthing Stand_dup_2
+    400602: i13DS Slthing Stand_dup_2.Shape
+    400604: i13DS Stand
+    400606: i13DS Stand.Shape
+    400608: i13DS Tee
+    400610: i13DS Tee.Shape
+    400612: i13DS Tee_dup_10
+    400614: i13DS Tee_dup_10.Shape
+    400616: i13DS Tee_dup_11
+    400618: i13DS Tee_dup_11.Shape
+    400620: i13DS Tee_dup_12
+    400622: i13DS Tee_dup_12.Shape
+    400624: i13DS Tee_dup_13
+    400626: i13DS Tee_dup_13.Shape
+    400628: i13DS Tee_dup_14
+    400630: i13DS Tee_dup_14.Shape
+    400632: i13DS Tee_dup_15
+    400634: i13DS Tee_dup_15.Shape
+    400636: i13DS Tee_dup_16
+    400638: i13DS Tee_dup_16.Shape
+    400640: i13DS Tee_dup_17
+    400642: i13DS Tee_dup_17.Shape
+    400644: i13DS Tee_dup_18
+    400646: i13DS Tee_dup_18.Shape
+    400648: i13DS Tee_dup_19
+    400650: i13DS Tee_dup_19.Shape
+    400652: i13DS Tee_dup_2
+    400654: i13DS Tee_dup_2.Shape
+    400656: i13DS Tee_dup_20
+    400658: i13DS Tee_dup_20.Shape
+    400660: i13DS Tee_dup_3
+    400662: i13DS Tee_dup_3.Shape
+    400664: i13DS Tee_dup_4
+    400666: i13DS Tee_dup_4.Shape
+    400668: i13DS Tee_dup_5
+    400670: i13DS Tee_dup_5.Shape
+    400672: i13DS Tee_dup_6
+    400674: i13DS Tee_dup_6.Shape
+    400676: i13DS Tee_dup_7
+    400678: i13DS Tee_dup_7.Shape
+    400680: i13DS Tee_dup_8
+    400682: i13DS Tee_dup_8.Shape
+    400684: i13DS Tee_dup_9
+    400686: i13DS Tee_dup_9.Shape
+    400688: i13DS Wall Back
+    400690: i13DS Wall Back.Shape
+    400692: i13DS Wall Front
+    400694: i13DS Wall Front.Shape
+    400696: i13DS Wall Shelf
+    400698: i13DS Wall Shelf.Shape
+    400700: i13DS Wall Shelf_dup_2
+    400702: i13DS Wall Shelf_dup_2.Shape
+    400704: i13DS_Glasses (4)
+    400706: i13DS_Glasses (4).Shape
+    400708: i13DS_Hat (2)
+    400710: i13DS_Hat (2).Shape
+    400712: i13DS_Mannequin_02 (2)
+    400714: i13DS_Mannequin_02 (2).Shape
+    400716: i13DS_Mannequin_03 (2)
+    400718: i13DS_Mannequin_03 (2).Shape
+    400720: i13DS_Mannequin_05
+    400722: i13DS_Mannequin_05.Shape
+    400724: lights
+    400726: LowPolyHanger
+    400728: LowPolyHanger.Shape
+    400730: LowPolyHanger_dup_10
+    400732: LowPolyHanger_dup_10.Shape
+    400734: LowPolyHanger_dup_11
+    400736: LowPolyHanger_dup_11.Shape
+    400738: LowPolyHanger_dup_12
+    400740: LowPolyHanger_dup_12.Shape
+    400742: LowPolyHanger_dup_13
+    400744: LowPolyHanger_dup_13.Shape
+    400746: LowPolyHanger_dup_14
+    400748: LowPolyHanger_dup_14.Shape
+    400750: LowPolyHanger_dup_15
+    400752: LowPolyHanger_dup_15.Shape
+    400754: LowPolyHanger_dup_16
+    400756: LowPolyHanger_dup_16.Shape
+    400758: LowPolyHanger_dup_17
+    400760: LowPolyHanger_dup_17.Shape
+    400762: LowPolyHanger_dup_18
+    400764: LowPolyHanger_dup_18.Shape
+    400766: LowPolyHanger_dup_19
+    400768: LowPolyHanger_dup_19.Shape
+    400770: LowPolyHanger_dup_2
+    400772: LowPolyHanger_dup_2.Shape
+    400774: LowPolyHanger_dup_20
+    400776: LowPolyHanger_dup_20.Shape
+    400778: LowPolyHanger_dup_21
+    400780: LowPolyHanger_dup_21.Shape
+    400782: LowPolyHanger_dup_22
+    400784: LowPolyHanger_dup_22.Shape
+    400786: LowPolyHanger_dup_23
+    400788: LowPolyHanger_dup_23.Shape
+    400790: LowPolyHanger_dup_24
+    400792: LowPolyHanger_dup_24.Shape
+    400794: LowPolyHanger_dup_25
+    400796: LowPolyHanger_dup_25.Shape
+    400798: LowPolyHanger_dup_26
+    400800: LowPolyHanger_dup_26.Shape
+    400802: LowPolyHanger_dup_27
+    400804: LowPolyHanger_dup_27.Shape
+    400806: LowPolyHanger_dup_28
+    400808: LowPolyHanger_dup_28.Shape
+    400810: LowPolyHanger_dup_29
+    400812: LowPolyHanger_dup_29.Shape
+    400814: LowPolyHanger_dup_3
+    400816: LowPolyHanger_dup_3.Shape
+    400818: LowPolyHanger_dup_30
+    400820: LowPolyHanger_dup_30.Shape
+    400822: LowPolyHanger_dup_31
+    400824: LowPolyHanger_dup_31.Shape
+    400826: LowPolyHanger_dup_32
+    400828: LowPolyHanger_dup_32.Shape
+    400830: LowPolyHanger_dup_33
+    400832: LowPolyHanger_dup_33.Shape
+    400834: LowPolyHanger_dup_34
+    400836: LowPolyHanger_dup_34.Shape
+    400838: LowPolyHanger_dup_35
+    400840: LowPolyHanger_dup_35.Shape
+    400842: LowPolyHanger_dup_36
+    400844: LowPolyHanger_dup_36.Shape
+    400846: LowPolyHanger_dup_37
+    400848: LowPolyHanger_dup_37.Shape
+    400850: LowPolyHanger_dup_38
+    400852: LowPolyHanger_dup_38.Shape
+    400854: LowPolyHanger_dup_39
+    400856: LowPolyHanger_dup_39.Shape
+    400858: LowPolyHanger_dup_4
+    400860: LowPolyHanger_dup_4.Shape
+    400862: LowPolyHanger_dup_40
+    400864: LowPolyHanger_dup_40.Shape
+    400866: LowPolyHanger_dup_41
+    400868: LowPolyHanger_dup_41.Shape
+    400870: LowPolyHanger_dup_42
+    400872: LowPolyHanger_dup_42.Shape
+    400874: LowPolyHanger_dup_43
+    400876: LowPolyHanger_dup_43.Shape
+    400878: LowPolyHanger_dup_44
+    400880: LowPolyHanger_dup_44.Shape
+    400882: LowPolyHanger_dup_45
+    400884: LowPolyHanger_dup_45.Shape
+    400886: LowPolyHanger_dup_46
+    400888: LowPolyHanger_dup_46.Shape
+    400890: LowPolyHanger_dup_47
+    400892: LowPolyHanger_dup_47.Shape
+    400894: LowPolyHanger_dup_48
+    400896: LowPolyHanger_dup_48.Shape
+    400898: LowPolyHanger_dup_49
+    400900: LowPolyHanger_dup_49.Shape
+    400902: LowPolyHanger_dup_5
+    400904: LowPolyHanger_dup_5.Shape
+    400906: LowPolyHanger_dup_50
+    400908: LowPolyHanger_dup_50.Shape
+    400910: LowPolyHanger_dup_51
+    400912: LowPolyHanger_dup_51.Shape
+    400914: LowPolyHanger_dup_52
+    400916: LowPolyHanger_dup_52.Shape
+    400918: LowPolyHanger_dup_53
+    400920: LowPolyHanger_dup_53.Shape
+    400922: LowPolyHanger_dup_54
+    400924: LowPolyHanger_dup_54.Shape
+    400926: LowPolyHanger_dup_55
+    400928: LowPolyHanger_dup_55.Shape
+    400930: LowPolyHanger_dup_56
+    400932: LowPolyHanger_dup_56.Shape
+    400934: LowPolyHanger_dup_57
+    400936: LowPolyHanger_dup_57.Shape
+    400938: LowPolyHanger_dup_58
+    400940: LowPolyHanger_dup_58.Shape
+    400942: LowPolyHanger_dup_59
+    400944: LowPolyHanger_dup_59.Shape
+    400946: LowPolyHanger_dup_6
+    400948: LowPolyHanger_dup_6.Shape
+    400950: LowPolyHanger_dup_60
+    400952: LowPolyHanger_dup_60.Shape
+    400954: LowPolyHanger_dup_61
+    400956: LowPolyHanger_dup_61.Shape
+    400958: LowPolyHanger_dup_62
+    400960: LowPolyHanger_dup_62.Shape
+    400962: LowPolyHanger_dup_63
+    400964: LowPolyHanger_dup_63.Shape
+    400966: LowPolyHanger_dup_64
+    400968: LowPolyHanger_dup_64.Shape
+    400970: LowPolyHanger_dup_65
+    400972: LowPolyHanger_dup_65.Shape
+    400974: LowPolyHanger_dup_66
+    400976: LowPolyHanger_dup_66.Shape
+    400978: LowPolyHanger_dup_67
+    400980: LowPolyHanger_dup_67.Shape
+    400982: LowPolyHanger_dup_68
+    400984: LowPolyHanger_dup_68.Shape
+    400986: LowPolyHanger_dup_69
+    400988: LowPolyHanger_dup_69.Shape
+    400990: LowPolyHanger_dup_7
+    400992: LowPolyHanger_dup_7.Shape
+    400994: LowPolyHanger_dup_70
+    400996: LowPolyHanger_dup_70.Shape
+    400998: LowPolyHanger_dup_8
+    401000: LowPolyHanger_dup_8.Shape
+    401002: LowPolyHanger_dup_9
+    401004: LowPolyHanger_dup_9.Shape
+    401006: single purse
+    401008: single purse.Shape
+    401010: single shopping bag
+    401012: single shopping bag.Shape
+    401014: Sun
+    401016: SunBase
+    401018: SunChain
+    401020: SunDial
+    2000000: Camera 1 1
+    2100000: white
+    2100002: Light
+    2100004: LightCase
+    2100006: Glass
+    2100008: black_032metal
+    2100010: black_032wood
+    2100012: red
+    2100014: Base
+    2100016: plastic
+    2100018: Black
+    2100020: glass
+    2100022: silver
+    2100024: block
+    2100026: brown_032wood_032trim
+    2100028: window3
+    2100030: window2
+    2100032: window1
+    2100034: wood_032mirror
+    2100036: glass_032mirror
+    2100038: black_032hindge
+    2100040: wood_032door
+    2100042: brown_032wwod
+    2100044: Hook
+    2100046: Board
+    2100048: Default
+    2100050: metal_Clothing_Rack_Hanger__0403_041
+    2100052: black_Clothing_Rack_Hanger__0403_041
+    2100054: chrome_032rack
+    2100056: SideWalk
+    2100058: Shoe_Leather_7
+    2100060: Shoe_Top_13
+    2100062: Shoe_Leather_14
+    2100064: Shoe_Metal_8
+    2100066: Gift_032Bag
+    2100068: Shoe_Leather_11
+    2100070: Shoe_Leather_15
+    2100072: Shoe_Metal_15
+    2100074: Shoe_Metal_13
+    2100076: Purse_Leather_8
+    2100078: Purse_Metal_8
+    2100080: Shoe_Leather_6
+    2100082: Shoe_Top_1
+    2100084: Shoe_Top_11
+    2100086: Shoe_Leather_8
+    2100088: Shoe_Heal_2
+    2100090: Shoe_Leather_13
+    2100092: Shoe_Metal_14
+    2100094: Shoe_Leather_9
+    2100096: Shoe_Top_2
+    2100098: Shoe_Heal_1
+    2100100: Shoe_Leather_17
+    2100102: Shoe_Metal_17
+    2100104: Shoe_Leather_5
+    2100106: Walet_Leather_2
+    2100108: Walet_Metal_2
+    2100110: Purse_Leather_2
+    2100112: Walet_Leather_3
+    2100114: Shoe_Leather_4
+    2100116: Purse_Leather_1
+    2100118: Purse_Leatherl_5
+    2100120: Purse_Leather_4
+    2100122: Purse_Leather_6_2
+    2100124: Purse_Leather_10
+    2100126: Purse_Leather_7
+    2100128: Purse_Leatherl_4
+    2100130: Purse_Metal_10
+    2100132: Purse_metal_1
+    2100134: Purse_Metal_9
+    2100136: Wallet_Leather_1
+    2100138: Wallet_Metal_1
+    2100140: Purse_Metal_4
+    2100142: Purse_Metal_3
+    2100144: Purse_Leather_9
+    2100146: Purse_Leather_3
+    2100148: Purse_Metal_5
+    2100150: Purse_Metal_6
+    2100152: Shoe_Leather_16
+    2100154: Shoe_Metal_16
+    2100156: Walet_Metal_3
+    2100158: Purse_Leather_6
+    2100160: Shoe_Metal_18
+    2100162: Shoe_Leatherl_18
+    2100164: Shoe_Leather_10
+    2100166: Shoe_Leather_12
+    2100168: Silver
+    2100170: Bottom
+    2100172: rope
+    2100174: Label
+    2100176: wall
+    2100178: Shelves
+    2100180: white_032walls
+    2100182: Gold
+    2100184: Gem
+    2100186: Pearl
+    2100188: metal
+    2100190: wood
+    2100192: fabric
+    2100194: Dummy
+    2100196: Stand
+    2100198: Frame
+    2100200: Lens
+    2100202: collar
+    2100204: cuffs
+    2100206: skirt
+    2100208: Metal
+    2100210: Shirt
+    2100212: Material5880
+    2100214: Material5892
+    2100216: Dress
+    2100218: manaquin
+    2100220: Metal_i13tcs_Barista_Shoe_L
+    2100222: sole_i13tcs_Barista_Shoe_L
+    2100224: Black_i13tcs_Barista_Shoe_L
+    2100226: color
+    2100228: Leather
+    2100230: Dark
+    2100232: Heel
+    2100234: Color1
+    2100236: LowerLip
+    2100238: LowerSole
+    2100240: SHaftPin
+    2100242: MaryJane
+    2100244: InnerSole
+    2100246: InnerShoe
+    2100248: eyelet
+    2100250: HeelTip
+    2100252: Shoe
+    2100254: Material3749
+    2100256: Pants
+    2100258: defaultMat
+    2100260: black
+    2100262: screen
+    2100264: CustomerScreen
+    2100266: Black_032metal
+    2100268: black_032Plastic
+    2100270: Paper_032reciept
+    2100272: Grey_032plastic
+    2100274: Rubber_032foot
+    2100276: Stool
+    2100278: black_032tire
+    2100280: Silver_Wall_Shelf_3_Contents
+    2100282: Leather_Wall_Shelf_3_Contents
+    2100284: Black_032Leather
+    2100286: Gift_032Bag_Wall_Shelf_3_Contents
+    2100288: rope_Wall_Shelf_3_Contents
+    2100290: Label_Wall_Shelf_3_Contents
+    2100292: default
+    2100294: Red
+    2100296: Blue
+    2100298: white_032leather
+    2100300: dispay_032wall_032
+    2300000: i13_Mesh_Light.Shape
+    2300002: i13_Mesh_Light_dup_10.Shape
+    2300004: i13_Mesh_Light_dup_2.Shape
+    2300006: i13_Mesh_Light_dup_3.Shape
+    2300008: i13_Mesh_Light_dup_4.Shape
+    2300010: i13_Mesh_Light_dup_5.Shape
+    2300012: i13_Mesh_Light_dup_6.Shape
+    2300014: i13_Mesh_Light_dup_7.Shape
+    2300016: i13_Mesh_Light_dup_8.Shape
+    2300018: i13_Mesh_Light_dup_9.Shape
+    2300020: i13DR Dress Short.Shape
+    2300022: i13DR Dress Short_dup_10.Shape
+    2300024: i13DR Dress Short_dup_11.Shape
+    2300026: i13DR Dress Short_dup_12.Shape
+    2300028: i13DR Dress Short_dup_13.Shape
+    2300030: i13DR Dress Short_dup_14.Shape
+    2300032: i13DR Dress Short_dup_15.Shape
+    2300034: i13DR Dress Short_dup_16.Shape
+    2300036: i13DR Dress Short_dup_17.Shape
+    2300038: i13DR Dress Short_dup_18.Shape
+    2300040: i13DR Dress Short_dup_19.Shape
+    2300042: i13DR Dress Short_dup_2.Shape
+    2300044: i13DR Dress Short_dup_20.Shape
+    2300046: i13DR Dress Short_dup_21.Shape
+    2300048: i13DR Dress Short_dup_22.Shape
+    2300050: i13DR Dress Short_dup_3.Shape
+    2300052: i13DR Dress Short_dup_4.Shape
+    2300054: i13DR Dress Short_dup_5.Shape
+    2300056: i13DR Dress Short_dup_6.Shape
+    2300058: i13DR Dress Short_dup_7.Shape
+    2300060: i13DR Dress Short_dup_8.Shape
+    2300062: i13DR Dress Short_dup_9.Shape
+    2300064: i13DS Bangles 2.Shape
+    2300066: i13DS Bangles 2_dup_2.Shape
+    2300068: i13DS Bangles.Shape
+    2300070: i13DS Bangles_dup_2.Shape
+    2300072: i13DS Bench.Shape
+    2300074: i13DS Bench_dup_2.Shape
+    2300076: i13DS Bench_dup_3.Shape
+    2300078: i13DS Bench_dup_4.Shape
+    2300080: i13DS Box 2.Shape
+    2300082: i13DS Box 2_dup_2.Shape
+    2300084: i13DS Box.Shape
+    2300086: i13DS Box_dup_2.Shape
+    2300088: i13DS Brooch.Shape
+    2300090: i13DS Brooch_dup_2.Shape
+    2300092: i13DS Celing.Shape
+    2300094: i13DS Checkout Desk.Shape
+    2300096: i13DS Checkout Stool.Shape
+    2300098: i13DS Checkout Stool_dup_2.Shape
+    2300100: i13DS Clothing Rack.Shape
+    2300102: i13DS Clothing Rack_dup_10.Shape
+    2300104: i13DS Clothing Rack_dup_2.Shape
+    2300106: i13DS Clothing Rack_dup_3.Shape
+    2300108: i13DS Clothing Rack_dup_4.Shape
+    2300110: i13DS Clothing Rack_dup_5.Shape
+    2300112: i13DS Clothing Rack_dup_6.Shape
+    2300114: i13DS Clothing Rack_dup_7.Shape
+    2300116: i13DS Clothing Rack_dup_8.Shape
+    2300118: i13DS Clothing Rack_dup_9.Shape
+    2300120: i13DS Clothing Stand.Shape
+    2300122: i13DS Compact Large.Shape
+    2300124: i13DS Compact Large_dup_2.Shape
+    2300126: i13DS Compact Small.Shape
+    2300128: i13DS Compact Small_dup_2.Shape
+    2300130: i13DS Crop.Shape
+    2300132: i13DS Crop_dup_10.Shape
+    2300134: i13DS Crop_dup_11.Shape
+    2300136: i13DS Crop_dup_12.Shape
+    2300138: i13DS Crop_dup_13.Shape
+    2300140: i13DS Crop_dup_14.Shape
+    2300142: i13DS Crop_dup_15.Shape
+    2300144: i13DS Crop_dup_16.Shape
+    2300146: i13DS Crop_dup_17.Shape
+    2300148: i13DS Crop_dup_18.Shape
+    2300150: i13DS Crop_dup_2.Shape
+    2300152: i13DS Crop_dup_3.Shape
+    2300154: i13DS Crop_dup_4.Shape
+    2300156: i13DS Crop_dup_5.Shape
+    2300158: i13DS Crop_dup_6.Shape
+    2300160: i13DS Crop_dup_7.Shape
+    2300162: i13DS Crop_dup_8.Shape
+    2300164: i13DS Crop_dup_9.Shape
+    2300166: i13DS Display.Shape
+    2300168: i13DS Door.Shape
+    2300170: i13DS Dressing Room 2.Shape
+    2300172: i13DS Dressing Room Desk.Shape
+    2300174: i13DS Dressing Room Door 2.Shape
+    2300176: i13DS Dressing Room Door 2_dup_2.Shape
+    2300178: i13DS Dressing Room Door.Shape
+    2300180: i13DS Dressing Room Door_dup_2.Shape
+    2300182: i13DS Dressing Room Door_dup_3.Shape
+    2300184: i13DS Dressing Room Door_dup_4.Shape
+    2300186: i13DS Dressing Room.Shape
+    2300188: i13DS Emergency Lights.Shape
+    2300190: i13DS Floor.Shape
+    2300192: i13DS Hearts.Shape
+    2300194: i13DS Hearts_dup_2.Shape
+    2300196: i13DS HookBoard.Shape
+    2300198: i13DS HookBoard_dup_2.Shape
+    2300200: i13DS HookBoard_dup_3.Shape
+    2300202: i13DS HookBoard_dup_4.Shape
+    2300204: i13DS HookBoard_dup_5.Shape
+    2300206: i13DS HookBoard_dup_6.Shape
+    2300208: i13DS Jewellwry.Shape
+    2300210: i13DS Long Tee.Shape
+    2300212: i13DS Long Tee_dup_10.Shape
+    2300214: i13DS Long Tee_dup_2.Shape
+    2300216: i13DS Long Tee_dup_3.Shape
+    2300218: i13DS Long Tee_dup_4.Shape
+    2300220: i13DS Long Tee_dup_5.Shape
+    2300222: i13DS Long Tee_dup_6.Shape
+    2300224: i13DS Long Tee_dup_7.Shape
+    2300226: i13DS Long Tee_dup_8.Shape
+    2300228: i13DS Long Tee_dup_9.Shape
+    2300230: i13DS Lounge Seat.Shape
+    2300232: i13DS Manaquin.Shape
+    2300234: i13DS Mirror.Shape
+    2300236: i13DS Mirror_dup_2.Shape
+    2300238: i13DS Mirror_dup_3.Shape
+    2300240: i13DS Mirror_dup_4.Shape
+    2300242: i13DS Mirror_dup_5.Shape
+    2300244: i13DS Mirror_dup_6.Shape
+    2300246: i13DS Necklace.Shape
+    2300248: i13DS Pearls.Shape
+    2300250: i13DS Pearls_dup_2.Shape
+    2300252: i13DS Register.Shape
+    2300254: i13DS Register_dup_2.Shape
+    2300256: i13DS Rings.Shape
+    2300258: i13DS Rings_dup_2.Shape
+    2300260: i13DS Rsck Full.Shape
+    2300262: i13DS Shelf 2.Shape
+    2300264: i13DS Shlef 2.Shape
+    2300266: i13DS Shlef.Shape
+    2300268: i13DS Shlef_dup_2.Shape
+    2300270: i13DS Shoe 1.Shape
+    2300272: i13DS Shoe 2.Shape
+    2300274: i13DS Shoe 3.Shape
+    2300276: i13DS Shoe 4.Shape
+    2300278: i13DS Shoe 5.Shape
+    2300280: i13DS Shoe 6.Shape
+    2300282: i13DS Shoe 7.Shape
+    2300284: i13DS Shoe 8.Shape
+    2300286: i13DS Slthing Stand.Shape
+    2300288: i13DS Slthing Stand_dup_2.Shape
+    2300290: i13DS Stand.Shape
+    2300292: i13DS Tee.Shape
+    2300294: i13DS Tee_dup_10.Shape
+    2300296: i13DS Tee_dup_11.Shape
+    2300298: i13DS Tee_dup_12.Shape
+    2300300: i13DS Tee_dup_13.Shape
+    2300302: i13DS Tee_dup_14.Shape
+    2300304: i13DS Tee_dup_15.Shape
+    2300306: i13DS Tee_dup_16.Shape
+    2300308: i13DS Tee_dup_17.Shape
+    2300310: i13DS Tee_dup_18.Shape
+    2300312: i13DS Tee_dup_19.Shape
+    2300314: i13DS Tee_dup_2.Shape
+    2300316: i13DS Tee_dup_20.Shape
+    2300318: i13DS Tee_dup_3.Shape
+    2300320: i13DS Tee_dup_4.Shape
+    2300322: i13DS Tee_dup_5.Shape
+    2300324: i13DS Tee_dup_6.Shape
+    2300326: i13DS Tee_dup_7.Shape
+    2300328: i13DS Tee_dup_8.Shape
+    2300330: i13DS Tee_dup_9.Shape
+    2300332: i13DS Wall Back.Shape
+    2300334: i13DS Wall Front.Shape
+    2300336: i13DS Wall Shelf.Shape
+    2300338: i13DS Wall Shelf_dup_2.Shape
+    2300340: i13DS_Glasses (4).Shape
+    2300342: i13DS_Hat (2).Shape
+    2300344: i13DS_Mannequin_02 (2).Shape
+    2300346: i13DS_Mannequin_03 (2).Shape
+    2300348: i13DS_Mannequin_05.Shape
+    2300350: LowPolyHanger.Shape
+    2300352: LowPolyHanger_dup_10.Shape
+    2300354: LowPolyHanger_dup_11.Shape
+    2300356: LowPolyHanger_dup_12.Shape
+    2300358: LowPolyHanger_dup_13.Shape
+    2300360: LowPolyHanger_dup_14.Shape
+    2300362: LowPolyHanger_dup_15.Shape
+    2300364: LowPolyHanger_dup_16.Shape
+    2300366: LowPolyHanger_dup_17.Shape
+    2300368: LowPolyHanger_dup_18.Shape
+    2300370: LowPolyHanger_dup_19.Shape
+    2300372: LowPolyHanger_dup_2.Shape
+    2300374: LowPolyHanger_dup_20.Shape
+    2300376: LowPolyHanger_dup_21.Shape
+    2300378: LowPolyHanger_dup_22.Shape
+    2300380: LowPolyHanger_dup_23.Shape
+    2300382: LowPolyHanger_dup_24.Shape
+    2300384: LowPolyHanger_dup_25.Shape
+    2300386: LowPolyHanger_dup_26.Shape
+    2300388: LowPolyHanger_dup_27.Shape
+    2300390: LowPolyHanger_dup_28.Shape
+    2300392: LowPolyHanger_dup_29.Shape
+    2300394: LowPolyHanger_dup_3.Shape
+    2300396: LowPolyHanger_dup_30.Shape
+    2300398: LowPolyHanger_dup_31.Shape
+    2300400: LowPolyHanger_dup_32.Shape
+    2300402: LowPolyHanger_dup_33.Shape
+    2300404: LowPolyHanger_dup_34.Shape
+    2300406: LowPolyHanger_dup_35.Shape
+    2300408: LowPolyHanger_dup_36.Shape
+    2300410: LowPolyHanger_dup_37.Shape
+    2300412: LowPolyHanger_dup_38.Shape
+    2300414: LowPolyHanger_dup_39.Shape
+    2300416: LowPolyHanger_dup_4.Shape
+    2300418: LowPolyHanger_dup_40.Shape
+    2300420: LowPolyHanger_dup_41.Shape
+    2300422: LowPolyHanger_dup_42.Shape
+    2300424: LowPolyHanger_dup_43.Shape
+    2300426: LowPolyHanger_dup_44.Shape
+    2300428: LowPolyHanger_dup_45.Shape
+    2300430: LowPolyHanger_dup_46.Shape
+    2300432: LowPolyHanger_dup_47.Shape
+    2300434: LowPolyHanger_dup_48.Shape
+    2300436: LowPolyHanger_dup_49.Shape
+    2300438: LowPolyHanger_dup_5.Shape
+    2300440: LowPolyHanger_dup_50.Shape
+    2300442: LowPolyHanger_dup_51.Shape
+    2300444: LowPolyHanger_dup_52.Shape
+    2300446: LowPolyHanger_dup_53.Shape
+    2300448: LowPolyHanger_dup_54.Shape
+    2300450: LowPolyHanger_dup_55.Shape
+    2300452: LowPolyHanger_dup_56.Shape
+    2300454: LowPolyHanger_dup_57.Shape
+    2300456: LowPolyHanger_dup_58.Shape
+    2300458: LowPolyHanger_dup_59.Shape
+    2300460: LowPolyHanger_dup_6.Shape
+    2300462: LowPolyHanger_dup_60.Shape
+    2300464: LowPolyHanger_dup_61.Shape
+    2300466: LowPolyHanger_dup_62.Shape
+    2300468: LowPolyHanger_dup_63.Shape
+    2300470: LowPolyHanger_dup_64.Shape
+    2300472: LowPolyHanger_dup_65.Shape
+    2300474: LowPolyHanger_dup_66.Shape
+    2300476: LowPolyHanger_dup_67.Shape
+    2300478: LowPolyHanger_dup_68.Shape
+    2300480: LowPolyHanger_dup_69.Shape
+    2300482: LowPolyHanger_dup_7.Shape
+    2300484: LowPolyHanger_dup_70.Shape
+    2300486: LowPolyHanger_dup_8.Shape
+    2300488: LowPolyHanger_dup_9.Shape
+    2300490: single purse.Shape
+    2300492: single shopping bag.Shape
+    3300000: i13_Mesh_Light.Shape
+    3300002: i13_Mesh_Light_dup_10.Shape
+    3300004: i13_Mesh_Light_dup_2.Shape
+    3300006: i13_Mesh_Light_dup_3.Shape
+    3300008: i13_Mesh_Light_dup_4.Shape
+    3300010: i13_Mesh_Light_dup_5.Shape
+    3300012: i13_Mesh_Light_dup_6.Shape
+    3300014: i13_Mesh_Light_dup_7.Shape
+    3300016: i13_Mesh_Light_dup_8.Shape
+    3300018: i13_Mesh_Light_dup_9.Shape
+    3300020: i13DR Dress Short.Shape
+    3300022: i13DR Dress Short_dup_10.Shape
+    3300024: i13DR Dress Short_dup_11.Shape
+    3300026: i13DR Dress Short_dup_12.Shape
+    3300028: i13DR Dress Short_dup_13.Shape
+    3300030: i13DR Dress Short_dup_14.Shape
+    3300032: i13DR Dress Short_dup_15.Shape
+    3300034: i13DR Dress Short_dup_16.Shape
+    3300036: i13DR Dress Short_dup_17.Shape
+    3300038: i13DR Dress Short_dup_18.Shape
+    3300040: i13DR Dress Short_dup_19.Shape
+    3300042: i13DR Dress Short_dup_2.Shape
+    3300044: i13DR Dress Short_dup_20.Shape
+    3300046: i13DR Dress Short_dup_21.Shape
+    3300048: i13DR Dress Short_dup_22.Shape
+    3300050: i13DR Dress Short_dup_3.Shape
+    3300052: i13DR Dress Short_dup_4.Shape
+    3300054: i13DR Dress Short_dup_5.Shape
+    3300056: i13DR Dress Short_dup_6.Shape
+    3300058: i13DR Dress Short_dup_7.Shape
+    3300060: i13DR Dress Short_dup_8.Shape
+    3300062: i13DR Dress Short_dup_9.Shape
+    3300064: i13DS Bangles 2.Shape
+    3300066: i13DS Bangles 2_dup_2.Shape
+    3300068: i13DS Bangles.Shape
+    3300070: i13DS Bangles_dup_2.Shape
+    3300072: i13DS Bench.Shape
+    3300074: i13DS Bench_dup_2.Shape
+    3300076: i13DS Bench_dup_3.Shape
+    3300078: i13DS Bench_dup_4.Shape
+    3300080: i13DS Box 2.Shape
+    3300082: i13DS Box 2_dup_2.Shape
+    3300084: i13DS Box.Shape
+    3300086: i13DS Box_dup_2.Shape
+    3300088: i13DS Brooch.Shape
+    3300090: i13DS Brooch_dup_2.Shape
+    3300092: i13DS Celing.Shape
+    3300094: i13DS Checkout Desk.Shape
+    3300096: i13DS Checkout Stool.Shape
+    3300098: i13DS Checkout Stool_dup_2.Shape
+    3300100: i13DS Clothing Rack.Shape
+    3300102: i13DS Clothing Rack_dup_10.Shape
+    3300104: i13DS Clothing Rack_dup_2.Shape
+    3300106: i13DS Clothing Rack_dup_3.Shape
+    3300108: i13DS Clothing Rack_dup_4.Shape
+    3300110: i13DS Clothing Rack_dup_5.Shape
+    3300112: i13DS Clothing Rack_dup_6.Shape
+    3300114: i13DS Clothing Rack_dup_7.Shape
+    3300116: i13DS Clothing Rack_dup_8.Shape
+    3300118: i13DS Clothing Rack_dup_9.Shape
+    3300120: i13DS Clothing Stand.Shape
+    3300122: i13DS Compact Large.Shape
+    3300124: i13DS Compact Large_dup_2.Shape
+    3300126: i13DS Compact Small.Shape
+    3300128: i13DS Compact Small_dup_2.Shape
+    3300130: i13DS Crop.Shape
+    3300132: i13DS Crop_dup_10.Shape
+    3300134: i13DS Crop_dup_11.Shape
+    3300136: i13DS Crop_dup_12.Shape
+    3300138: i13DS Crop_dup_13.Shape
+    3300140: i13DS Crop_dup_14.Shape
+    3300142: i13DS Crop_dup_15.Shape
+    3300144: i13DS Crop_dup_16.Shape
+    3300146: i13DS Crop_dup_17.Shape
+    3300148: i13DS Crop_dup_18.Shape
+    3300150: i13DS Crop_dup_2.Shape
+    3300152: i13DS Crop_dup_3.Shape
+    3300154: i13DS Crop_dup_4.Shape
+    3300156: i13DS Crop_dup_5.Shape
+    3300158: i13DS Crop_dup_6.Shape
+    3300160: i13DS Crop_dup_7.Shape
+    3300162: i13DS Crop_dup_8.Shape
+    3300164: i13DS Crop_dup_9.Shape
+    3300166: i13DS Display.Shape
+    3300168: i13DS Door.Shape
+    3300170: i13DS Dressing Room 2.Shape
+    3300172: i13DS Dressing Room Desk.Shape
+    3300174: i13DS Dressing Room Door 2.Shape
+    3300176: i13DS Dressing Room Door 2_dup_2.Shape
+    3300178: i13DS Dressing Room Door.Shape
+    3300180: i13DS Dressing Room Door_dup_2.Shape
+    3300182: i13DS Dressing Room Door_dup_3.Shape
+    3300184: i13DS Dressing Room Door_dup_4.Shape
+    3300186: i13DS Dressing Room.Shape
+    3300188: i13DS Emergency Lights.Shape
+    3300190: i13DS Floor.Shape
+    3300192: i13DS Hearts.Shape
+    3300194: i13DS Hearts_dup_2.Shape
+    3300196: i13DS HookBoard.Shape
+    3300198: i13DS HookBoard_dup_2.Shape
+    3300200: i13DS HookBoard_dup_3.Shape
+    3300202: i13DS HookBoard_dup_4.Shape
+    3300204: i13DS HookBoard_dup_5.Shape
+    3300206: i13DS HookBoard_dup_6.Shape
+    3300208: i13DS Jewellwry.Shape
+    3300210: i13DS Long Tee.Shape
+    3300212: i13DS Long Tee_dup_10.Shape
+    3300214: i13DS Long Tee_dup_2.Shape
+    3300216: i13DS Long Tee_dup_3.Shape
+    3300218: i13DS Long Tee_dup_4.Shape
+    3300220: i13DS Long Tee_dup_5.Shape
+    3300222: i13DS Long Tee_dup_6.Shape
+    3300224: i13DS Long Tee_dup_7.Shape
+    3300226: i13DS Long Tee_dup_8.Shape
+    3300228: i13DS Long Tee_dup_9.Shape
+    3300230: i13DS Lounge Seat.Shape
+    3300232: i13DS Manaquin.Shape
+    3300234: i13DS Mirror.Shape
+    3300236: i13DS Mirror_dup_2.Shape
+    3300238: i13DS Mirror_dup_3.Shape
+    3300240: i13DS Mirror_dup_4.Shape
+    3300242: i13DS Mirror_dup_5.Shape
+    3300244: i13DS Mirror_dup_6.Shape
+    3300246: i13DS Necklace.Shape
+    3300248: i13DS Pearls.Shape
+    3300250: i13DS Pearls_dup_2.Shape
+    3300252: i13DS Register.Shape
+    3300254: i13DS Register_dup_2.Shape
+    3300256: i13DS Rings.Shape
+    3300258: i13DS Rings_dup_2.Shape
+    3300260: i13DS Rsck Full.Shape
+    3300262: i13DS Shelf 2.Shape
+    3300264: i13DS Shlef 2.Shape
+    3300266: i13DS Shlef.Shape
+    3300268: i13DS Shlef_dup_2.Shape
+    3300270: i13DS Shoe 1.Shape
+    3300272: i13DS Shoe 2.Shape
+    3300274: i13DS Shoe 3.Shape
+    3300276: i13DS Shoe 4.Shape
+    3300278: i13DS Shoe 5.Shape
+    3300280: i13DS Shoe 6.Shape
+    3300282: i13DS Shoe 7.Shape
+    3300284: i13DS Shoe 8.Shape
+    3300286: i13DS Slthing Stand.Shape
+    3300288: i13DS Slthing Stand_dup_2.Shape
+    3300290: i13DS Stand.Shape
+    3300292: i13DS Tee.Shape
+    3300294: i13DS Tee_dup_10.Shape
+    3300296: i13DS Tee_dup_11.Shape
+    3300298: i13DS Tee_dup_12.Shape
+    3300300: i13DS Tee_dup_13.Shape
+    3300302: i13DS Tee_dup_14.Shape
+    3300304: i13DS Tee_dup_15.Shape
+    3300306: i13DS Tee_dup_16.Shape
+    3300308: i13DS Tee_dup_17.Shape
+    3300310: i13DS Tee_dup_18.Shape
+    3300312: i13DS Tee_dup_19.Shape
+    3300314: i13DS Tee_dup_2.Shape
+    3300316: i13DS Tee_dup_20.Shape
+    3300318: i13DS Tee_dup_3.Shape
+    3300320: i13DS Tee_dup_4.Shape
+    3300322: i13DS Tee_dup_5.Shape
+    3300324: i13DS Tee_dup_6.Shape
+    3300326: i13DS Tee_dup_7.Shape
+    3300328: i13DS Tee_dup_8.Shape
+    3300330: i13DS Tee_dup_9.Shape
+    3300332: i13DS Wall Back.Shape
+    3300334: i13DS Wall Front.Shape
+    3300336: i13DS Wall Shelf.Shape
+    3300338: i13DS Wall Shelf_dup_2.Shape
+    3300340: i13DS_Glasses (4).Shape
+    3300342: i13DS_Hat (2).Shape
+    3300344: i13DS_Mannequin_02 (2).Shape
+    3300346: i13DS_Mannequin_03 (2).Shape
+    3300348: i13DS_Mannequin_05.Shape
+    3300350: LowPolyHanger.Shape
+    3300352: LowPolyHanger_dup_10.Shape
+    3300354: LowPolyHanger_dup_11.Shape
+    3300356: LowPolyHanger_dup_12.Shape
+    3300358: LowPolyHanger_dup_13.Shape
+    3300360: LowPolyHanger_dup_14.Shape
+    3300362: LowPolyHanger_dup_15.Shape
+    3300364: LowPolyHanger_dup_16.Shape
+    3300366: LowPolyHanger_dup_17.Shape
+    3300368: LowPolyHanger_dup_18.Shape
+    3300370: LowPolyHanger_dup_19.Shape
+    3300372: LowPolyHanger_dup_2.Shape
+    3300374: LowPolyHanger_dup_20.Shape
+    3300376: LowPolyHanger_dup_21.Shape
+    3300378: LowPolyHanger_dup_22.Shape
+    3300380: LowPolyHanger_dup_23.Shape
+    3300382: LowPolyHanger_dup_24.Shape
+    3300384: LowPolyHanger_dup_25.Shape
+    3300386: LowPolyHanger_dup_26.Shape
+    3300388: LowPolyHanger_dup_27.Shape
+    3300390: LowPolyHanger_dup_28.Shape
+    3300392: LowPolyHanger_dup_29.Shape
+    3300394: LowPolyHanger_dup_3.Shape
+    3300396: LowPolyHanger_dup_30.Shape
+    3300398: LowPolyHanger_dup_31.Shape
+    3300400: LowPolyHanger_dup_32.Shape
+    3300402: LowPolyHanger_dup_33.Shape
+    3300404: LowPolyHanger_dup_34.Shape
+    3300406: LowPolyHanger_dup_35.Shape
+    3300408: LowPolyHanger_dup_36.Shape
+    3300410: LowPolyHanger_dup_37.Shape
+    3300412: LowPolyHanger_dup_38.Shape
+    3300414: LowPolyHanger_dup_39.Shape
+    3300416: LowPolyHanger_dup_4.Shape
+    3300418: LowPolyHanger_dup_40.Shape
+    3300420: LowPolyHanger_dup_41.Shape
+    3300422: LowPolyHanger_dup_42.Shape
+    3300424: LowPolyHanger_dup_43.Shape
+    3300426: LowPolyHanger_dup_44.Shape
+    3300428: LowPolyHanger_dup_45.Shape
+    3300430: LowPolyHanger_dup_46.Shape
+    3300432: LowPolyHanger_dup_47.Shape
+    3300434: LowPolyHanger_dup_48.Shape
+    3300436: LowPolyHanger_dup_49.Shape
+    3300438: LowPolyHanger_dup_5.Shape
+    3300440: LowPolyHanger_dup_50.Shape
+    3300442: LowPolyHanger_dup_51.Shape
+    3300444: LowPolyHanger_dup_52.Shape
+    3300446: LowPolyHanger_dup_53.Shape
+    3300448: LowPolyHanger_dup_54.Shape
+    3300450: LowPolyHanger_dup_55.Shape
+    3300452: LowPolyHanger_dup_56.Shape
+    3300454: LowPolyHanger_dup_57.Shape
+    3300456: LowPolyHanger_dup_58.Shape
+    3300458: LowPolyHanger_dup_59.Shape
+    3300460: LowPolyHanger_dup_6.Shape
+    3300462: LowPolyHanger_dup_60.Shape
+    3300464: LowPolyHanger_dup_61.Shape
+    3300466: LowPolyHanger_dup_62.Shape
+    3300468: LowPolyHanger_dup_63.Shape
+    3300470: LowPolyHanger_dup_64.Shape
+    3300472: LowPolyHanger_dup_65.Shape
+    3300474: LowPolyHanger_dup_66.Shape
+    3300476: LowPolyHanger_dup_67.Shape
+    3300478: LowPolyHanger_dup_68.Shape
+    3300480: LowPolyHanger_dup_69.Shape
+    3300482: LowPolyHanger_dup_7.Shape
+    3300484: LowPolyHanger_dup_70.Shape
+    3300486: LowPolyHanger_dup_8.Shape
+    3300488: LowPolyHanger_dup_9.Shape
+    3300490: single purse.Shape
+    3300492: single shopping bag.Shape
+    4300000: i13DS Celing.Shape
+    4300002: i13DS Door.Shape
+    4300004: i13DS Emergency Lights.Shape
+    4300006: i13DS Wall Front.Shape
+    4300008: i13DS Mirror.Shape
+    4300010: i13DS Mirror_dup_2.Shape
+    4300012: i13DS Mirror_dup_3.Shape
+    4300014: i13DS Mirror_dup_4.Shape
+    4300016: i13DS Mirror_dup_5.Shape
+    4300018: i13DS Mirror_dup_6.Shape
+    4300020: i13DS Dressing Room Door.Shape
+    4300022: i13DS Dressing Room Door_dup_2.Shape
+    4300024: i13DS Dressing Room Door 2.Shape
+    4300026: i13DS Dressing Room Door 2_dup_2.Shape
+    4300028: i13DS Dressing Room Door_dup_3.Shape
+    4300030: i13DS Dressing Room Door_dup_4.Shape
+    4300032: i13DS Bench.Shape
+    4300034: i13DS Bench_dup_2.Shape
+    4300036: i13DS Bench_dup_3.Shape
+    4300038: i13DS Bench_dup_4.Shape
+    4300040: i13DS HookBoard.Shape
+    4300042: i13DS HookBoard_dup_2.Shape
+    4300044: i13DS HookBoard_dup_3.Shape
+    4300046: i13DS HookBoard_dup_4.Shape
+    4300048: i13DS HookBoard_dup_5.Shape
+    4300050: i13DS HookBoard_dup_6.Shape
+    4300052: i13DS Dressing Room Desk.Shape
+    4300054: i13DS Dressing Room.Shape
+    4300056: i13DS Dressing Room 2.Shape
+    4300058: i13DS Tee.Shape
+    4300060: LowPolyHanger.Shape
+    4300062: i13DR Dress Short.Shape
+    4300064: LowPolyHanger_dup_2.Shape
+    4300066: i13DS Crop.Shape
+    4300068: LowPolyHanger_dup_3.Shape
+    4300070: i13DR Dress Short_dup_2.Shape
+    4300072: LowPolyHanger_dup_4.Shape
+    4300074: i13DS Tee_dup_2.Shape
+    4300076: LowPolyHanger_dup_5.Shape
+    4300078: i13DS Long Tee.Shape
+    4300080: LowPolyHanger_dup_6.Shape
+    4300082: i13DS Crop_dup_2.Shape
+    4300084: LowPolyHanger_dup_7.Shape
+    4300086: i13DS Clothing Rack.Shape
+    4300088: i13DS Tee_dup_3.Shape
+    4300090: LowPolyHanger_dup_8.Shape
+    4300092: i13DR Dress Short_dup_3.Shape
+    4300094: LowPolyHanger_dup_9.Shape
+    4300096: i13DS Crop_dup_3.Shape
+    4300098: LowPolyHanger_dup_10.Shape
+    4300100: i13DR Dress Short_dup_4.Shape
+    4300102: LowPolyHanger_dup_11.Shape
+    4300104: i13DS Tee_dup_4.Shape
+    4300106: LowPolyHanger_dup_12.Shape
+    4300108: i13DS Long Tee_dup_2.Shape
+    4300110: LowPolyHanger_dup_13.Shape
+    4300112: i13DS Crop_dup_4.Shape
+    4300114: LowPolyHanger_dup_14.Shape
+    4300116: i13DS Clothing Rack_dup_2.Shape
+    4300118: i13DS Tee_dup_5.Shape
+    4300120: LowPolyHanger_dup_15.Shape
+    4300122: i13DR Dress Short_dup_5.Shape
+    4300124: LowPolyHanger_dup_16.Shape
+    4300126: i13DS Crop_dup_5.Shape
+    4300128: LowPolyHanger_dup_17.Shape
+    4300130: i13DR Dress Short_dup_6.Shape
+    4300132: LowPolyHanger_dup_18.Shape
+    4300134: i13DS Tee_dup_6.Shape
+    4300136: LowPolyHanger_dup_19.Shape
+    4300138: i13DS Long Tee_dup_3.Shape
+    4300140: LowPolyHanger_dup_20.Shape
+    4300142: i13DS Crop_dup_6.Shape
+    4300144: LowPolyHanger_dup_21.Shape
+    4300146: i13DS Clothing Rack_dup_3.Shape
+    4300148: i13DS Tee_dup_7.Shape
+    4300150: LowPolyHanger_dup_22.Shape
+    4300152: i13DR Dress Short_dup_7.Shape
+    4300154: LowPolyHanger_dup_23.Shape
+    4300156: i13DS Crop_dup_7.Shape
+    4300158: LowPolyHanger_dup_24.Shape
+    4300160: i13DR Dress Short_dup_8.Shape
+    4300162: LowPolyHanger_dup_25.Shape
+    4300164: i13DS Tee_dup_8.Shape
+    4300166: LowPolyHanger_dup_26.Shape
+    4300168: i13DS Long Tee_dup_4.Shape
+    4300170: LowPolyHanger_dup_27.Shape
+    4300172: i13DS Crop_dup_8.Shape
+    4300174: LowPolyHanger_dup_28.Shape
+    4300176: i13DS Clothing Rack_dup_4.Shape
+    4300178: i13DS Floor.Shape
+    4300180: i13DS Shlef.Shape
+    4300182: i13DS Wall Shelf.Shape
+    4300184: i13DS Wall Back.Shape
+    4300186: i13DS Box 2.Shape
+    4300188: i13DS Brooch.Shape
+    4300190: i13DS Compact Large.Shape
+    4300192: i13DS Compact Small.Shape
+    4300194: i13DS Hearts.Shape
+    4300196: i13DS Pearls.Shape
+    4300198: i13DS Rings.Shape
+    4300200: i13DS Box.Shape
+    4300202: i13DS Bangles 2.Shape
+    4300204: i13DS Bangles.Shape
+    4300206: i13DS Slthing Stand.Shape
+    4300208: i13DS Manaquin.Shape
+    4300210: i13DS_Hat (2).Shape
+    4300212: i13DS_Glasses (4).Shape
+    4300214: i13DS_Mannequin_02 (2).Shape
+    4300216: i13DS Necklace.Shape
+    4300218: i13DS Jewellwry.Shape
+    4300220: i13DS_Mannequin_05.Shape
+    4300222: i13DS Rsck Full.Shape
+    4300224: i13DS Shelf 2.Shape
+    4300226: i13DS_Mannequin_03 (2).Shape
+    4300228: i13DS Stand.Shape
+    4300230: i13DS Box 2_dup_2.Shape
+    4300232: i13DS Brooch_dup_2.Shape
+    4300234: i13DS Compact Large_dup_2.Shape
+    4300236: i13DS Compact Small_dup_2.Shape
+    4300238: i13DS Hearts_dup_2.Shape
+    4300240: i13DS Pearls_dup_2.Shape
+    4300242: i13DS Rings_dup_2.Shape
+    4300244: i13DS Box_dup_2.Shape
+    4300246: i13DS Bangles 2_dup_2.Shape
+    4300248: i13DS Bangles_dup_2.Shape
+    4300250: i13DS Slthing Stand_dup_2.Shape
+    4300252: i13DS Shlef_dup_2.Shape
+    4300254: i13DS Tee_dup_9.Shape
+    4300256: LowPolyHanger_dup_29.Shape
+    4300258: i13DR Dress Short_dup_9.Shape
+    4300260: LowPolyHanger_dup_30.Shape
+    4300262: i13DS Crop_dup_9.Shape
+    4300264: LowPolyHanger_dup_31.Shape
+    4300266: i13DR Dress Short_dup_10.Shape
+    4300268: LowPolyHanger_dup_32.Shape
+    4300270: i13DS Tee_dup_10.Shape
+    4300272: LowPolyHanger_dup_33.Shape
+    4300274: i13DS Long Tee_dup_5.Shape
+    4300276: LowPolyHanger_dup_34.Shape
+    4300278: i13DR Dress Short_dup_11.Shape
+    4300280: LowPolyHanger_dup_35.Shape
+    4300282: i13DS Clothing Rack_dup_5.Shape
+    4300284: i13DS Tee_dup_11.Shape
+    4300286: LowPolyHanger_dup_36.Shape
+    4300288: i13DR Dress Short_dup_12.Shape
+    4300290: LowPolyHanger_dup_37.Shape
+    4300292: i13DS Crop_dup_10.Shape
+    4300294: LowPolyHanger_dup_38.Shape
+    4300296: i13DR Dress Short_dup_13.Shape
+    4300298: LowPolyHanger_dup_39.Shape
+    4300300: i13DS Tee_dup_12.Shape
+    4300302: LowPolyHanger_dup_40.Shape
+    4300304: i13DS Long Tee_dup_6.Shape
+    4300306: LowPolyHanger_dup_41.Shape
+    4300308: i13DS Crop_dup_11.Shape
+    4300310: LowPolyHanger_dup_42.Shape
+    4300312: i13DS Clothing Rack_dup_6.Shape
+    4300314: i13DS Tee_dup_13.Shape
+    4300316: LowPolyHanger_dup_43.Shape
+    4300318: i13DR Dress Short_dup_14.Shape
+    4300320: LowPolyHanger_dup_44.Shape
+    4300322: i13DS Crop_dup_12.Shape
+    4300324: LowPolyHanger_dup_45.Shape
+    4300326: i13DR Dress Short_dup_15.Shape
+    4300328: LowPolyHanger_dup_46.Shape
+    4300330: i13DS Tee_dup_14.Shape
+    4300332: LowPolyHanger_dup_47.Shape
+    4300334: i13DS Long Tee_dup_7.Shape
+    4300336: LowPolyHanger_dup_48.Shape
+    4300338: i13DS Crop_dup_13.Shape
+    4300340: LowPolyHanger_dup_49.Shape
+    4300342: i13DS Clothing Rack_dup_7.Shape
+    4300344: i13DS Tee_dup_15.Shape
+    4300346: LowPolyHanger_dup_50.Shape
+    4300348: i13DR Dress Short_dup_16.Shape
+    4300350: LowPolyHanger_dup_51.Shape
+    4300352: i13DS Crop_dup_14.Shape
+    4300354: LowPolyHanger_dup_52.Shape
+    4300356: i13DR Dress Short_dup_17.Shape
+    4300358: LowPolyHanger_dup_53.Shape
+    4300360: i13DS Tee_dup_16.Shape
+    4300362: LowPolyHanger_dup_54.Shape
+    4300364: i13DS Long Tee_dup_8.Shape
+    4300366: LowPolyHanger_dup_55.Shape
+    4300368: i13DS Crop_dup_15.Shape
+    4300370: LowPolyHanger_dup_56.Shape
+    4300372: i13DS Clothing Rack_dup_8.Shape
+    4300374: i13DS Tee_dup_17.Shape
+    4300376: LowPolyHanger_dup_57.Shape
+    4300378: i13DR Dress Short_dup_18.Shape
+    4300380: LowPolyHanger_dup_58.Shape
+    4300382: i13DS Crop_dup_16.Shape
+    4300384: LowPolyHanger_dup_59.Shape
+    4300386: i13DR Dress Short_dup_19.Shape
+    4300388: LowPolyHanger_dup_60.Shape
+    4300390: i13DS Tee_dup_18.Shape
+    4300392: LowPolyHanger_dup_61.Shape
+    4300394: i13DS Long Tee_dup_9.Shape
+    4300396: LowPolyHanger_dup_62.Shape
+    4300398: i13DS Crop_dup_17.Shape
+    4300400: LowPolyHanger_dup_63.Shape
+    4300402: i13DS Clothing Rack_dup_9.Shape
+    4300404: i13DS Tee_dup_19.Shape
+    4300406: LowPolyHanger_dup_64.Shape
+    4300408: i13DR Dress Short_dup_20.Shape
+    4300410: LowPolyHanger_dup_65.Shape
+    4300412: i13DS Crop_dup_18.Shape
+    4300414: LowPolyHanger_dup_66.Shape
+    4300416: i13DR Dress Short_dup_21.Shape
+    4300418: LowPolyHanger_dup_67.Shape
+    4300420: i13DS Tee_dup_20.Shape
+    4300422: LowPolyHanger_dup_68.Shape
+    4300424: i13DS Long Tee_dup_10.Shape
+    4300426: LowPolyHanger_dup_69.Shape
+    4300428: i13DR Dress Short_dup_22.Shape
+    4300430: LowPolyHanger_dup_70.Shape
+    4300432: i13DS Clothing Rack_dup_10.Shape
+    4300434: i13DS Register.Shape
+    4300436: i13DS Register_dup_2.Shape
+    4300438: i13DS Checkout Stool.Shape
+    4300440: i13DS Checkout Stool_dup_2.Shape
+    4300442: single purse.Shape
+    4300444: single shopping bag.Shape
+    4300446: i13DS Checkout Desk.Shape
+    4300448: i13DS Lounge Seat.Shape
+    4300450: i13DS Shoe 1.Shape
+    4300452: i13DS Shoe 2.Shape
+    4300454: i13DS Shoe 3.Shape
+    4300456: i13DS Shoe 4.Shape
+    4300458: i13DS Shoe 5.Shape
+    4300460: i13DS Shoe 6.Shape
+    4300462: i13DS Shoe 7.Shape
+    4300464: i13DS Clothing Stand.Shape
+    4300466: i13DS Shoe 8.Shape
+    4300468: i13DS Shlef 2.Shape
+    4300470: i13DS Display.Shape
+    4300472: i13DS Wall Shelf_dup_2.Shape
+    4300474: i13_Mesh_Light.Shape
+    4300476: i13_Mesh_Light_dup_2.Shape
+    4300478: i13_Mesh_Light_dup_3.Shape
+    4300480: i13_Mesh_Light_dup_4.Shape
+    4300482: i13_Mesh_Light_dup_5.Shape
+    4300484: i13_Mesh_Light_dup_6.Shape
+    4300486: i13_Mesh_Light_dup_7.Shape
+    4300488: i13_Mesh_Light_dup_8.Shape
+    4300490: i13_Mesh_Light_dup_9.Shape
+    4300492: i13_Mesh_Light_dup_10.Shape
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
