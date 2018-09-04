@@ -55,6 +55,7 @@ namespace VRTK
             Quaternion currentRotation = transform.localRotation;
             Vector3 currentScale = transform.localScale;
             Transform newParent = null;
+            Transform temp = null;
 
             switch (sdkObject)
             {
@@ -63,10 +64,15 @@ namespace VRTK
                     break;
                 case SDKObject.Headset:
                     newParent = VRTK_DeviceFinder.HeadsetTransform();
+                    //temp = newParent;
+                    //Debug.Log("the temp position is " + temp.transform.position);
+                    //newParent.position = new Vector3(newParent.transform.position.x, 3, newParent.transform.position.z);
+                    
                     break;
             }
 
             transform.SetParent(newParent);
+            //transform.position = new Vector3(transform.position.x, 3, transform.position.z);
             transform.localPosition = currentPosition;
             transform.localRotation = currentRotation;
             transform.localScale = currentScale;

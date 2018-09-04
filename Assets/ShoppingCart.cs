@@ -9,24 +9,33 @@ public class ShoppingCart : MonoBehaviour {
     private Vector3 pointCart;
     private Vector3 pointMove;
     public GameObject Cart;
+    public Material red;
 
-    public Text ta;
-    public Text tb;
+    private AudioSource bubble;
+
+    public float bigScale;
 
     void Start () {
         pointZero = transform.position;
+        bubble = this.GetComponent<AudioSource>();
     }
 
-    void Update () {
+    private void Update () {
         pointMove = gameObject.transform.position;
         pointCart = Cart.GetComponent<Transform>().position;
 
-        ta.text = pointCart.ToString();
-        tb.text = transform.position.ToString();
+        if (Vector3.Distance(transform.position, pointCart) < 1)
+        {
+            Cart.transform.localScale = new Vector3(bigScale, bigScale, bigScale);
+            Cart.GetComponent<MeshRenderer>().materials[1] = red;
+        }
 
         if (Vector3.Distance(transform.position , pointCart) < 0.1)
         {
+            Cart.GetComponent<MeshRenderer>().materials[1] = red;
             Destroy(gameObject);
+            bubble.Play();
+            
         }
     }
 }
