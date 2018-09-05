@@ -20,7 +20,7 @@ public class ShoppingCart : MonoBehaviour {
         bubble = this.GetComponent<AudioSource>();
     }
 
-    private void Update () {
+    public void Update () {
         pointMove = gameObject.transform.position;
         pointCart = Cart.GetComponent<Transform>().position;
 
@@ -34,8 +34,13 @@ public class ShoppingCart : MonoBehaviour {
         {
             Cart.GetComponent<MeshRenderer>().materials[1] = red;
             Destroy(gameObject);
-            bubble.Play();
-            
+            bubble.Play();    
+        }
+
+        if (Vector3.Distance(transform.position, pointCart) > 1)
+        {
+            Cart.transform.localScale = new Vector3(0.1F, 0.1F, 0.1F);
+            Cart.GetComponent<MeshRenderer>().materials[1] = red;
         }
     }
 }

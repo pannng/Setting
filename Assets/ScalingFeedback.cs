@@ -4,26 +4,19 @@ using UnityEngine;
 
 public class ScalingFeedback : MonoBehaviour {
 
-    public float doubleScale;
     public float presentScaleX;
-    public float presentScaleY;
-    public float presentScaleZ;
 
-    AudioSource SoundComplete;
+    public AudioSource SoundComplete;
 
-    private void Start()
+    void Start()
     {
         SoundComplete = GetComponent<AudioSource>();
         presentScaleX = transform.localScale.x;
-        presentScaleY = transform.localScale.y;
-        presentScaleZ = transform.localScale.z;
     }
 
     void Update () {
         presentScaleX = transform.localScale.x;
-        presentScaleY = transform.localScale.y;
-        presentScaleZ = transform.localScale.z;
-        if (presentScaleX == doubleScale && presentScaleY == doubleScale && presentScaleZ == doubleScale)
+        if (presentScaleX == 2)
         {
             SoundComplete.Play();
         }
