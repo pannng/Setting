@@ -16,7 +16,7 @@ public class RotationFeedback : MonoBehaviour {
     void Update()
     {
         presentRotationY = transform.eulerAngles.y;
-        if (presentRotationY > 170 && presentRotationY < 190)
+        if (presentRotationY > 179 && presentRotationY < 181)
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
         }

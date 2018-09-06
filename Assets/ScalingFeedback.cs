@@ -15,10 +15,9 @@ public class ScalingFeedback : MonoBehaviour {
 
     void Update () {
         presentScaleX = transform.localScale.x;
-        if (presentScaleX > 1.9 && presentScaleX < 2.1)
+        if (presentScaleX > 1.99 && presentScaleX < 2.01)
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
-            Debug.Log("2");
         }
     }
 }
