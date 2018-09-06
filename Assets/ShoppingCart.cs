@@ -11,13 +11,12 @@ public class ShoppingCart : MonoBehaviour {
     public GameObject Cart;
     public Material red;
 
-    private AudioSource bubble;
+    public AudioClip clip;
 
     public float bigScale;
 
     void Start () {
         pointZero = transform.position;
-        bubble = this.GetComponent<AudioSource>();
     }
 
     public void Update () {
@@ -30,11 +29,11 @@ public class ShoppingCart : MonoBehaviour {
             Cart.GetComponent<MeshRenderer>().materials[1] = red;
         }
 
-        if (Vector3.Distance(transform.position , pointCart) < 0.1)
+        if (Vector3.Distance(transform.position, pointCart) < 0.1)
         {
             Cart.GetComponent<MeshRenderer>().materials[1] = red;
             Destroy(gameObject);
-            bubble.Play();    
+            AudioSource.PlayClipAtPoint(clip, transform.position);
         }
 
         if (Vector3.Distance(transform.position, pointCart) > 1)
