@@ -4,22 +4,21 @@ using UnityEngine;
 
 public class RotationFeedback : MonoBehaviour {
 
-    public float presentRotationX;
+    public float presentRotationY;
     
-    public AudioSource SoundComplete;
+    public AudioClip clip;
 
     void Start()
     {
-        SoundComplete = GetComponent<AudioSource>();
-        presentRotationX = transform.eulerAngles.x;
+        presentRotationY = transform.eulerAngles.y;
     }
 
     void Update()
     {
-        presentRotationX = transform.eulerAngles.x;
-        if (System.Math.Abs(presentRotationX) == 180)
+        presentRotationY = transform.eulerAngles.y;
+        if (presentRotationY > 170 && presentRotationY < 190)
         {
-            SoundComplete.Play();
+            AudioSource.PlayClipAtPoint(clip, transform.position);
         }
     }
 }

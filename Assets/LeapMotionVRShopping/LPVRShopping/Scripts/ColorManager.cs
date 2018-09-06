@@ -34,25 +34,26 @@ public class ColorManager : MonoBehaviour {
 
     public void GetColorObj(GameObject currentobject)
     {
-        //m_object = currentobject;
+
         //rend = m_object.GetComponent<Renderer>();
+        m_object = currentobject;
         childobject = m_object.transform.GetChild(0).gameObject;
         rend = childobject.GetComponent<Renderer>();
     }
 
     public void ChangetoRedColor()
     {
-        rend.material.color = Color.red;
+        rend.materials[1].color = Color.red;
     }
 
     public void ChangetoGreenColor()
     {
-        rend.material.color = Color.green;
+        rend.materials[1].color = Color.green;
     }
 
     public void ChangetoBlueColor()
     {
-        rend.material.color = Color.blue;
+        rend.materials[1].color = Color.blue;
     }
 
 

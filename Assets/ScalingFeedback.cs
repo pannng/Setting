@@ -6,19 +6,19 @@ public class ScalingFeedback : MonoBehaviour {
 
     public float presentScaleX;
 
-    public AudioSource SoundComplete;
+    public AudioClip clip;
 
     void Start()
     {
-        SoundComplete = GetComponent<AudioSource>();
         presentScaleX = transform.localScale.x;
     }
 
     void Update () {
         presentScaleX = transform.localScale.x;
-        if (presentScaleX == 2)
+        if (presentScaleX > 1.9 && presentScaleX < 2.1)
         {
-            SoundComplete.Play();
+            AudioSource.PlayClipAtPoint(clip, transform.position);
+            Debug.Log("2");
         }
     }
 }

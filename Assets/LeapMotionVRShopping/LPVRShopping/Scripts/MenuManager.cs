@@ -26,7 +26,7 @@ using UnityEngine;
         public void GetMenuObj(GameObject currentobject)
         {
             m_object = currentobject;
-            childobject = m_object.transform.GetChild(0).gameObject;
+            childobject = m_object.transform.GetChild(1).gameObject;
         }
         
 

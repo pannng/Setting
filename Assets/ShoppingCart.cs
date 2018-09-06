@@ -31,7 +31,7 @@ public class ShoppingCart : MonoBehaviour {
 
         if (Vector3.Distance(transform.position, pointCart) < 0.1)
         {
-            Cart.GetComponent<MeshRenderer>().materials[1] = red;
+            Cart.GetComponent<MeshRenderer>().materials[1].color = Color.red;
             Destroy(gameObject);
             AudioSource.PlayClipAtPoint(clip, transform.position);
         }
