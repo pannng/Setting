@@ -11630,6 +11630,7 @@ MeshFilter:
 67b5f2072a323b6aca7edf471a18cc5d595c14ee
 
 
+
 --- !u!23 &890956707
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11646,11 +11647,8 @@ MeshRenderer:
   m_ReflectionProbeUsage: 0
   m_RenderingLayerMask: 4294967295
   m_Materials:
-
   - {fileID: 1385089006}
-
 67b5f2072a323b6aca7edf471a18cc5d595c14ee
-
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
