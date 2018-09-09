@@ -145,7 +145,7 @@ namespace Leap.Unity.Encoding {
       intoHand.Fill(frameID:                -1,
                   id:                     (isLeft ? 0 : 1),
                   confidence:             1f,
-                  grabStrength:           0.5f,
+                  grabStrength:           0.8f,
                   grabAngle:              100f,
                   pinchStrength:          0.5f,
                   pinchDistance:          50f,
