@@ -39,7 +39,7 @@ using UnityEngine;
                      childobject.SetActive(true);
                 }
 
-                Debug.Log("This childobject menu has been active!");
+                //Debug.Log("This childobject menu has been active!");
             }
 
     }
@@ -53,7 +53,7 @@ using UnityEngine;
                     childobject.SetActive(false);
                 }
 
-                Debug.Log("This childobject menu has been deactive!");
+                //Debug.Log("This childobject menu has been deactive!");
             }   
         }   
     }
