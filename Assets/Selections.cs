@@ -16,13 +16,13 @@ public class Selections : MonoBehaviour {
 
     public void TocolorA()
     {
-        transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.red;
-        AudioSource.PlayClipAtPoint(clip, transform.position);
+        transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.red; //transform.GetComponent<MeshRenderer>().materials[1].color = Color.red;颜色变成红色
+        AudioSource.PlayClipAtPoint(clip, transform.position); //音效
     }
 
     public void TocolorB()
     {
-        transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.black;
+        transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.blue;
         AudioSource.PlayClipAtPoint(clip, transform.position);
     }
 
@@ -34,7 +34,7 @@ public class Selections : MonoBehaviour {
 
     public void ToS()
     {
-        transform.localScale = new Vector3(0.5F, 0.5F, 0.5F);
+        transform.localScale = new Vector3(0.5F, 0.5F, 0.5F); //transform.localScale = new Vector3(0.5F, 0.5F, 0.5F)
         AudioSource.PlayClipAtPoint(clip, transform.position);
     }
 
