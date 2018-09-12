@@ -5,6 +5,9 @@ using UnityEngine;
 public class ScalingFeedback : MonoBehaviour {
 
     public float presentScaleX;
+    public GameObject Big;
+    public GameObject Small;
+    public GameObject Origin;
 
     public float CoolDownTime = 0.2F;
     float CoolDownLeft = 0.0F;
@@ -14,6 +17,9 @@ public class ScalingFeedback : MonoBehaviour {
     void Start()
     {
         presentScaleX = transform.localScale.x; //开始的时候获取原始尺寸
+        Big.SetActive(false);
+        Small.SetActive(false);
+        Origin.SetActive(false);
     }
 
     void Update () {
@@ -32,6 +38,15 @@ public class ScalingFeedback : MonoBehaviour {
         if (presentScaleX > 1.99 && presentScaleX < 2.01 && CoolDownLeft <= 0.0F) //尺寸接近2倍的时候，播放音效
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
+            Big.SetActive(false);
+            Small.SetActive(true);
+        }
+
+        if (presentScaleX > 0.49 && presentScaleX < 0.51 && CoolDownLeft <= 0.0F) //尺寸接近0.5倍的时候，播放音效
+        {
+            AudioSource.PlayClipAtPoint(clip, transform.position);
+            Small.SetActive(false);
+            Origin.SetActive(true);
         }
     }
 }
