@@ -67,7 +67,7 @@ Material:
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _SeeThru: 0.25
+    - _SeeThru: 0.63
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 0

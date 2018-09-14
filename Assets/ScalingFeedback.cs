@@ -39,14 +39,13 @@ public class ScalingFeedback : MonoBehaviour {
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
             Big.SetActive(false);
-            Small.SetActive(true);
+            Origin.SetActive(true);
         }
 
-        if (presentScaleX > 0.49 && presentScaleX < 0.51 && CoolDownLeft <= 0.0F) //尺寸接近0.5倍的时候，播放音效
+        if (presentScaleX > 0.99 && presentScaleX < 1.01 && CoolDownLeft <= 0.0F) //尺寸接近1倍的时候，播放音效
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
-            Small.SetActive(false);
-            Origin.SetActive(true);
+            Origin.SetActive(false);
         }
     }
 }
