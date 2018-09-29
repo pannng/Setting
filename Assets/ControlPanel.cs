@@ -11,18 +11,18 @@ public class ControlPanel : MonoBehaviour {
     void Start()
     {
         controlPanel.SetActive(false);
-        star.SetActive(false);
+        //star.SetActive(false);
     }
 
     public void OpenPanel()
     {
         controlPanel.SetActive(true);
-        star.SetActive(true);
+        //star.SetActive(true);
     }
 
     public void ClosePanel()
     {
         controlPanel.SetActive(false);
-        star.SetActive(false);
+        //star.SetActive(false);
     }
 }

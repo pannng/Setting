@@ -61,6 +61,22 @@ namespace VRTK
         /// Emitted when the panel menu item is open and the user presses the trigger of the controller holding the interactable object.
         /// </summary>
         public event PanelMenuItemControllerEventHandler PanelMenuItemGripPressed;
+    //****************************8
+        public delegate void GetCurrentObject();
+        public GetCurrentObject getCurrentObject;
+        public AudioClip clip;
+
+        private void Start()
+        {
+            this.getCurrentObject += AudioPlay;
+        }
+
+        private void AudioPlay()
+        {
+            AudioSource.PlayClipAtPoint(clip, transform.position);
+        }
+
+     //**************************8
 
         public virtual void OnPanelMenuItemShowing(PanelMenuItemControllerEventArgs e)
         {
@@ -130,6 +146,7 @@ namespace VRTK
         {
             gameObject.SetActive(true);
             OnPanelMenuItemShowing(SetPanelMenuItemEvent(interactableObject));
+            this.getCurrentObject();
         }
 
         /// <summary>

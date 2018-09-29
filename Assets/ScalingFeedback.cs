@@ -42,7 +42,7 @@ public class ScalingFeedback : MonoBehaviour {
             Origin.SetActive(true);
         }
 
-        if (presentScaleX > 0.99 && presentScaleX < 1.01 && CoolDownLeft <= 0.0F) //尺寸接近1倍的时候，播放音效
+        if (presentScaleX > 1.01 && presentScaleX < 1.03 && CoolDownLeft <= 0.0F) //尺寸接近1倍的时候，播放音效
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
             Origin.SetActive(false);
