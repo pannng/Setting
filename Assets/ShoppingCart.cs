@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Leap.Unity.Attributes;
+using System;
+using UnityEngine.Events;
+using UnityEngine.Serialization;
+using Leap.Unity.Interaction;
 
 public class ShoppingCart : MonoBehaviour {
 
@@ -15,6 +20,9 @@ public class ShoppingCart : MonoBehaviour {
 
     public float bigScale;
     public float smallScale;
+
+    public Button t10;
+    public GameObject T10;
 
     void Start () {
         pointZero = transform.position;
@@ -33,8 +41,13 @@ public class ShoppingCart : MonoBehaviour {
         if (Vector3.Distance(transform.position, pointCart) < 0.05)
         {
             Cart.GetComponent<MeshRenderer>().materials[1].SetColor("_TintColor", Color.red);
-            Destroy(gameObject);                                     //销毁物体
+            gameobject.SetActive(false);                                     //销毁物体
             AudioSource.PlayClipAtPoint(clip, transform.position);   //音效
+
+            InteractionButton T10InteractionButton = (InteractionButton)T10.GetComponent(typeof(InteractionButton));
+            T10InteractionButton.controlEnabled = false;
+            T10.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            t10.interactable = false;
         }
 
 

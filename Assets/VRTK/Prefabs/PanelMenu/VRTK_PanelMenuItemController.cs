@@ -2,6 +2,14 @@
 namespace VRTK
 {
     using UnityEngine;
+    using UnityEngine.UI;
+    using System.Collections;
+    using System.Collections.Generic;
+    using Leap.Unity.Attributes;
+    using System;
+    using UnityEngine.Events;
+    using UnityEngine.Serialization;
+    using Leap.Unity.Interaction;
 
     /// <summary>
     /// Event Payload
@@ -65,6 +73,11 @@ namespace VRTK
         public delegate void GetCurrentObject();
         public GetCurrentObject getCurrentObject;
         public AudioClip clip;
+
+        public Button t5;
+        public Button t6;
+        public GameObject T5;
+        public GameObject T6;
 
         private void Start()
         {
@@ -142,11 +155,17 @@ namespace VRTK
         /// The Show method is used to show the menu.
         /// </summary>
         /// <param name="interactableObject">The object the menu is attached to.</param>
+        /// ********************************************************************************************************************
         public virtual void Show(GameObject interactableObject)
         {
             gameObject.SetActive(true);
             OnPanelMenuItemShowing(SetPanelMenuItemEvent(interactableObject));
             this.getCurrentObject();
+
+            InteractionButton T5InteractionButton = (InteractionButton)T5.GetComponent(typeof(InteractionButton));
+            T5InteractionButton.controlEnabled = false;
+            T5.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            t5.interactable = false;
         }
 
         /// <summary>
@@ -157,6 +176,12 @@ namespace VRTK
         {
             gameObject.SetActive(false);
             OnPanelMenuItemHiding(SetPanelMenuItemEvent(interactableObject));
+            this.getCurrentObject();
+
+            InteractionButton T6InteractionButton = (InteractionButton)T5.GetComponent(typeof(InteractionButton));
+            T6InteractionButton.controlEnabled = false;
+            T6.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            t6.interactable = false;
         }
 
         /// <summary>

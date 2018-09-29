@@ -2,6 +2,7 @@
 namespace VRTK
 {
     using UnityEngine;
+    using UnityEngine.UI;
     using System.Collections;
     using System.Collections.Generic;
     using GrabAttachMechanics;
@@ -365,6 +366,9 @@ namespace VRTK
         public GetCurrentObject getCurrentObject;
         public AudioClip clip;
 
+        public Button t1;
+        public GameObject T1;
+
         private void Start()
         {
             this.getCurrentObject += AudioPlay;
@@ -383,6 +387,10 @@ namespace VRTK
                 InteractableObjectGrabbed(this, e);
                 Debug.Log("grab");
                 this.getCurrentObject();
+
+                T1.controlEnabled = false;
+                T1.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+                t1.interactable = false;
             }
         }
 
