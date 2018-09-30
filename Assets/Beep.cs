@@ -11,9 +11,9 @@ public class Beep : MonoBehaviour {
         AudioSource.PlayClipAtPoint(clip, transform.position);
     }
 
-    public void Delayshowthemenu()
+    public void DelaySound()
     {
-        Invoke("BeepPlay", 10);
+        Invoke("BeepPlay", 30);
     }
 
 }

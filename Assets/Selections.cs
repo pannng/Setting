@@ -16,6 +16,8 @@ public class Selections : MonoBehaviour {
     public GameObject T7;
     public GameObject T8;
 
+    public Taskinfo other;
+
     public void TocolorA()
     {
         transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.red; //transform.GetComponent<MeshRenderer>().materials[1].color = Color.red;颜色变成红色
@@ -33,10 +35,10 @@ public class Selections : MonoBehaviour {
         transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.green;
         AudioSource.PlayClipAtPoint(clip, transform.position);
 
-        InteractionButton T7InteractionButton = (InteractionButton)T7.GetComponent(typeof(InteractionButton));
-        T7InteractionButton.controlEnabled = false;
-        T7.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-        t7.interactable = false;
+        if (other.iftask7)
+        {
+            t7.interactable = false;
+        }
     }
 
     public void ToS()
@@ -56,9 +58,9 @@ public class Selections : MonoBehaviour {
         transform.localScale = new Vector3(1.5F, 1.5F, 1.5F);
         AudioSource.PlayClipAtPoint(clip, transform.position);
 
-        InteractionButton T8InteractionButton = (InteractionButton)T8.GetComponent(typeof(InteractionButton));
-        T8InteractionButton.controlEnabled = false;
-        T8.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-        t8.interactable = false;
+        if (other.iftask8)
+        {
+            t8.interactable = false;
+        }
     }
 }

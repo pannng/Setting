@@ -69,15 +69,15 @@ namespace VRTK
         /// Emitted when the panel menu item is open and the user presses the trigger of the controller holding the interactable object.
         /// </summary>
         public event PanelMenuItemControllerEventHandler PanelMenuItemGripPressed;
-    //****************************8
+    //****************************
         public delegate void GetCurrentObject();
         public GetCurrentObject getCurrentObject;
         public AudioClip clip;
 
         public Button t5;
         public Button t6;
-        public GameObject T5;
-        public GameObject T6;
+
+        public Taskinfo other;
 
         private void Start()
         {
@@ -89,7 +89,7 @@ namespace VRTK
             AudioSource.PlayClipAtPoint(clip, transform.position);
         }
 
-     //**************************8
+     //**************************
 
         public virtual void OnPanelMenuItemShowing(PanelMenuItemControllerEventArgs e)
         {
@@ -160,12 +160,12 @@ namespace VRTK
         {
             gameObject.SetActive(true);
             OnPanelMenuItemShowing(SetPanelMenuItemEvent(interactableObject));
-            this.getCurrentObject();
 
-            InteractionButton T5InteractionButton = (InteractionButton)T5.GetComponent(typeof(InteractionButton));
-            T5InteractionButton.controlEnabled = false;
-            T5.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-            t5.interactable = false;
+            if (other.iftask5)
+            {
+                this.getCurrentObject();
+                t5.interactable = false;
+            }
         }
 
         /// <summary>
@@ -176,12 +176,11 @@ namespace VRTK
         {
             gameObject.SetActive(false);
             OnPanelMenuItemHiding(SetPanelMenuItemEvent(interactableObject));
-            this.getCurrentObject();
-
-            InteractionButton T6InteractionButton = (InteractionButton)T5.GetComponent(typeof(InteractionButton));
-            T6InteractionButton.controlEnabled = false;
-            T6.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-            t6.interactable = false;
+            if (other.iftask6)
+            {
+                this.getCurrentObject();
+                t6.interactable = false;
+            }
         }
 
         /// <summary>

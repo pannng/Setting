@@ -7,6 +7,11 @@ namespace VRTK
     using System.Collections.Generic;
     using GrabAttachMechanics;
     using SecondaryControllerGrabActions;
+    using Leap.Unity.Attributes;
+    using System;
+    using UnityEngine.Events;
+    using UnityEngine.Serialization;
+    using Leap.Unity.Interaction;
 
 
     /// <summary>
@@ -365,6 +370,7 @@ namespace VRTK
         public delegate void GetCurrentObject();
         public GetCurrentObject getCurrentObject;
         public AudioClip clip;
+        public Taskinfo other;
 
         public Button t1;
         public GameObject T1;
@@ -386,11 +392,16 @@ namespace VRTK
             {
                 InteractableObjectGrabbed(this, e);
                 Debug.Log("grab");
-                this.getCurrentObject();
 
-                T1.controlEnabled = false;
-                T1.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-                t1.interactable = false;
+                if (other.iftask1)
+                {
+                    this.getCurrentObject();
+
+                    InteractionButton T1InteractionButton = (InteractionButton)T1.GetComponent(typeof(InteractionButton));
+                    T1InteractionButton.controlEnabled = false;
+                    T1.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+                    t1.interactable = false;
+                }
             }
         }
 

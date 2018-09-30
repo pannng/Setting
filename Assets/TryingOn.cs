@@ -20,6 +20,8 @@ public class TryingOn : MonoBehaviour {
 
     public AudioClip clip;
 
+    public Taskinfo other;
+
     void Start()
     {
         pointZero = transform.position;
@@ -30,9 +32,9 @@ public class TryingOn : MonoBehaviour {
         pointMove = gameObject.transform.position;           //实时获取物体的位置
         pointBody = Body.GetComponent<Transform>().position; //实时获取购物车的位置
 
-        if (Vector3.Distance(transform.position, pointBody) < 0.2)
+        if (Vector3.Distance(transform.position, pointBody) < 0.3 && other.iftask9)
         {
-            gameobject.SetActive(false);                                     //销毁物体
+            gameObject.SetActive(false);                                     //销毁物体
             AudioSource.PlayClipAtPoint(clip, transform.position);   //音效
 
             InteractionButton T9InteractionButton = (InteractionButton)T9.GetComponent(typeof(InteractionButton));

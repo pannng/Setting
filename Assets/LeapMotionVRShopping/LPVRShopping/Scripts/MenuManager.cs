@@ -1,15 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Leap.Unity.Interaction;
 
     public class MenuManager : MonoBehaviour
     {
 
         public GameObject m_object;
         public GameObject childobject;
+        public Taskinfo other;
+        public GameObject T5;
+        public GameObject T6;
 
 
-        void Start()
+    void Start()
         {
 
         DetectionManager.Get().getCurrentObject += GetMenuObj;
@@ -37,6 +41,12 @@ using UnityEngine;
                 if (!childobject.activeSelf)
                 {
                      childobject.SetActive(true);
+                    if(other.iftask5)
+                    {
+                    InteractionButton T5InteractionButton = (InteractionButton)T5.GetComponent(typeof(InteractionButton));
+                    T5InteractionButton.controlEnabled = false;
+                    T5.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+                    }
                 }
 
                 //Debug.Log("This childobject menu has been active!");
@@ -51,6 +61,13 @@ using UnityEngine;
                 if (childobject.activeSelf)
                 {
                     childobject.SetActive(false);
+
+                    if (other.iftask6)
+                    {
+                    InteractionButton T6InteractionButton = (InteractionButton)T6.GetComponent(typeof(InteractionButton));
+                    T6InteractionButton.controlEnabled = false;
+                    T6.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+                    }
                 }
 
                 //Debug.Log("This childobject menu has been deactive!");

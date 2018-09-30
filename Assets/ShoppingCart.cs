@@ -10,6 +10,8 @@ using Leap.Unity.Interaction;
 
 public class ShoppingCart : MonoBehaviour {
 
+    public Taskinfo other;
+
     private Vector3 pointZero;
     private Vector3 pointCart;
     private Vector3 pointMove;
@@ -38,10 +40,10 @@ public class ShoppingCart : MonoBehaviour {
             Cart.GetComponent<MeshRenderer>().materials[1] = red;
         }
 
-        if (Vector3.Distance(transform.position, pointCart) < 0.05)
+        if (Vector3.Distance(transform.position, pointCart) < 0.1 && other.iftask10)
         {
             Cart.GetComponent<MeshRenderer>().materials[1].SetColor("_TintColor", Color.red);
-            gameobject.SetActive(false);                                     //销毁物体
+            gameObject.SetActive(false);                                     //销毁物体
             AudioSource.PlayClipAtPoint(clip, transform.position);   //音效
 
             InteractionButton T10InteractionButton = (InteractionButton)T10.GetComponent(typeof(InteractionButton));
