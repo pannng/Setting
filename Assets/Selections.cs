@@ -1,18 +1,22 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using Leap.Unity.Attributes;
+using System;
+using UnityEngine.Events;
+using UnityEngine.Serialization;
+using Leap.Unity.Interaction;
 
 public class Selections : MonoBehaviour {
 
     public AudioClip clip;
+    public Button t7;
+    public Button t8;
+    public GameObject T7;
+    public GameObject T8;
 
-    void Start () {
-		
-	}
-	
-	void Update () {
-		
-	}
+    public Taskinfo other;
 
     public void TocolorA()
     {
@@ -30,6 +34,11 @@ public class Selections : MonoBehaviour {
     {
         transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.green;
         AudioSource.PlayClipAtPoint(clip, transform.position);
+
+        if (other.iftask7)
+        {
+            t7.interactable = false;
+        }
     }
 
     public void ToS()
@@ -48,5 +57,10 @@ public class Selections : MonoBehaviour {
     {
         transform.localScale = new Vector3(1.5F, 1.5F, 1.5F);
         AudioSource.PlayClipAtPoint(clip, transform.position);
+
+        if (other.iftask8)
+        {
+            t8.interactable = false;
+        }
     }
 }

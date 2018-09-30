@@ -2,6 +2,14 @@
 namespace VRTK
 {
     using UnityEngine;
+    using UnityEngine.UI;
+    using System.Collections;
+    using System.Collections.Generic;
+    using Leap.Unity.Attributes;
+    using System;
+    using UnityEngine.Events;
+    using UnityEngine.Serialization;
+    using Leap.Unity.Interaction;
 
     /// <summary>
     /// Event Payload
@@ -61,6 +69,27 @@ namespace VRTK
         /// Emitted when the panel menu item is open and the user presses the trigger of the controller holding the interactable object.
         /// </summary>
         public event PanelMenuItemControllerEventHandler PanelMenuItemGripPressed;
+    //****************************
+        public delegate void GetCurrentObject();
+        public GetCurrentObject getCurrentObject;
+        public AudioClip clip;
+
+        public Button t5;
+        public Button t6;
+
+        public Taskinfo other;
+
+        private void Start()
+        {
+            this.getCurrentObject += AudioPlay;
+        }
+
+        private void AudioPlay()
+        {
+            AudioSource.PlayClipAtPoint(clip, transform.position);
+        }
+
+     //**************************
 
         public virtual void OnPanelMenuItemShowing(PanelMenuItemControllerEventArgs e)
         {
@@ -126,10 +155,17 @@ namespace VRTK
         /// The Show method is used to show the menu.
         /// </summary>
         /// <param name="interactableObject">The object the menu is attached to.</param>
+        /// ********************************************************************************************************************
         public virtual void Show(GameObject interactableObject)
         {
             gameObject.SetActive(true);
             OnPanelMenuItemShowing(SetPanelMenuItemEvent(interactableObject));
+
+            if (other.iftask5)
+            {
+                this.getCurrentObject();
+                t5.interactable = false;
+            }
         }
 
         /// <summary>
@@ -140,6 +176,11 @@ namespace VRTK
         {
             gameObject.SetActive(false);
             OnPanelMenuItemHiding(SetPanelMenuItemEvent(interactableObject));
+            if (other.iftask6)
+            {
+                this.getCurrentObject();
+                t6.interactable = false;
+            }
         }
 
         /// <summary>

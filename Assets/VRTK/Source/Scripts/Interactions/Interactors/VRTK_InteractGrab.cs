@@ -93,6 +93,7 @@ namespace VRTK
             }
         }
 
+
         public virtual void OnControllerStartGrabInteractableObject(ObjectInteractEventArgs e)
         {
             if (ControllerStartGrabInteractableObject != null)

@@ -2,10 +2,17 @@
 namespace VRTK
 {
     using UnityEngine;
+    using UnityEngine.UI;
     using System.Collections;
     using System.Collections.Generic;
     using GrabAttachMechanics;
     using SecondaryControllerGrabActions;
+    using Leap.Unity.Attributes;
+    using System;
+    using UnityEngine.Events;
+    using UnityEngine.Serialization;
+    using Leap.Unity.Interaction;
+
 
     /// <summary>
     /// Event Payload
@@ -288,6 +295,7 @@ namespace VRTK
         [HideInInspector]
         public int usingState = 0;
 
+
         /// <summary>
         /// isKinematic is a pass through to the `isKinematic` getter/setter on the Interactable Object's Rigidbody component.
         /// </summary>
@@ -358,11 +366,42 @@ namespace VRTK
             }
         }
 
+        //添加的抓取反馈部分
+        public delegate void GetCurrentObject();
+        public GetCurrentObject getCurrentObject;
+        public AudioClip clip;
+        public Taskinfo other;
+
+        public Button t1;
+        public GameObject T1;
+
+        private void Start()
+        {
+            this.getCurrentObject += AudioPlay;
+        }
+
+        private void AudioPlay()
+        {
+            AudioSource.PlayClipAtPoint(clip, transform.position);
+        }
+     //添加部分尾
+
         public virtual void OnInteractableObjectGrabbed(InteractableObjectEventArgs e)
         {
             if (InteractableObjectGrabbed != null)
             {
                 InteractableObjectGrabbed(this, e);
+                Debug.Log("grab");
+
+                if (other.iftask1)
+                {
+                    this.getCurrentObject();
+
+                    InteractionButton T1InteractionButton = (InteractionButton)T1.GetComponent(typeof(InteractionButton));
+                    T1InteractionButton.controlEnabled = false;
+                    T1.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+                    t1.interactable = false;
+                }
             }
         }
 
@@ -452,13 +491,17 @@ namespace VRTK
         /// </summary>
         /// <param name="grabbedBy">An optional GameObject to check if the Interactable Object is grabbed by that specific GameObject. Defaults to `null`</param>
         /// <returns>Returns `true` if the Interactable Object is currently being grabbed.</returns>
+
+
         public virtual bool IsGrabbed(GameObject grabbedBy = null)
         {
+            
             if (grabbingObjects.Count > 0 && grabbedBy != null)
-            {
+            {              
                 return (grabbingObjects.Contains(grabbedBy));
             }
             return (grabbingObjects.Count > 0);
+    
         }
 
         /// <summary>
