@@ -8,7 +8,8 @@ using UnityEngine.Events;
 using UnityEngine.Serialization;
 using Leap.Unity.Interaction;
 
-public class Selections : MonoBehaviour {
+public class Selections : MonoBehaviour
+{
 
     public AudioClip clip;
     public Button t7;
@@ -17,6 +18,8 @@ public class Selections : MonoBehaviour {
     public GameObject T8;
 
     public Taskinfo other;
+
+    public Timer timer;
 
     public void TocolorA()
     {
@@ -38,6 +41,7 @@ public class Selections : MonoBehaviour {
         if (other.iftask7)
         {
             t7.interactable = false;
+            timer.PauseTiming();
         }
     }
 
@@ -61,6 +65,7 @@ public class Selections : MonoBehaviour {
         if (other.iftask8)
         {
             t8.interactable = false;
+            timer.PauseTiming();
         }
     }
 }

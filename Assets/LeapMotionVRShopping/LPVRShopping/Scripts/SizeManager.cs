@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using Leap.Unity.Interaction;
 
-public class SizeManager : MonoBehaviour {
+public class SizeManager : MonoBehaviour
+{
 
     public enum ManipulatedObjectSize
     {
@@ -16,6 +17,7 @@ public class SizeManager : MonoBehaviour {
     GameObject originalObject;
     public GameObject T8;
     public Taskinfo other;
+    public Timer timer;
 
     Vector3 originalScale;
 
@@ -125,6 +127,7 @@ public class SizeManager : MonoBehaviour {
             InteractionButton T8InteractionButton = (InteractionButton)T8.GetComponent(typeof(InteractionButton));
             T8InteractionButton.controlEnabled = false;
             T8.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            timer.PauseTiming();
         }
     }
 }

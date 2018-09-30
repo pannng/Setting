@@ -8,7 +8,8 @@ using UnityEngine.Events;
 using UnityEngine.Serialization;
 using Leap.Unity.Interaction;
 
-public class TryingOn : MonoBehaviour {
+public class TryingOn : MonoBehaviour
+{
 
     private Vector3 pointZero;
     private Vector3 pointBody;
@@ -21,6 +22,8 @@ public class TryingOn : MonoBehaviour {
     public AudioClip clip;
 
     public Taskinfo other;
+
+    public Timer timer;
 
     void Start()
     {
@@ -41,6 +44,7 @@ public class TryingOn : MonoBehaviour {
             T9InteractionButton.controlEnabled = false;
             T9.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
             t9.interactable = false;
+            timer.PauseTiming();
         }
     }
 }

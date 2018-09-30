@@ -7,7 +7,8 @@ using UnityEngine.Events;
 using UnityEngine.Serialization;
 using Leap.Unity.Interaction;
 
-public class ColorManager : MonoBehaviour {
+public class ColorManager : MonoBehaviour
+{
 
     public enum ManipulatedObjectColor
     {
@@ -22,19 +23,21 @@ public class ColorManager : MonoBehaviour {
     public Taskinfo other;
     Renderer rend;
 
+    public Timer timer;
 
-	// Use this for initialization
-	void Start () 
+
+    // Use this for initialization
+    void Start()
     {
         DetectionManager.Get().getCurrentObject += GetColorObj;
-            //DetectionManager.Get().getCurrentObj += GetColorObj;
+        //DetectionManager.Get().getCurrentObj += GetColorObj;
     }
 
 
     // Update is called once per frame
-	void Update () 
+    void Update()
     {
-      
+
         //m_object = DetectionManager.Get().GetCurrentGameObject();
         //rend = m_object.GetComponent<Renderer>();
     }
@@ -61,6 +64,7 @@ public class ColorManager : MonoBehaviour {
             InteractionButton T7InteractionButton = (InteractionButton)T7.GetComponent(typeof(InteractionButton));
             T7InteractionButton.controlEnabled = false;
             T7.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            timer.PauseTiming();
         }
     }
 

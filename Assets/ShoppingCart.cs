@@ -8,7 +8,8 @@ using UnityEngine.Events;
 using UnityEngine.Serialization;
 using Leap.Unity.Interaction;
 
-public class ShoppingCart : MonoBehaviour {
+public class ShoppingCart : MonoBehaviour
+{
 
     public Taskinfo other;
 
@@ -26,11 +27,15 @@ public class ShoppingCart : MonoBehaviour {
     public Button t10;
     public GameObject T10;
 
-    void Start () {
+    public Timer timer;
+
+    void Start()
+    {
         pointZero = transform.position;
     }
 
-    public void Update () {
+    public void Update()
+    {
         pointMove = gameObject.transform.position;           //实时获取物体的位置
         pointCart = Cart.GetComponent<Transform>().position; //实时获取购物车的位置
 
@@ -50,6 +55,7 @@ public class ShoppingCart : MonoBehaviour {
             T10InteractionButton.controlEnabled = false;
             T10.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
             t10.interactable = false;
+            timer.PauseTiming();
         }
 
 
