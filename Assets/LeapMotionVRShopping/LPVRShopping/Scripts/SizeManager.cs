@@ -18,6 +18,7 @@ public class SizeManager : MonoBehaviour
     public GameObject T8;
     public Taskinfo other;
     public Timer timer;
+    public AudioClip complete;
 
     Vector3 originalScale;
 
@@ -128,6 +129,7 @@ public class SizeManager : MonoBehaviour
             T8InteractionButton.controlEnabled = false;
             T8.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
             timer.PauseTiming();
+            AudioSource.PlayClipAtPoint(complete, transform.position);
         }
     }
 }

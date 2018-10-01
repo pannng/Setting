@@ -12,6 +12,7 @@ public class Selections : MonoBehaviour
 {
 
     public AudioClip clip;
+    public AudioClip complete;
     public Button t7;
     public Button t8;
     public GameObject T7;
@@ -36,7 +37,7 @@ public class Selections : MonoBehaviour
     public void TocolorC()
     {
         transform.GetChild(0).GetComponent<MeshRenderer>().materials[1].color = Color.green;
-        AudioSource.PlayClipAtPoint(clip, transform.position);
+        AudioSource.PlayClipAtPoint(complete, transform.position);
 
         if (other.iftask7)
         {
@@ -60,7 +61,7 @@ public class Selections : MonoBehaviour
     public void ToL()
     {
         transform.localScale = new Vector3(1.5F, 1.5F, 1.5F);
-        AudioSource.PlayClipAtPoint(clip, transform.position);
+        AudioSource.PlayClipAtPoint(complete, transform.position);
 
         if (other.iftask8)
         {

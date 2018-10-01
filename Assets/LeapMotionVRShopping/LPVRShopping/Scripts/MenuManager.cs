@@ -12,6 +12,7 @@ public class MenuManager : MonoBehaviour
     public GameObject T5;
     public GameObject T6;
     public Timer timer;
+    public AudioClip complete;
 
 
     void Start()
@@ -48,6 +49,7 @@ public class MenuManager : MonoBehaviour
                     T5InteractionButton.controlEnabled = false;
                     T5.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
                     timer.PauseTiming();
+                    AudioSource.PlayClipAtPoint(complete, transform.position);
                 }
             }
 
@@ -70,6 +72,7 @@ public class MenuManager : MonoBehaviour
                     T6InteractionButton.controlEnabled = false;
                     T6.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
                     timer.PauseTiming();
+                    AudioSource.PlayClipAtPoint(complete, transform.position);
                 }
             }
 

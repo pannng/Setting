@@ -19,6 +19,7 @@ public class Taskinfo : MonoBehaviour {
     public Vector3 positionZero;
     public Vector3 rotationZero;
 
+    public GameObject biaoqian;
     public GameObject Big;
     public GameObject Origin;
     public GameObject Bag;
@@ -55,6 +56,7 @@ public class Taskinfo : MonoBehaviour {
     }
 
     public void Task1() {
+        biaoqian.SetActive(false);
         iftask1 = true;
         Bag.SetActive(true);
         TaskNum.text = "Task 1  Grab 抓取";

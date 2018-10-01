@@ -24,6 +24,7 @@ public class ColorManager : MonoBehaviour
     Renderer rend;
 
     public Timer timer;
+    public AudioClip complete;
 
 
     // Use this for initialization
@@ -65,6 +66,7 @@ public class ColorManager : MonoBehaviour
             T7InteractionButton.controlEnabled = false;
             T7.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
             timer.PauseTiming();
+            AudioSource.PlayClipAtPoint(complete, transform.position);
         }
     }
 
