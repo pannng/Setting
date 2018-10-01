@@ -15,8 +15,8 @@ public class RotationFeedback : MonoBehaviour
 
     public float presentRotationY;
 
-    public Button t4;
-    public GameObject T4;
+    //public Button t4;
+    //public GameObject T4;
 
     public AudioClip clip;
 
@@ -48,15 +48,15 @@ public class RotationFeedback : MonoBehaviour
 
         }
 
-        if (presentRotationY > 179 && presentRotationY < 181 && CoolDownLeft <= 0.0F && other.iftask4)
+        if (presentRotationY > 179 && presentRotationY < 181 && CoolDownLeft <= 0.0f && other.iftask4)
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
             CoolDownLeft = CoolDownTime;
 
-            InteractionButton T4InteractionButton = (InteractionButton)T4.GetComponent(typeof(InteractionButton));
-            T4InteractionButton.controlEnabled = false;
-            T4.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-            t4.interactable = false;
+            //InteractionButton T4InteractionButton = (InteractionButton)T4.GetComponent(typeof(InteractionButton));
+            //T4InteractionButton.controlEnabled = false;
+            //T4.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            //t4.interactable = false;
             timer.PauseTiming();
         }
     }

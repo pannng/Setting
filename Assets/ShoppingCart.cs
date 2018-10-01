@@ -24,10 +24,12 @@ public class ShoppingCart : MonoBehaviour
     public float bigScale;
     public float smallScale;
 
-    public Button t10;
-    public GameObject T10;
+    //public Button t10;
+    //public GameObject T10;
 
     public Timer timer;
+    //public float CoolDownTime = 10f;
+    //float CoolDownLeft = 0.0f;
 
     void Start()
     {
@@ -47,14 +49,15 @@ public class ShoppingCart : MonoBehaviour
 
         if (Vector3.Distance(transform.position, pointCart) < 0.1 && other.iftask10)
         {
+            //CoolDownLeft = CoolDownTime;
             Cart.GetComponent<MeshRenderer>().materials[1].SetColor("_TintColor", Color.red);
             gameObject.SetActive(false);                                     //销毁物体
             AudioSource.PlayClipAtPoint(clip, transform.position);   //音效
 
-            InteractionButton T10InteractionButton = (InteractionButton)T10.GetComponent(typeof(InteractionButton));
-            T10InteractionButton.controlEnabled = false;
-            T10.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-            t10.interactable = false;
+            //InteractionButton T10InteractionButton = (InteractionButton)T10.GetComponent(typeof(InteractionButton));
+            //T10InteractionButton.controlEnabled = false;
+            //T10.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            //t10.interactable = false;
             timer.PauseTiming();
         }
 

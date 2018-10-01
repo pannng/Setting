@@ -18,10 +18,10 @@ public class ScalingFeedback : MonoBehaviour
     public GameObject Small;
     public GameObject Origin;
 
-    public Button t2;
-    public Button t3;
-    public GameObject T2;
-    public GameObject T3;
+    //public Button t2;
+    //public Button t3;
+    //public GameObject T2;
+    //public GameObject T3;
 
     public Timer timer;
 
@@ -52,29 +52,29 @@ public class ScalingFeedback : MonoBehaviour
 
         }
 
-        if (presentScaleX > 1.99 && presentScaleX < 2.01 && CoolDownLeft <= 0.0F && other.iftask2) //尺寸接近2倍的时候，播放音效
+        if (presentScaleX > 1.99 && presentScaleX < 2.01 && CoolDownLeft <= 0.0f && other.iftask2) //尺寸接近2倍的时候，播放音效
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
             CoolDownLeft = CoolDownTime;
             Big.SetActive(false);
 
-            InteractionButton T2InteractionButton = (InteractionButton)T2.GetComponent(typeof(InteractionButton));
-            T2InteractionButton.controlEnabled = false;
-            T2.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-            t2.interactable = false;
+            //InteractionButton T2InteractionButton = (InteractionButton)T2.GetComponent(typeof(InteractionButton));
+            //T2InteractionButton.controlEnabled = false;
+            //T2.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            //t2.interactable = false;
             timer.PauseTiming();
         }
 
-        if (presentScaleX > 0.79 && presentScaleX < 0.81 && CoolDownLeft <= 0.0F && other.iftask3) //尺寸接近1倍的时候，播放音效
+        if (presentScaleX > 0.89 && presentScaleX < 0.91 && CoolDownLeft <= 0.0f && other.iftask3) //尺寸接近1倍的时候，播放音效
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
             CoolDownLeft = CoolDownTime;
             Origin.SetActive(false);
 
-            InteractionButton T3InteractionButton = (InteractionButton)T3.GetComponent(typeof(InteractionButton));
-            T3InteractionButton.controlEnabled = false;
-            T3.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-            t3.interactable = false;
+            //InteractionButton T3InteractionButton = (InteractionButton)T3.GetComponent(typeof(InteractionButton));
+            //T3InteractionButton.controlEnabled = false;
+            //T3.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            //t3.interactable = false;
             timer.PauseTiming();
         }
     }

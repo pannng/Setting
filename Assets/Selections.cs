@@ -13,8 +13,8 @@ public class Selections : MonoBehaviour
 
     public AudioClip clip;
     public AudioClip complete;
-    public Button t7;
-    public Button t8;
+    //public Button t7;
+    //public Button t8;
     public GameObject T7;
     public GameObject T8;
 
@@ -41,7 +41,7 @@ public class Selections : MonoBehaviour
 
         if (other.iftask7)
         {
-            t7.interactable = false;
+            //t7.interactable = false;
             timer.PauseTiming();
         }
     }
@@ -65,7 +65,7 @@ public class Selections : MonoBehaviour
 
         if (other.iftask8)
         {
-            t8.interactable = false;
+            //t8.interactable = false;
             timer.PauseTiming();
         }
     }

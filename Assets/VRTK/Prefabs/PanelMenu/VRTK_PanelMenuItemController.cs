@@ -74,8 +74,8 @@ namespace VRTK
         public GetCurrentObject getCurrentObject;
         public AudioClip clip;
 
-        public Button t5;
-        public Button t6;
+        //public Button t5;
+        //public Button t6;
 
         public Taskinfo other;
         public Timer timer;
@@ -165,7 +165,7 @@ namespace VRTK
             if (other.iftask5)
             {
                 this.getCurrentObject();
-                t5.interactable = false;
+                //t5.interactable = false;
                 timer.PauseTiming();
             }
         }
@@ -181,7 +181,7 @@ namespace VRTK
             if (other.iftask6)
             {
                 this.getCurrentObject();
-                t6.interactable = false;
+                //t6.interactable = false;
                 timer.PauseTiming();
             }
         }

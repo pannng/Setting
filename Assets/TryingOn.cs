@@ -11,23 +11,25 @@ using Leap.Unity.Interaction;
 public class TryingOn : MonoBehaviour
 {
 
-    private Vector3 pointZero;
+    //private Vector3 pointZero;
     private Vector3 pointBody;
     private Vector3 pointMove;
     public GameObject Body;
 
-    public Button t9;
-    public GameObject T9;
+    //public Button t9;
+    //public GameObject T9;
 
     public AudioClip clip;
 
     public Taskinfo other;
 
     public Timer timer;
+    //public float CoolDownTime = 10f;
+    //float CoolDownLeft = 0.0f;
 
     void Start()
     {
-        pointZero = transform.position;
+        //pointZero = transform.position;
     }
 
     public void Update()
@@ -40,10 +42,10 @@ public class TryingOn : MonoBehaviour
             gameObject.SetActive(false);                                     //销毁物体
             AudioSource.PlayClipAtPoint(clip, transform.position);   //音效
 
-            InteractionButton T9InteractionButton = (InteractionButton)T9.GetComponent(typeof(InteractionButton));
-            T9InteractionButton.controlEnabled = false;
-            T9.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-            t9.interactable = false;
+            //InteractionButton T9InteractionButton = (InteractionButton)T9.GetComponent(typeof(InteractionButton));
+            //T9InteractionButton.controlEnabled = false;
+            //T9.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            //t9.interactable = false;
             timer.PauseTiming();
         }
     }

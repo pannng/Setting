@@ -372,8 +372,8 @@ namespace VRTK
         public AudioClip clip;
         public Taskinfo other;
 
-        public Button t1;
-        public GameObject T1;
+        //public Button t1;
+        //public GameObject T1;
 
         private void Start()
         {
@@ -391,16 +391,10 @@ namespace VRTK
             if (InteractableObjectGrabbed != null)
             {
                 InteractableObjectGrabbed(this, e);
-                Debug.Log("grab");
 
                 if (other.iftask1)
                 {
                     this.getCurrentObject();
-
-                    InteractionButton T1InteractionButton = (InteractionButton)T1.GetComponent(typeof(InteractionButton));
-                    T1InteractionButton.controlEnabled = false;
-                    T1.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
-                    t1.interactable = false;
                 }
             }
         }

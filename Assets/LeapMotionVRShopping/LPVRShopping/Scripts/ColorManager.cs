@@ -19,7 +19,7 @@ public class ColorManager : MonoBehaviour
 
     GameObject m_object;
     GameObject childobject;
-    public GameObject T7;
+    //public GameObject T7;
     public Taskinfo other;
     Renderer rend;
 
@@ -62,9 +62,9 @@ public class ColorManager : MonoBehaviour
         rend.materials[1].color = Color.green;
         if (other.iftask7)
         {
-            InteractionButton T7InteractionButton = (InteractionButton)T7.GetComponent(typeof(InteractionButton));
-            T7InteractionButton.controlEnabled = false;
-            T7.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            //InteractionButton T7InteractionButton = (InteractionButton)T7.GetComponent(typeof(InteractionButton));
+            //T7InteractionButton.controlEnabled = false;
+            //T7.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
             timer.PauseTiming();
             AudioSource.PlayClipAtPoint(complete, transform.position);
         }

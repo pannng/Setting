@@ -15,7 +15,7 @@ public class SizeManager : MonoBehaviour
 
     GameObject m_object;
     GameObject originalObject;
-    public GameObject T8;
+    //public GameObject T8;
     public Taskinfo other;
     public Timer timer;
     public AudioClip complete;
@@ -125,9 +125,9 @@ public class SizeManager : MonoBehaviour
 
         if (other.iftask8)
         {
-            InteractionButton T8InteractionButton = (InteractionButton)T8.GetComponent(typeof(InteractionButton));
-            T8InteractionButton.controlEnabled = false;
-            T8.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
+            //InteractionButton T8InteractionButton = (InteractionButton)T8.GetComponent(typeof(InteractionButton));
+            //T8InteractionButton.controlEnabled = false;
+            //T8.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
             timer.PauseTiming();
             AudioSource.PlayClipAtPoint(complete, transform.position);
         }
