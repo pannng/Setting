@@ -105,7 +105,7 @@ public class Taskinfo : MonoBehaviour {
         Big.SetActive(true);
 
         TaskNum.text = "Task 2  Enlarge 放大";
-        Taskc.text = "\n\n请放大红色背包至2倍大小，具体大小将由黄色框体提示\n\n放大成功时，您将听到提示音";
+        Taskc.text = "\n\n请放大红色背包至2倍大小，具体大小将由黄色框体提示\n（框体仅用于示意大小）\n\n放大成功时，您将听到提示音";
         Taske.text = "\nPlease enlarge the red bag to 2 times.\nThe target size is shown by the yellow frame.\n\nIf successful, you will hear a sound";
         AudioSource.PlayClipAtPoint(clip, transform.position);
     }
@@ -171,14 +171,15 @@ public class Taskinfo : MonoBehaviour {
 
     public void Task6()
     {
+        iftask5 = false;
+        iftask6 = true;
+        Bag.SetActive(true);
+
+        ShowtheMenu();
         InteractionButton T6InteractionButton = (InteractionButton)T6.GetComponent(typeof(InteractionButton));
         T6InteractionButton.controlEnabled = false;
         T6.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
         t6.interactable = false;
-
-        iftask5 = false;
-        iftask6 = true;
-        Bag.SetActive(true);
 
         TaskNum.text = "Task 6  Close product details 关闭商品详情";
         Taskc.text = "\n请关闭商品详情页面";
@@ -256,8 +257,8 @@ public class Taskinfo : MonoBehaviour {
         Bag.SetActive(true);
 
         TaskNum.text = "Task 10  Add to cart 添加到购物车";
-        Taskc.text = "\n请将背包加入购物车\n\n加入购物车成功时，您将听到提示音";
-        Taske.text = "\nPlease add the bag to the cart.\n\nIf successful, you will hear a sound";
+        Taskc.text = "\n请将背包加入购物车，购物车是您视野右上方的气泡\n\n加入购物车成功时，您将听到提示音，购物车变成红色";
+        Taske.text = "\nPlease add the bag to the cart, the bubble on the top right of your view.\n\nIf successful, you will hear a sound and the cart will turn red.";
         AudioSource.PlayClipAtPoint(clip, transform.position);
     }
 }

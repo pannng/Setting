@@ -66,7 +66,7 @@ public class Timer : MonoBehaviour
     public int number;
     public string m_name;
 
-    public int delayTime = 30;
+    public int delayTime = 10;
     public Taskinfo taskinfo;
     [SerializeField]
     private string path;

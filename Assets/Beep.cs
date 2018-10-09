@@ -13,7 +13,7 @@ public class Beep : MonoBehaviour {
 
     public void DelaySound()
     {
-        Invoke("BeepPlay", 20);
+        Invoke("BeepPlay", 10);
     }
 
 }
