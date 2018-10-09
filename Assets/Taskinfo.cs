@@ -175,7 +175,6 @@ public class Taskinfo : MonoBehaviour {
         iftask6 = true;
         Bag.SetActive(true);
 
-        ShowtheMenu();
         InteractionButton T6InteractionButton = (InteractionButton)T6.GetComponent(typeof(InteractionButton));
         T6InteractionButton.controlEnabled = false;
         T6.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;

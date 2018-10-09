@@ -28,6 +28,7 @@ public class LPTask1ButtonControl : MonoBehaviour
             //T1.transform.GetChild(0).GetChild(0).GetComponent<MeshRenderer>().materials[0].color = Color.grey;
             AudioSource.PlayClipAtPoint(clip, transform.position);
             timer.PauseTiming();
+            Debug.Log("第一个计时停止");
         }
     }
 

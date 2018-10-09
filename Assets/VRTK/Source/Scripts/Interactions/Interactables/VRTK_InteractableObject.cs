@@ -371,6 +371,7 @@ namespace VRTK
         public GetCurrentObject getCurrentObject;
         public AudioClip clip;
         public Taskinfo other;
+        public Timer timer;
 
         //public Button t1;
         //public GameObject T1;
@@ -383,6 +384,7 @@ namespace VRTK
         private void AudioPlay()
         {
             AudioSource.PlayClipAtPoint(clip, transform.position);
+            timer.PauseTiming();
         }
      //添加部分尾
 
