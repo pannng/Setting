@@ -8,6 +8,7 @@ using System.IO;
 [Serializable]
 public class TimerData
 {
+    public string playerMode = "beaming";
     public int playerNumber;
     public string playerName = "Anonymous";
     public string playerDate = "20180901";
@@ -26,6 +27,7 @@ public class TimerData
     public float timeBoxPanel_10;
 
     public TimerData(
+        string mode,
         int number,
         string name,
         string date,
@@ -42,6 +44,7 @@ public class TimerData
         float m_timeBoxPanel_10
     )
     {
+        playerMode = mode;
         playerNumber = number;
         playerName = name;
         playerDate = date;
@@ -62,6 +65,7 @@ public class TimerData
 
 public class Timer : MonoBehaviour
 {
+    public string m_mode;
     public string date;
     public int number;
     public string m_name;
@@ -185,6 +189,7 @@ public class Timer : MonoBehaviour
         //}
 
         TimerData timerData = new TimerData(
+            m_mode,
             number,
             m_name,
             date,
