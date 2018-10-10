@@ -175,7 +175,11 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_LocalPosition: {x: -3.2900217, y: -0.00042176, z: -1.3914758}
+>>>>>>> parent of dba8edb... 小修改
 =======
   m_LocalPosition: {x: -3.2900217, y: -0.00042176, z: -1.3914758}
 >>>>>>> parent of dba8edb... 小修改
