@@ -162,7 +162,7 @@ namespace VRTK
             gameObject.SetActive(true);
             OnPanelMenuItemShowing(SetPanelMenuItemEvent(interactableObject));
 
-            if (other.iftask5 || other.iftask6)
+            if (other.iftask5)
             {
                 this.getCurrentObject();
                 //t5.interactable = false;
@@ -182,7 +182,7 @@ namespace VRTK
             {
                 this.getCurrentObject();
                 //t6.interactable = false;
-                //timer.PauseTiming();
+                timer.PauseTiming();
             }
         }
 
